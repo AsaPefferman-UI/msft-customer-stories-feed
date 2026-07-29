@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Microsoft Customer Stories (unofficial)</title>
+    <link>https://www.microsoft.com/en-us/customers</link>
+    <description>Unofficial feed of Microsoft customer success stories.</description>
+    <language>en</language>
+    <atom:link rel="self" href="" type="application/rss+xml" />
+    <item>
+      <title>Krones cuts simulation run times by up to 98% with AI agents and Azure High-Performance Computing</title>
+      <link>https://www.microsoft.com/en/customers/story/26951-krones-azure-hpc</link>
+      <description>Industry: Industrials and Manufacturing — “It was an outstanding experience on how quickly things can run with the right partners.”</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26951-krones-azure-hpc</guid>
+      <pubDate>Mon, 27 Jul 2026 19:33:25 +0000</pubDate>
+      <category>Industrials and Manufacturing</category>
+      <category>Azure HPC</category>
+      <category>Azure</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26951_Krones%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Peterborough Regional Health Centre turns fragmented data into trusted insight</title>
+      <link>https://www.microsoft.com/en/customers/story/26793-peterborough-civic-hospital-onelake</link>
+      <description>Industry: Healthcare — “We started fairly simple by embedding Copilot on top of our analytics, letting people ask natural language questions of the data, and helping clinicians get curious without having to go learn how to code. This early work helped staff engage with data in a more accessible way while maintaining trust.”</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26793-peterborough-civic-hospital-onelake</guid>
+      <pubDate>Fri, 24 Jul 2026 18:50:05 +0000</pubDate>
+      <category>Healthcare</category>
+      <category>OneLake</category>
+      <category>Microsoft Foundry</category>
+      <category>Microsoft Fabric</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26793_Peterborough%20Civic%20Hospital%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Brown Health scales Microsoft Dragon Copilot and AI agents to ease care delivery</title>
+      <link>https://www.microsoft.com/en/customers/story/26765-brown-university-health-microsoft-365-copilot</link>
+      <description>Industry: Healthcare — “Now, I can focus on what I think is going on with you and hearing you and being with you. The documentation is happening in parallel with engagement with the patient.”</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26765-brown-university-health-microsoft-365-copilot</guid>
+      <pubDate>Fri, 24 Jul 2026 16:10:46 +0000</pubDate>
+      <category>Healthcare</category>
+      <category>Microsoft 365 Copilot</category>
+      <category>Azure AI Health Bot</category>
+      <category>Microsoft Dragon Copilot</category>
+      <category>Microsoft Copilot Studio</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26765_Brown%20University%20Health%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Smart sales with AI: Rhenus banks on Dynamics 365 to enable more focus on customers</title>
+      <link>https://www.microsoft.com/en/customers/story/26950-rhenus-logistics-dynamics-365-customer-service</link>
+      <description>Industry: Automotive, Mobility, and Transportation — “With Dynamics 365, we not only modernized our processes—we set a new direction for our customer strategy. With Dynamics 365, we established a platform that, in the technical sphere, reflects our group-wide sales standards.”</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26950-rhenus-logistics-dynamics-365-customer-service</guid>
+      <pubDate>Fri, 24 Jul 2026 13:56:41 +0000</pubDate>
+      <category>Automotive, Mobility, and Transportation</category>
+      <category>Dynamics 365 Customer Service</category>
+      <category>Dynamics 365</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26950_Rhenus%20Logistics%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>NHS Scotland delivers a higher standard of cancer care using Microsoft Power Platform</title>
+      <link>https://www.microsoft.com/en/customers/story/26941-nhs-scotland-microsoft-power-platform</link>
+      <description>Industry: Healthcare — “We were able to customize our MDT solution with Power Platform in a way that instantly resonated with our users.”</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26941-nhs-scotland-microsoft-power-platform</guid>
+      <pubDate>Fri, 24 Jul 2026 09:36:16 +0000</pubDate>
+      <category>Healthcare</category>
+      <category>Microsoft Power Platform</category>
+      <category>Power Apps</category>
+      <category>Power Automate</category>
+      <category>Dataverse</category>
+      <category>Microsoft Entra ID</category>
+      <category>Microsoft Copilot Studio</category>
+      <category>Microsoft Foundry</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26941_NHS%20Scotland%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>GN Store Nord insources global supply chain with Dynamics 365 Warehouse Only Mode</title>
+      <link>https://www.microsoft.com/en/customers/story/26939-gn-store-nord-dynamics-365</link>
+      <description>Industry: Healthcare — “Warehouse Only Mode helped shift GN from an ERP-centric warehouse setup to a modular platform model. It has strengthened control, improved scalability, and created a stronger foundation for future automation, innovation, and operational change.”</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26939-gn-store-nord-dynamics-365</guid>
+      <pubDate>Fri, 24 Jul 2026 01:59:49 +0000</pubDate>
+      <category>Healthcare</category>
+      <category>Healthcare</category>
+      <category>Dynamics 365</category>
+      <category>Dynamics 365 Supply Chain Management</category>
+      <category>Power Automate</category>
+      <category>Microsoft Copilot Studio</category>
+      <category>Dynamics 365 Finance</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26939_GN%20Store%20Nord%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Central Coast Council serves 355,000 citizens anytime, anywhere with Surface 5G</title>
+      <link>https://www.microsoft.com/en/customers/story/26945-central-coast-council-surface</link>
+      <description>Industry: Government — “With Copilot and Surface devices, workers in the field can search through a 300-page document in seconds, find the most efficient way to fix a water main break, and complete it within the mandated 4-hour timeframe.”</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26945-central-coast-council-surface</guid>
+      <pubDate>Thu, 23 Jul 2026 13:51:53 +0000</pubDate>
+      <category>Government</category>
+      <category>Surface</category>
+      <category>Microsoft 365</category>
+      <category>Microsoft Copilot</category>
+      <category>Windows Autopilot</category>
+      <category>Microsoft Intune</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26945_Central%20Coast%20Council%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Kawasaki builds scalable robotics as a service platform with Azure Kubernetes Service</title>
+      <link>https://www.microsoft.com/en/customers/story/26946-kawasaki-heavy-industries-azure-kubernetes-service</link>
+      <description>Industry: Industrials and Manufacturing — “Azure Kubernetes Service gave us a consistent platform for deploying robotics applications across environments. Instead of rebuilding software for each implementation, we can develop capabilities once and scale them across deployments.”</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26946-kawasaki-heavy-industries-azure-kubernetes-service</guid>
+      <pubDate>Thu, 23 Jul 2026 12:56:21 +0000</pubDate>
+      <category>Industrials and Manufacturing</category>
+      <category>Azure Kubernetes Service</category>
+      <category>Azure OpenAI in Foundry Models</category>
+      <category>Azure Cosmos DB</category>
+      <category>Azure Digital Twins</category>
+      <category>IoT Operations</category>
+      <category>Azure</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26946_Kawasaki%20Heavy%20Industries%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title> Stadt Rosenheim modernizes operations and strengthens governance with Microsoft 365 
+</title>
+      <link>https://www.microsoft.com/en/customers/story/26944-stadt-rosenheim-microsoft-365</link>
+      <description>Industry: Government — “A modern workplace is a foundational building block for us. It’s what allows us to become more digital and data-driven, while still ensuring governance, sovereignty, and long-term control over our IT landscape.”</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26944-stadt-rosenheim-microsoft-365</guid>
+      <pubDate>Wed, 29 Jul 2026 15:35:51 +0000</pubDate>
+      <category>Government</category>
+      <category>Microsoft 365</category>
+      <category>Microsoft Entra ID</category>
+      <category>Microsoft Teams</category>
+      <category>SharePoint</category>
+      <category>Exchange Online</category>
+      <category>Microsoft Copilot</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26944_Stadt%20Rosenheim%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title> Direct Pojišťovna automates claims, cutting processing time by 87% with Azure AI 
+</title>
+      <link>https://www.microsoft.com/en/customers/story/26862-direct-pojistovna-azure-document-intelligence-in-foundry-tools</link>
+      <description>Industry: Financial Services — “This was innovative technology. It was transformative for the company.”</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26862-direct-pojistovna-azure-document-intelligence-in-foundry-tools</guid>
+      <pubDate>Tue, 28 Jul 2026 14:48:18 +0000</pubDate>
+      <category>Financial Services</category>
+      <category>Azure Document Intelligence in Foundry Tools</category>
+      <category>Microsoft Foundry</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26862_Direct%20Pojistovna%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>MAIRE redefines global engineering with 100+ use cases in Microsoft AI and Autodesk</title>
+      <link>https://www.microsoft.com/en/customers/story/26868-maire-microsoft-foundry</link>
+      <description>Industry: Energy and Resources — “By connecting Microsoft technology and Autodesk solutions, we’ve made our engineering and project data usable through natural language, so teams get immediate answers and can act faster, with less rework and less risk.”</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26868-maire-microsoft-foundry</guid>
+      <pubDate>Wed, 08 Jul 2026 14:41:47 +0000</pubDate>
+      <category>Energy and Resources</category>
+      <category>Microsoft Foundry</category>
+      <category>Microsoft Copilot Studio</category>
+      <category>Microsoft 365 Copilot</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26868_MAIRE%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Transforming comptrollership: PSC cuts travel email inquiries by 90% using M365 Copilot agent</title>
+      <link>https://www.microsoft.com/en/customers/story/26864-public-service-commission-of-canada-microsoft-365-copilot</link>
+      <description>Industry: Government — “When employees feel empowered by senior leadership to develop their own AI solution, it fosters a culture of excellence and innovation that is essential for a modern public service.”</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26864-public-service-commission-of-canada-microsoft-365-copilot</guid>
+      <pubDate>Tue, 07 Jul 2026 18:41:03 +0000</pubDate>
+      <category>Government</category>
+      <category>Microsoft 365 Copilot</category>
+      <category>Microsoft Copilot Studio</category>
+      <category>Microsoft 365 Copilot Chat</category>
+      <category>SharePoint</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26864_Public%20Service%20Commission%20of%20Canada%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Adani Green Energy scales project governance and AI-driven decision-making with Microsoft Power Platform</title>
+      <link>https://www.microsoft.com/en/customers/story/26789-adani-green-energy-power-apps</link>
+      <description>Industry: Energy and Resources — “As our transformation initiatives scaled across the organization, it became important to establish a connected and intelligent operating framework. With Microsoft Power Platform and Copilot Studio, we are building a scalable, AI-enabled Agentic operating model that strengthens decision-making and drives consistency across projects and teams.”</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26789-adani-green-energy-power-apps</guid>
+      <pubDate>Mon, 06 Jul 2026 23:21:40 +0000</pubDate>
+      <category>Energy and Resources</category>
+      <category>Power Apps</category>
+      <category>Power Automate</category>
+      <category>Microsoft Copilot Studio</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26789_Adani%20Green%20Energy%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title> Cancer Council NSW gives staff trusted policy answers in seconds with Copilot Studio 
+</title>
+      <link>https://www.microsoft.com/en/customers/story/26834-cancer-council-nsw-sharepoint</link>
+      <description>Industry: Healthcare — “Genie gives our people fast, trusted access to the policy guidance they need, right inside Teams. By connecting staff to approved, cited information in seconds, we’re improving consistency, reducing reliance on informal advice and building confidence in how AI can support our workforce today and into the future.”</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26834-cancer-council-nsw-sharepoint</guid>
+      <pubDate>Tue, 14 Jul 2026 01:51:02 +0000</pubDate>
+      <category>Healthcare</category>
+      <category>SharePoint</category>
+      <category>Microsoft Teams</category>
+      <category>Microsoft Copilot Studio</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26834_Cancer%20Council%20NSW%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Eczacıbaşı scales AI innovation across sectors with Microsoft Copilot Studio</title>
+      <link>https://www.microsoft.com/en/customers/story/26849-eczacibasi-holding-microsoft-copilot-studio</link>
+      <description>Industry: Industrials and Manufacturing — “Mission AI bridged the gap between experimentation and sustained value creation, embedding AI into strategic decisions and daily business.”</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26849-eczacibasi-holding-microsoft-copilot-studio</guid>
+      <pubDate>Fri, 03 Jul 2026 16:33:27 +0000</pubDate>
+      <category>Industrials and Manufacturing</category>
+      <category>Microsoft Copilot Studio</category>
+      <category>Microsoft Foundry</category>
+      <category>Azure OpenAI in Foundry Models</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26849_ECZACIBASI%20HOLDING%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>AGCO scales employee-built AI agents with Microsoft Copilot Studio</title>
+      <link>https://www.microsoft.com/en/customers/story/26836-agco-corp-word</link>
+      <description>Industry: Commercial Other Industries — “This is not about experimenting with AI for its own sake—it’s about applying it where it matters most. Together with Microsoft, we’re building an AI foundation that helps AGCO move faster, reduce friction, and equip our teams to make better decisions for the farmers and customers we serve.”</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26836-agco-corp-word</guid>
+      <pubDate>Thu, 02 Jul 2026 15:27:35 +0000</pubDate>
+      <category>Commercial Other Industries</category>
+      <category>Word</category>
+      <category>Excel</category>
+      <category>PowerPoint</category>
+      <category>OneDrive</category>
+      <category>SharePoint</category>
+      <category>Microsoft Copilot Studio</category>
+      <category>Microsoft 365 Copilot</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26836_AGCO%20Corp%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Storebrand builds a multi-region cloud foundation to strengthen operational resilience with Azure</title>
+      <link>https://www.microsoft.com/en/customers/story/26839-storebrand-asa-azure</link>
+      <description>Industry: Financial Services — “The key was that we started our cloud journey by building our infrastructure with code, that’s what made it possible to bring the platform online in another region.”</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26839-storebrand-asa-azure</guid>
+      <pubDate>Thu, 02 Jul 2026 14:18:00 +0000</pubDate>
+      <category>Financial Services</category>
+      <category>Financial Services</category>
+      <category>Azure</category>
+      <category>Azure Virtual Machines</category>
+      <category>Microsoft Foundry</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26839_Storebrand%20ASA%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Medicana builds a bespoke patient experience solution on Microsoft Power Platform</title>
+      <link>https://www.microsoft.com/en/customers/story/26844-medicana-health-group-microsoft-power-platform</link>
+      <description>Industry: Healthcare — “We’re excited by the possibilities this new platform has opened for us. And we’re ready to welcome all visitors with an excellent patient experience.”</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26844-medicana-health-group-microsoft-power-platform</guid>
+      <pubDate>Thu, 02 Jul 2026 13:34:02 +0000</pubDate>
+      <category>Healthcare</category>
+      <category>Microsoft Power Platform</category>
+      <category>Power Apps</category>
+      <category>Power Automate</category>
+      <category>SharePoint</category>
+      <category>Dynamics 365 Finance</category>
+      <category>Power BI</category>
+      <category>Microsoft Copilot Studio</category>
+      <category>Dataverse</category>
+      <category>Microsoft 365</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26844_Medicana%20Health%20Group%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>BeeKeeperAI uses Azure Confidential Computing to enable protected AI validation on sensitive data</title>
+      <link>https://www.microsoft.com/en/customers/story/26750-beekeeperai-azure-confidential-ledger</link>
+      <description>Industry: Healthcare — “Healthcare organizations shouldn’t have to choose between protecting sensitive data and advancing innovation. We wanted to create a way for multiple parties to securely ‘escrow’ what matters most while enabling faster collaboration.”</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26750-beekeeperai-azure-confidential-ledger</guid>
+      <pubDate>Thu, 02 Jul 2026 12:37:01 +0000</pubDate>
+      <category>Healthcare</category>
+      <category>Azure Confidential Ledger</category>
+      <category>Azure Blob Storage</category>
+      <category>Azure DevOps</category>
+      <category>Azure Kubernetes Service</category>
+      <category>Azure Marketplace</category>
+      <category>Azure</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26750_BeeKeeperAI%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>GOL Airlines modernizes airport IT with Microsoft Intune and Microsoft Entra ID</title>
+      <link>https://www.microsoft.com/en/customers/story/26831-gol-linhas-aereas-microsoft-intune</link>
+      <description>Industry: Automotive, Mobility, and Transportation — “When we looked at how Intune and Entra ID connected and created a seamless experience for my tech team, I realized we could achieve the deployment, the efficiency, and hit the KPIs needed to deliver ROI on this project.”</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26831-gol-linhas-aereas-microsoft-intune</guid>
+      <pubDate>Wed, 01 Jul 2026 15:00:16 +0000</pubDate>
+      <category>Automotive, Mobility, and Transportation</category>
+      <category>Microsoft Intune</category>
+      <category>Microsoft Entra ID</category>
+      <category>Microsoft 365</category>
+      <category>Windows Autopilot</category>
+      <category>Windows Hello</category>
+      <category>Power Automate</category>
+      <category>Outlook</category>
+      <category>Microsoft Teams</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26831_GOL%20Linhas%20Aereas%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Struber scales its impact across critical infrastructure with Microsoft 365 Copilot</title>
+      <link>https://www.microsoft.com/en/customers/story/26829-struber-microsoft-365-copilot</link>
+      <description>Industry: Commercial Other Industries — “It wasn't about a single piece of software or joining two bits of software together. It was which platform could provide the 'secure garden' that enabled the creativity for all my employees to experiment with this new way of doing work. And that was Microsoft.”</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26829-struber-microsoft-365-copilot</guid>
+      <pubDate>Wed, 01 Jul 2026 12:13:29 +0000</pubDate>
+      <category>Commercial Other Industries</category>
+      <category>Microsoft 365 Copilot</category>
+      <category>Microsoft Copilot Studio</category>
+      <category>Agents</category>
+      <category>SharePoint</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26829_STRUBER%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Waterbedrijf Groningen turns data into drinking water intelligence with Dynamics 365</title>
+      <link>https://www.microsoft.com/en/customers/story/26828-waterbedrijf-groningen-dynamics-365-finance</link>
+      <description>Industry: Commercial Other Industries — “With Dynamics 365 at the core of MECOMS 365, we moved to a modern cloud platform that gives our teams one trusted view of customers, operations, and data—helping us serve our customers with greater stability, insight, and agility.”</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26828-waterbedrijf-groningen-dynamics-365-finance</guid>
+      <pubDate>Wed, 01 Jul 2026 10:35:39 +0000</pubDate>
+      <category>Commercial Other Industries</category>
+      <category>Government</category>
+      <category>Dynamics 365 Finance</category>
+      <category>Dynamics 365 Customer Service</category>
+      <category>Power BI</category>
+      <category>Power Apps</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26828_Waterbedrijf%20Groningen%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>TeamDynamix reduces IT workloads by up to 70% with Azure data and AI</title>
+      <link>https://www.microsoft.com/en/customers/story/26835-teamdynamix-azure</link>
+      <description>Industry: Professional and Business Services — “We landed on building atop AI capabilities in Azure because we felt that we could deliver value faster, cost-effectively, at scale, and more securely, and the data and privacy policies were the strongest for our customers.”</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26835-teamdynamix-azure</guid>
+      <pubDate>Wed, 01 Jul 2026 00:29:33 +0000</pubDate>
+      <category>Professional and Business Services</category>
+      <category>Software, Data and Platforms</category>
+      <category>Azure</category>
+      <category>Azure Machine Learning</category>
+      <category>Azure OpenAI in Foundry Models</category>
+      <category>Azure Cosmos DB</category>
+      <category>Azure Kubernetes Service</category>
+      <category>Azure AI Search</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26835_TeamDynamix%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>UNTHA UK scales service operations with Dynamics 365, boosting efficiency 60%</title>
+      <link>https://www.microsoft.com/en/customers/story/26832-untha-uk-dynamics-365-business-central</link>
+      <description>Industry: Industrials and Manufacturing — “We knew the architecture, we knew how to use those systems, and Business Central was a wholly integrated platform.”</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26832-untha-uk-dynamics-365-business-central</guid>
+      <pubDate>Tue, 30 Jun 2026 22:04:09 +0000</pubDate>
+      <category>Industrials and Manufacturing</category>
+      <category>Dynamics 365 Business Central</category>
+      <category>Dynamics 365 Sales</category>
+      <category>Dynamics 365 Field Service</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26832_UNTHA%20UK%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>The Fred Hollows Foundation raises more eyesight-saving support with Dynamics 365</title>
+      <link>https://www.microsoft.com/en/customers/story/26813-the-fred-hollows-foundation-dynamics-365-sales</link>
+      <description>Industry: Nonprofit and IGO — “With the system plus our people and relationships at all levels, we’re able to mobilize resources for our work of ending avoidable blindness.”</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26813-the-fred-hollows-foundation-dynamics-365-sales</guid>
+      <pubDate>Tue, 30 Jun 2026 17:18:16 +0000</pubDate>
+      <category>Nonprofit and IGO</category>
+      <category>Dynamics 365 Sales</category>
+      <category>Power Automate</category>
+      <category>Dynamics 365</category>
+      <category>Dynamics 365 AI</category>
+      <category>Outlook</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26813_The%20Fred%20Hollows%20Foundation%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>DTI Group delivers fast, high-accuracy agentic process intelligence using Azure AI</title>
+      <link>https://www.microsoft.com/en/customers/story/26808-dti-group-azure</link>
+      <description>Industry: Software, Data and Platforms — “This shift has fundamentally changed how we grow. We’ve moved from being a solution specialist to a platform company, and that gives us a completely new ability to scale.”</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26808-dti-group-azure</guid>
+      <pubDate>Tue, 30 Jun 2026 17:18:16 +0000</pubDate>
+      <category>Software, Data and Platforms</category>
+      <category>Azure</category>
+      <category>Microsoft Foundry</category>
+      <category>Azure Document Intelligence in Foundry Tools</category>
+      <category>Azure Kubernetes Service</category>
+      <category>Azure Database for PostgreSQL</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26808_DTI%20Group%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>KARL STORZ builds a governed AI foundation with Microsoft 365 Copilot</title>
+      <link>https://www.microsoft.com/en/customers/story/26791-karl-storz-microsoft-365-copilot</link>
+      <description>Industry: Healthcare — “We were most concerned about making sure we had the right guardrails in place from a regulatory compliance perspective.”</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26791-karl-storz-microsoft-365-copilot</guid>
+      <pubDate>Tue, 30 Jun 2026 17:18:16 +0000</pubDate>
+      <category>Healthcare</category>
+      <category>Microsoft 365 Copilot</category>
+      <category>Microsoft 365</category>
+      <category>Microsoft Copilot</category>
+      <category>Microsoft 365 Copilot Chat</category>
+      <category>SharePoint</category>
+      <category>OneDrive</category>
+      <category>Outlook</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26791_KARL%20STORZ%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title> Normain uses Azure to enhance its AI platform, helping boost annual revenue by 250% </title>
+      <link>https://www.microsoft.com/en/customers/story/26799-normain-microsoft-marketplace</link>
+      <description>Industry: Software, Data and Platforms — “Building our product on Azure and positioning Normain on Microsoft Marketplace with other AI models has just been such a commercial facilitator for us. We’ve won contracts from major corporations that wouldn’t have been possible otherwise.”</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26799-normain-microsoft-marketplace</guid>
+      <pubDate>Tue, 30 Jun 2026 17:18:16 +0000</pubDate>
+      <category>Software, Data and Platforms</category>
+      <category>Microsoft Marketplace</category>
+      <category>Azure</category>
+      <category>Azure Document Intelligence in Foundry Tools</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26799_Normain%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>JJ Food Service completes a 21-year Microsoft ERP journey to the cloud with Dynamics 365 Supply Chain Management</title>
+      <link>https://www.microsoft.com/en/customers/story/26802-jj-food-service-dynamics-365-finance</link>
+      <description>Industry: Retail and Consumer Goods — “Migrating from AX 2012, the backbone of our operations for over 12 years, to Dynamics 365 was a major technical undertaking, but Microsoft’s modern tools eased integration. OData and Business Events replaced brittle custom code, and Microsoft Fabric transformed reporting and analytics.”</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26802-jj-food-service-dynamics-365-finance</guid>
+      <pubDate>Tue, 30 Jun 2026 17:18:16 +0000</pubDate>
+      <category>Retail and Consumer Goods</category>
+      <category>Dynamics 365 Finance</category>
+      <category>Dynamics 365 Supply Chain Management</category>
+      <category>Microsoft Fabric</category>
+      <category>Power BI</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26802_JJ%20Food%20Service%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Sirva unifies global mobility operations on a single intelligent platform with Dynamics 365 Contact Center and Copilot Studio</title>
+      <link>https://www.microsoft.com/en/customers/story/26794-sirva-dynamics-365-contact-center</link>
+      <description>Industry: Professional and Business Services — “Our partnership with Microsoft and the adoption of Dynamics 365 has fundamentally reshaped how we deliver mobility services. By connecting people, omnichannel engagement, real-time data, and AI-driven insights, we deliver a more seamless and personalized mobility experience for clients, employees, and Sirva teams.”</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26794-sirva-dynamics-365-contact-center</guid>
+      <pubDate>Tue, 30 Jun 2026 17:18:16 +0000</pubDate>
+      <category>Professional and Business Services</category>
+      <category>Dynamics 365 Contact Center</category>
+      <category>Microsoft Copilot Studio</category>
+      <category>Power Apps</category>
+      <category>Power Automate</category>
+      <category>Azure Communication Services</category>
+      <category>Power BI</category>
+      <category>Agents</category>
+      <category>Microsoft 365 Copilot</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26794_Sirva%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Building the intelligence foundation for the energy transition</title>
+      <link>https://www.microsoft.com/en/customers/story/26785-bkw-fmb-energie-ag-foundry-models</link>
+      <description>Industry: Energy and Resources — “At BKW, our purpose is to make living spaces worth living in. Collaborating with Microsoft helps us translate advanced AI and data capabilities into trusted, scalable foundations for better decisions.”</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26785-bkw-fmb-energie-ag-foundry-models</guid>
+      <pubDate>Tue, 30 Jun 2026 17:18:16 +0000</pubDate>
+      <category>Energy and Resources</category>
+      <category>Foundry Models</category>
+      <category>Microsoft Foundry</category>
+      <category>Azure Container Apps</category>
+      <category>Azure Container Registry</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26785_BKW%20FMB%20Energie%20AG%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title> Azure VMware Solution helps the State of Alaska migrate 1,100+ apps in 21 months </title>
+      <link>https://www.microsoft.com/en/customers/story/26786-alaska-state-government-azure-vmware-solution</link>
+      <description>Industry: Government — “AVS was the difference between success and non-success for us. It was the magic sauce to get us rapidly to the cloud, and I still don't know of any other or better way to do that.”</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26786-alaska-state-government-azure-vmware-solution</guid>
+      <pubDate>Tue, 30 Jun 2026 17:18:16 +0000</pubDate>
+      <category>Government</category>
+      <category>Azure VMware Solution</category>
+      <category>Azure</category>
+      <category>Microsoft Foundry</category>
+      <category>Microsoft 365 Copilot</category>
+      <category>Microsoft 365 Copilot Chat</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26786_Alaska%20State%20Government%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Desjardins modernizes member relationship with Dynamics 365.</title>
+      <link>https://www.microsoft.com/en/customers/story/26766-desjardins-dynamics-365</link>
+      <description>Industry: Financial Services — “In 2026, CRM is essential: you have to know the member's history and what's coming up in business opportunities.”</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26766-desjardins-dynamics-365</guid>
+      <pubDate>Tue, 30 Jun 2026 17:18:16 +0000</pubDate>
+      <category>Financial Services</category>
+      <category>Dynamics 365</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26766_Desjardins%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Animal Protection Denmark grows its reach to save more animals with Microsoft Fabric and Dynamics 365</title>
+      <link>https://www.microsoft.com/en/customers/story/26787-animal-protection-denmark-microsoft-fabric</link>
+      <description>Industry: Nonprofit and IGO — “Microsoft solutions are future-proofing our organization. Being able to connect the dots and the data through our connected system will take us to the next level in rescuing more animals.”</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26787-animal-protection-denmark-microsoft-fabric</guid>
+      <pubDate>Tue, 30 Jun 2026 17:18:16 +0000</pubDate>
+      <category>Nonprofit and IGO</category>
+      <category>Microsoft Fabric</category>
+      <category>Power BI</category>
+      <category>Dynamics 365 Sales</category>
+      <category>Dynamics 365 Customer Insights</category>
+      <category>Microsoft Copilot Studio</category>
+      <category>Dynamics 365 Business Central</category>
+      <category>Power Apps</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26787_Animal%20Protection%20Denmark%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Fibasigorta and HDI Fibaemeklilik cut manual workload by 45% and accelerate their AI transformation efforts with Copilot</title>
+      <link>https://www.microsoft.com/en/customers/story/26783-fibasigorta-and-hdi-fibaemeklilik-microsoft-copilot</link>
+      <description>Industry: Financial Services — “Copilot has helped ease workload-related stress, which has been a real boost for talent retention across the company.”</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26783-fibasigorta-and-hdi-fibaemeklilik-microsoft-copilot</guid>
+      <pubDate>Tue, 30 Jun 2026 17:18:16 +0000</pubDate>
+      <category>Financial Services</category>
+      <category>Microsoft Copilot</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26783_Fibasigorta%20and%20HDI%20Fibaemeklilik%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Ghassan Aboud Holding increases conversion 31% with Azure AI shopping agent</title>
+      <link>https://www.microsoft.com/en/customers/story/26778-ghassan-aboud-holding-microsoft-foundry</link>
+      <description>Industry: Retail and Consumer Goods — “What we’ve created is a real way to grow the business: Azure App Service, Azure Container Apps, Azure Functions, and Azure Logic Apps gave us a robust agent runtime to power real business impact. We built a conversion engine and data collection tool that drives margin, increases basket value, grows traffic, and elevates the customer experience”</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26778-ghassan-aboud-holding-microsoft-foundry</guid>
+      <pubDate>Tue, 30 Jun 2026 17:18:16 +0000</pubDate>
+      <category>Retail and Consumer Goods</category>
+      <category>Microsoft Foundry</category>
+      <category>Azure Container Apps</category>
+      <category>Azure Cosmos DB</category>
+      <category>Azure Database for PostgreSQL</category>
+      <category>Azure App Service</category>
+      <category>Azure Functions</category>
+      <category>Azure Logic Apps</category>
+      <category>Foundry Models</category>
+      <category>Azure</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26778_Ghassan%20Aboud%20Holding%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Microsoft Dynamics 365 Sales helps MSC chart a smart course</title>
+      <link>https://www.microsoft.com/en/customers/story/26119-msc-dynamics-365-sales</link>
+      <description>Industry: Automotive, Mobility, and Transportation — “The Microsoft Dynamics 365 environment has enabled MSC to continue to grow in the best way we know: by enabling exceptional customer experiences and personal service.”</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26119-msc-dynamics-365-sales</guid>
+      <pubDate>Tue, 30 Jun 2026 17:18:16 +0000</pubDate>
+      <category>Automotive, Mobility, and Transportation</category>
+      <category>Dynamics 365 Sales</category>
+      <category>Dynamics 365 Customer Service</category>
+      <category>Microsoft 365 Copilot</category>
+      <category>Outlook</category>
+      <category>Dataverse</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26119_MSC%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Centrica drives a new wave of Power Platform innovation with Managed Environments and Copilot Studio</title>
+      <link>https://www.microsoft.com/en/customers/story/26768-centrica-microsoft-power-platform</link>
+      <description>Industry: Energy and Resources — “Managed Environments have been great at helping us better manage a rapidly growing number of Power Platform makers and applications—even with a small support team.”</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26768-centrica-microsoft-power-platform</guid>
+      <pubDate>Tue, 30 Jun 2026 17:18:16 +0000</pubDate>
+      <category>Energy and Resources</category>
+      <category>Microsoft Power Platform</category>
+      <category>Microsoft Copilot Studio</category>
+      <category>Power Apps</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26768_Centrica%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>AKD secures the backbone of an essential industry with Microsoft Defender and Entra</title>
+      <link>https://www.microsoft.com/en/customers/story/26643-akd-microsoft-defender</link>
+      <description>Industry: Commercial Other Industries — “We looked at our existing partners and determined that bringing everything into a single platform would be the best step forward. That’s where the Microsoft ME5 stack came into play, because Defender covers that whole end-to-end piece for us.”</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26643-akd-microsoft-defender</guid>
+      <pubDate>Tue, 30 Jun 2026 17:18:16 +0000</pubDate>
+      <category>Commercial Other Industries</category>
+      <category>Microsoft Defender</category>
+      <category>Microsoft Entra</category>
+      <category>Microsoft 365 E5</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26643_AKD%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title> Rethinking education in Kanton Basel-Stadt: Digitalization with Microsoft Surface </title>
+      <link>https://www.microsoft.com/en/customers/story/26752-department-of-education-in-basel-stadt-surface-pro</link>
+      <description>Industry: Professional and Business Services — “Our aim is to get the next generation fit for AI with the new Surface devices, and to give them the best preparation they can get for the world of digital work.”</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26752-department-of-education-in-basel-stadt-surface-pro</guid>
+      <pubDate>Tue, 30 Jun 2026 17:18:16 +0000</pubDate>
+      <category>Professional and Business Services</category>
+      <category>Surface Pro</category>
+      <category>Surface Go</category>
+      <category>Windows Autopilot</category>
+      <category>Microsoft Intune</category>
+      <category>Microsoft 365 A5</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26752_Department%20of%20Education%20in%20Basel%20Stadt%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+  </channel>
+</rss>
