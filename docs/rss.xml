@@ -114,6 +114,17 @@
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26946_Kawasaki%20Heavy%20Industries%20Header%20Image" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title> Kooperativa saves thousands of hours annually with Azure-based chatbots 
+</title>
+      <link>https://www.microsoft.com/en/customers/story/26932-kooperativa-pojisovna-as-vienna-insurance-group-azure</link>
+      <description>Industry: Financial Services — “We’re now using AI agents to carry out complex activities that save us days per week in manual effort.”</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26932-kooperativa-pojisovna-as-vienna-insurance-group-azure</guid>
+      <pubDate>Wed, 29 Jul 2026 14:47:29 +0000</pubDate>
+      <category>Financial Services</category>
+      <category>Azure</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26932_Kooperativa%20pojisovna%20as%20Vienna%20Insurance%20Group%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title> Stadt Rosenheim modernizes operations and strengthens governance with Microsoft 365 
 </title>
       <link>https://www.microsoft.com/en/customers/story/26944-stadt-rosenheim-microsoft-365</link>
@@ -541,20 +552,6 @@
       <category>Microsoft Entra</category>
       <category>Microsoft 365 E5</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26643_AKD%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title> Rethinking education in Kanton Basel-Stadt: Digitalization with Microsoft Surface </title>
-      <link>https://www.microsoft.com/en/customers/story/26752-department-of-education-in-basel-stadt-surface-pro</link>
-      <description>Industry: Professional and Business Services — “Our aim is to get the next generation fit for AI with the new Surface devices, and to give them the best preparation they can get for the world of digital work.”</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26752-department-of-education-in-basel-stadt-surface-pro</guid>
-      <pubDate>Tue, 30 Jun 2026 17:18:16 +0000</pubDate>
-      <category>Professional and Business Services</category>
-      <category>Surface Pro</category>
-      <category>Surface Go</category>
-      <category>Windows Autopilot</category>
-      <category>Microsoft Intune</category>
-      <category>Microsoft 365 A5</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26752_Department%20of%20Education%20in%20Basel%20Stadt%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
