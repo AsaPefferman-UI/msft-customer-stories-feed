@@ -7,6 +7,46 @@
     <language>en</language>
     <atom:link rel="self" href="" type="application/rss+xml" />
     <item>
+      <title>Peterborough Regional Health Centre turns fragmented data into trusted insight</title>
+      <link>https://www.microsoft.com/en/customers/story/26994-peterborough-regional-health-centre-microsoft-fabric</link>
+      <description>Industry: Healthcare — “We started fairly simple by embedding Copilot on top of our analytics, letting people ask natural language questions of the data, and helping clinicians get curious without having to go learn how to code. This early work helped staff engage with data in a more accessible way while maintaining trust.”</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26994-peterborough-regional-health-centre-microsoft-fabric</guid>
+      <pubDate>Fri, 31 Jul 2026 20:04:16 +0000</pubDate>
+      <category>Healthcare</category>
+      <category>Microsoft Fabric</category>
+      <category>OneLake</category>
+      <category>Microsoft Foundry</category>
+      <category>Microsoft Purview</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26994_Peterborough%20Regional%20Health%20Centre%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>City of Raleigh to save commuters an estimated $9.7 million with digital twins and Microsoft Azure</title>
+      <link>https://www.microsoft.com/en/customers/story/26967-city-of-raleigh-azure</link>
+      <description>Industry: Government — “In 2025, we had an opportunity to partner with Microsoft, NVIDIA and Esri to integrate our data into a digital twin, which creates a virtual environment of our city where we can visualize and potentially analyze scenarios.”</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26967-city-of-raleigh-azure</guid>
+      <pubDate>Thu, 30 Jul 2026 21:01:14 +0000</pubDate>
+      <category>Government</category>
+      <category>Azure</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26967_City%20of%20Raleigh%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Accenture achieves 30% faster investigations with Microsoft Defender XDR</title>
+      <link>https://www.microsoft.com/en/customers/story/26955-accenture-microsoft-defender-xdr</link>
+      <description>Industry: Professional and Business Services — “Deploying the Defender suite delivered more advanced XDR and incident prioritization. As we’ve increased the data flowing through Defender XDR, we’ve become more effective with automation and triage—and faster in how we respond.”</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26955-accenture-microsoft-defender-xdr</guid>
+      <pubDate>Thu, 30 Jul 2026 21:01:14 +0000</pubDate>
+      <category>Professional and Business Services</category>
+      <category>Microsoft Defender XDR</category>
+      <category>Microsoft Defender for Endpoint</category>
+      <category>Microsoft Defender for Identity</category>
+      <category>Microsoft Defender for Cloud Apps</category>
+      <category>Microsoft Defender</category>
+      <category>Microsoft Sentinel</category>
+      <category>Microsoft Entra ID</category>
+      <category>Microsoft Intune</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26955_Accenture%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>NTT DATA strengthens customer touchpoints with a secure AI agent using Microsoft Defender</title>
       <link>https://www.microsoft.com/en/customers/story/26434-ntt-data-japan-corporation-azure</link>
       <description>Industry: Telecommunications and Media — “Generative AI is gaining in momentum from general users on up. There is a crucial caveat: AI introduces new risks and threats not found in conventional IT systems. Solutions like Customer Service AI Agent prioritize security from the outset based on Secure by Design principles (strategies ensuring information security from planning/design stages).”</description>
@@ -20,6 +60,17 @@
       <category>Microsoft Defender Cloud Security Posture Management</category>
       <category>Azure OpenAI in Foundry Models</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26434_NTT%20DATA%20Japan%20Corporation%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Duke Health builds digital resilience for Epic EHR with disaster recovery on Azure</title>
+      <link>https://www.microsoft.com/en/customers/story/26907-duke-health-microsoft-defender</link>
+      <description>Industry: Healthcare — “IT systems are deeply embedded in clinical workflows, and when they go down, the risk of error rises. What keeps me up at night isn’t a server outage—it’s the possibility of a clinician having to make critical decisions without the full picture in front of them.”</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26907-duke-health-microsoft-defender</guid>
+      <pubDate>Thu, 30 Jul 2026 21:01:14 +0000</pubDate>
+      <category>Healthcare</category>
+      <category>Microsoft Defender</category>
+      <category>Microsoft Fabric</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26907_Duke%20Health%20Header%20Image" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Krones cuts simulation run times by up to 98% with AI agents and Azure High-Performance Computing</title>
@@ -502,60 +553,6 @@
       <category>Microsoft 365 Copilot</category>
       <category>Microsoft 365 Copilot Chat</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26786_Alaska%20State%20Government%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Desjardins modernizes member relationship with Dynamics 365.</title>
-      <link>https://www.microsoft.com/en/customers/story/26766-desjardins-dynamics-365</link>
-      <description>Industry: Financial Services — “In 2026, CRM is essential: you have to know the member's history and what's coming up in business opportunities.”</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26766-desjardins-dynamics-365</guid>
-      <pubDate>Thu, 30 Jul 2026 21:01:14 +0000</pubDate>
-      <category>Financial Services</category>
-      <category>Dynamics 365</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26766_Desjardins%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Animal Protection Denmark grows its reach to save more animals with Microsoft Fabric and Dynamics 365</title>
-      <link>https://www.microsoft.com/en/customers/story/26787-animal-protection-denmark-microsoft-fabric</link>
-      <description>Industry: Nonprofit and IGO — “Microsoft solutions are future-proofing our organization. Being able to connect the dots and the data through our connected system will take us to the next level in rescuing more animals.”</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26787-animal-protection-denmark-microsoft-fabric</guid>
-      <pubDate>Thu, 30 Jul 2026 21:01:14 +0000</pubDate>
-      <category>Nonprofit and IGO</category>
-      <category>Microsoft Fabric</category>
-      <category>Power BI</category>
-      <category>Dynamics 365 Sales</category>
-      <category>Dynamics 365 Customer Insights</category>
-      <category>Microsoft Copilot Studio</category>
-      <category>Dynamics 365 Business Central</category>
-      <category>Power Apps</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26787_Animal%20Protection%20Denmark%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Fibasigorta and HDI Fibaemeklilik cut manual workload by 45% and accelerate their AI transformation efforts with Copilot</title>
-      <link>https://www.microsoft.com/en/customers/story/26783-fibasigorta-and-hdi-fibaemeklilik-microsoft-copilot</link>
-      <description>Industry: Financial Services — “Copilot has helped ease workload-related stress, which has been a real boost for talent retention across the company.”</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26783-fibasigorta-and-hdi-fibaemeklilik-microsoft-copilot</guid>
-      <pubDate>Thu, 30 Jul 2026 21:01:14 +0000</pubDate>
-      <category>Financial Services</category>
-      <category>Microsoft Copilot</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26783_Fibasigorta%20and%20HDI%20Fibaemeklilik%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Ghassan Aboud Holding increases conversion 31% with Azure AI shopping agent</title>
-      <link>https://www.microsoft.com/en/customers/story/26778-ghassan-aboud-holding-microsoft-foundry</link>
-      <description>Industry: Retail and Consumer Goods — “What we’ve created is a real way to grow the business: Azure App Service, Azure Container Apps, Azure Functions, and Azure Logic Apps gave us a robust agent runtime to power real business impact. We built a conversion engine and data collection tool that drives margin, increases basket value, grows traffic, and elevates the customer experience”</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26778-ghassan-aboud-holding-microsoft-foundry</guid>
-      <pubDate>Thu, 30 Jul 2026 21:01:14 +0000</pubDate>
-      <category>Retail and Consumer Goods</category>
-      <category>Microsoft Foundry</category>
-      <category>Azure Container Apps</category>
-      <category>Azure Cosmos DB</category>
-      <category>Azure Database for PostgreSQL</category>
-      <category>Azure App Service</category>
-      <category>Azure Functions</category>
-      <category>Azure Logic Apps</category>
-      <category>Foundry Models</category>
-      <category>Azure</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26778_Ghassan%20Aboud%20Holding%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
