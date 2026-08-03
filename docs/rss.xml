@@ -7,6 +7,21 @@
     <language>en</language>
     <atom:link rel="self" href="" type="application/rss+xml" />
     <item>
+      <title>NTT DATA strengthens customer touchpoints with a secure AI agent using Microsoft Defender</title>
+      <link>https://www.microsoft.com/en/customers/story/26434-ntt-data-japan-corporation-azure</link>
+      <description>Industry: Telecommunications and Media — “Generative AI is gaining in momentum from general users on up. There is a crucial caveat: AI introduces new risks and threats not found in conventional IT systems. Solutions like Customer Service AI Agent prioritize security from the outset based on Secure by Design principles (strategies ensuring information security from planning/design stages).”</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26434-ntt-data-japan-corporation-azure</guid>
+      <pubDate>Thu, 30 Jul 2026 21:01:14 +0000</pubDate>
+      <category>Telecommunications and Media</category>
+      <category>Azure</category>
+      <category>Content Safety in Foundry Control Plane</category>
+      <category>Microsoft Defender Threat Intelligence</category>
+      <category>Microsoft Sentinel</category>
+      <category>Microsoft Defender Cloud Security Posture Management</category>
+      <category>Azure OpenAI in Foundry Models</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26434_NTT%20DATA%20Japan%20Corporation%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Krones cuts simulation run times by up to 98% with AI agents and Azure High-Performance Computing</title>
       <link>https://www.microsoft.com/en/customers/story/26951-krones-azure-hpc</link>
       <description>Industry: Industrials and Manufacturing — “It was an outstanding experience on how quickly things can run with the right partners.”</description>
@@ -541,20 +556,6 @@
       <category>Foundry Models</category>
       <category>Azure</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26778_Ghassan%20Aboud%20Holding%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Microsoft Dynamics 365 Sales helps MSC chart a smart course</title>
-      <link>https://www.microsoft.com/en/customers/story/26119-msc-dynamics-365-sales</link>
-      <description>Industry: Automotive, Mobility, and Transportation — “The Microsoft Dynamics 365 environment has enabled MSC to continue to grow in the best way we know: by enabling exceptional customer experiences and personal service.”</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26119-msc-dynamics-365-sales</guid>
-      <pubDate>Thu, 30 Jul 2026 21:01:14 +0000</pubDate>
-      <category>Automotive, Mobility, and Transportation</category>
-      <category>Dynamics 365 Sales</category>
-      <category>Dynamics 365 Customer Service</category>
-      <category>Microsoft 365 Copilot</category>
-      <category>Outlook</category>
-      <category>Dataverse</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26119_MSC%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
