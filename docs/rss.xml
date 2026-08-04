@@ -7,6 +7,24 @@
     <language>en</language>
     <atom:link rel="self" href="" type="application/rss+xml" />
     <item>
+      <title>Planet DDS cuts provisioning time from six weeks to one day with Azure modernization</title>
+      <link>https://www.microsoft.com/en/customers/story/26987-planet-dds-azure</link>
+      <description>Industry: Healthcare — “Having a multi-vendor environment sounds great on paper, but in practice, it fragments operations. With Azure, we can deliver the performance, resilience, and security our enterprise customers expect without the complexity of managing it ourselves.”</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26987-planet-dds-azure</guid>
+      <pubDate>Mon, 03 Aug 2026 18:39:05 +0000</pubDate>
+      <category>Healthcare</category>
+      <category>Azure</category>
+      <category>Microsoft Defender for Cloud</category>
+      <category>Azure SQL Database</category>
+      <category>Microsoft Entra ID</category>
+      <category>Azure Application Gateway</category>
+      <category>Azure Front Door</category>
+      <category>Microsoft Fabric</category>
+      <category>Azure Cosmos DB</category>
+      <category>Azure App Service</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26987_Planet%20DDS%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Peterborough Regional Health Centre turns fragmented data into trusted insight</title>
       <link>https://www.microsoft.com/en/customers/story/26994-peterborough-regional-health-centre-microsoft-fabric</link>
       <description>Industry: Healthcare — “We started fairly simple by embedding Copilot on top of our analytics, letting people ask natural language questions of the data, and helping clinicians get curious without having to go learn how to code. This early work helped staff engage with data in a more accessible way while maintaining trust.”</description>
@@ -82,18 +100,6 @@
       <category>Azure HPC</category>
       <category>Azure</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26951_Krones%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Peterborough Regional Health Centre turns fragmented data into trusted insight</title>
-      <link>https://www.microsoft.com/en/customers/story/26793-peterborough-civic-hospital-onelake</link>
-      <description>Industry: Healthcare — “We started fairly simple by embedding Copilot on top of our analytics, letting people ask natural language questions of the data, and helping clinicians get curious without having to go learn how to code. This early work helped staff engage with data in a more accessible way while maintaining trust.”</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26793-peterborough-civic-hospital-onelake</guid>
-      <pubDate>Thu, 30 Jul 2026 21:01:14 +0000</pubDate>
-      <category>Healthcare</category>
-      <category>OneLake</category>
-      <category>Microsoft Foundry</category>
-      <category>Microsoft Fabric</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26793_Peterborough%20Civic%20Hospital%20Header%20Image" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Brown Health scales Microsoft Dragon Copilot and AI agents to ease care delivery</title>
