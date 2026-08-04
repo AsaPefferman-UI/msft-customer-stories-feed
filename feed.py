@@ -5,10 +5,14 @@ RSS 2.0 feed for Microsoft Customer Stories.
 Reads the same POST endpoint the website's own search page uses, so one request
 gets everything — no page scraping needed by default.
 
-    python3 feed.py              # fast: 1-2 requests, everything from the API
-    python3 feed.py --rich       # also fetch each story page for a real
-                                 # summary and the displayed publish date
-                                 # (slower: one request per story)
+    python3 feed.py          # normal: fetches each story page for its real
+                             # publish date and summary (~40 requests, ~30s)
+    python3 feed.py --fast   # API only, 2 requests, but dates are approximate
+
+Why the story pages get fetched: the API returns no publish date. Its only
+date-ish field, _ts, is a Cosmos document-write timestamp that a bulk re-index
+sets identically across every record — which is exactly what happened on
+2026-07-30, giving all 40 items the same pubDate.
 
 Writes public/rss.xml.
 """
@@ -20,7 +24,8 @@ import json
 import os
 import re
 import sys
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
+from html import unescape
 from pathlib import Path
 from xml.etree import ElementTree as ET
 
@@ -115,8 +120,11 @@ def card_to_item(card: dict) -> dict | None:
              (get(card, "content.footer.relatedProducts.products") or [])
              if isinstance(p, dict) and p.get("label")]
 
+    # NOTE: _ts is a Cosmos DB document-write timestamp, NOT a publish date.
+    # A bulk re-index restamps every record identically, which is exactly what
+    # happened on 2026-07-30. Never use it as pubDate. Kept only so we can tell
+    # whether it is uniform across the batch.
     ts = card.get("_ts")
-    pub = rfc822(datetime.fromtimestamp(ts, timezone.utc)) if ts else None
 
     return {
         "id": (slug.split("-")[0] if slug[:1].isdigit() else slug),
@@ -126,36 +134,83 @@ def card_to_item(card: dict) -> dict | None:
         "categories": cats,
         "image": get(card, "content.image.src") or "",
         "company": get(card, "content.image.slot.badge.icon.alt") or "",
-        "pubDate": pub,
+        "ts": ts,
+        "pubDate": None,   # filled in by add_dates()
     }
 
 
-def enrich(client, item: dict) -> dict:
-    """--rich only: fetch the story page for a real summary and the displayed
-    date. selectolax is imported here so the default path needs only httpx."""
-    from selectolax.parser import HTMLParser
+META_RE = re.compile(
+    r'<meta[^>]+(?:property|name)=["\'](?:og:description|description)["\']'
+    r'[^>]+content=["\'](.*?)["\']',
+    re.I | re.S,
+)
+
+
+def scrape_page(client, item: dict) -> dict:
+    """
+    Fetch the story page for its real publish date, and a proper summary.
+
+    This is the default, not an extra, because the API gives us no usable date:
+    the only date-ish field (_ts) is a document-write timestamp that a bulk
+    re-index sets identically across every record.
+
+    Regex rather than an HTML parser purely to keep the dependency list at one
+    (httpx). We're pulling two well-formed meta values, not parsing a document.
+    """
     try:
         html = client.get(item["url"]).text
     except httpx.HTTPError:
         return item
-    doc = HTMLParser(html)
 
-    for attr, name in (("property", "og:description"), ("name", "description")):
-        n = doc.css_first(f'meta[{attr}="{name}"]')
-        if n and n.attributes.get("content"):
-            item["description"] = n.attributes["content"].strip()
-            break
+    m = META_RE.search(html)
+    if m and m.group(1).strip():
+        item["description"] = unescape(m.group(1).strip())
 
+    # The date renders as bare text (e.g. "4/9/2026") just above the <h1>.
     i = html.lower().find("<h1")
     hits = DATE_RE.findall(html[max(0, i - 4000):i] if i > 0 else html[:6000])
     if hits:
         mth, day, yr = hits[-1]  # en locale renders month first
         try:
-            item["pubDate"] = rfc822(
-                datetime(int(yr), int(mth), int(day), 12, tzinfo=timezone.utc))
+            item["date"] = datetime(int(yr), int(mth), int(day), 12,
+                                    tzinfo=timezone.utc)
         except ValueError:
             pass
     return item
+
+
+def add_dates(items: list[dict]) -> None:
+    """
+    Turn scraped dates into pubDate, and make sure every item has a distinct one.
+
+    Distinctness matters: the Power Automate RSS trigger keys off PublishDate to
+    decide what's new, so duplicate timestamps break change detection. Items
+    arrive in the API's PublishedDate Desc order, so where a page date is
+    missing we interpolate downward from the last known date, preserving that
+    order. Interpolated items get a marker in the description.
+    """
+    last = None
+    for idx, it in enumerate(items):
+        d = it.get("date")
+        if d is None:
+            # Step back a minute per position so ordering survives and the
+            # timestamp stays unique.
+            base = last or datetime.now(timezone.utc)
+            d = base - timedelta(minutes=1)
+            it["approx"] = True
+        last = d
+        it["_dt"] = d
+
+    # Break exact ties (two stories published the same day) by nudging each
+    # duplicate one second earlier — keeps order, keeps every value unique.
+    seen: set[str] = set()
+    for it in items:
+        d = it["_dt"]
+        while rfc822(d) in seen:
+            d -= timedelta(seconds=1)
+        it["_dt"] = d
+        seen.add(rfc822(d))
+        it["pubDate"] = rfc822(d)
 
 
 def build(items: list[dict]) -> str:
@@ -191,8 +246,9 @@ def build(items: list[dict]) -> str:
 
 def main() -> None:
     ap = argparse.ArgumentParser()
-    ap.add_argument("--rich", action="store_true",
-                    help="fetch each story page for real summaries and dates")
+    ap.add_argument("--fast", action="store_true",
+                    help="skip story pages: much quicker, but dates become "
+                         "approximate and summaries are industry + a quote")
     args = ap.parse_args()
 
     with httpx.Client(headers={"User-Agent": UA}, timeout=30,
@@ -202,9 +258,23 @@ def main() -> None:
         items = [i for i in (card_to_item(c) for c in cards) if i]
         if not items:
             sys.exit("Cards came back but none had a usable title + href.")
-        if args.rich:
-            print(f"fetching {len(items)} story pages for summaries...")
-            items = [enrich(client, i) for i in items]
+
+        uniq_ts = len({i.get("ts") for i in items if i.get("ts")})
+        if uniq_ts == 1:
+            print("note: every card shares one _ts (a bulk re-index), which is "
+                  "why real dates have to come from the story pages")
+
+        if not args.fast:
+            print(f"fetching {len(items)} story pages for dates + summaries...")
+            items = [scrape_page(client, i) for i in items]
+
+    add_dates(items)
+
+    got = sum(1 for i in items if not i.get("approx"))
+    print(f"real dates: {got}/{len(items)}"
+          + ("" if got == len(items) else "  (rest interpolated in feed order)"))
+    if len({i["pubDate"] for i in items}) != len(items):
+        print("WARNING: duplicate pubDates remain — tell me if you see this")
 
     # The API sorted by PublishedDate Desc; that's the real order, so keep it.
     OUT.parent.mkdir(parents=True, exist_ok=True)
