@@ -7,6 +7,18 @@
     <language>en</language>
     <atom:link rel="self" href="" type="application/rss+xml" />
     <item>
+      <title>Plaud Inc. builds a high-performance, secure AI infrastructure on Microsoft Azure</title>
+      <link>https://www.microsoft.com/en/customers/story/26496-plaud-azure-speech-in-foundry-tools</link>
+      <description>Plaud builds a secure, scalable conversational intelligence platform on Microsoft Azure, improving AI performance, reducing costs, and supporting global compliance objectives.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26496-plaud-azure-speech-in-foundry-tools</guid>
+      <pubDate>Wed, 05 Aug 2026 12:00:00 +0000</pubDate>
+      <category>Software, Data and Platforms</category>
+      <category>Azure Speech in Foundry Tools</category>
+      <category>Azure OpenAI in Foundry Models</category>
+      <category>Content Safety in Foundry Control Plane</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26496_Plaud%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Planet DDS cuts provisioning time from six weeks to one day with Azure modernization</title>
       <link>https://www.microsoft.com/en/customers/story/26987-planet-dds-azure</link>
       <description>Planet DDS cuts provisioning from six weeks to one day with Azure, delivering enterprise scale and reliability.</description>
@@ -544,19 +556,6 @@
       <category>Agents</category>
       <category>Microsoft 365 Copilot</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26794_Sirva%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Building the intelligence foundation for the energy transition</title>
-      <link>https://www.microsoft.com/en/customers/story/26785-bkw-fmb-energie-ag-foundry-models</link>
-      <description>BKW is working with Microsoft to build a scalable AI and geospatial data foundation, using Aurora from Microsoft Research and Microsoft Planetary Computer Pro to advance weather forecasting and support its sustainable energy infrastructure goals.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26785-bkw-fmb-energie-ag-foundry-models</guid>
-      <pubDate>Thu, 25 Jun 2026 11:59:59 +0000</pubDate>
-      <category>Energy and Resources</category>
-      <category>Foundry Models</category>
-      <category>Microsoft Foundry</category>
-      <category>Azure Container Apps</category>
-      <category>Azure Container Registry</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26785_BKW%20FMB%20Energie%20AG%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
