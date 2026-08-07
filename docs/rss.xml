@@ -7,6 +7,16 @@
     <language>en</language>
     <atom:link rel="self" href="" type="application/rss+xml" />
     <item>
+      <title>BIPA cuts after-sales processing time by 25% with Microsoft Dynamics 365</title>
+      <link>https://www.microsoft.com/en/customers/story/26958-bipa-dynamics-365</link>
+      <description>BIPA transforms customer relationships, boosts sales efficiency, and saves hours daily with a CRM built using Microsoft Dynamics 365.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26958-bipa-dynamics-365</guid>
+      <pubDate>Fri, 07 Aug 2026 12:00:00 +0000</pubDate>
+      <category>Industrials and Manufacturing</category>
+      <category>Dynamics 365</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26958_BIPA%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title> Plaud Inc. builds a high-performance, secure AI infrastructure on Microsoft Azure 
 </title>
       <link>https://www.microsoft.com/en/customers/story/26496-plaud-azure-speech-in-foundry-tools</link>
@@ -540,23 +550,6 @@
       <category>Microsoft Fabric</category>
       <category>Power BI</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26802_JJ%20Food%20Service%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Sirva unifies global mobility operations on a single intelligent platform with Dynamics 365 Contact Center and Copilot Studio</title>
-      <link>https://www.microsoft.com/en/customers/story/26794-sirva-dynamics-365-contact-center</link>
-      <description>Sirva consolidates fragmented relocation systems onto Dynamics 365 Contact Center, deploying AI agents to empower consultants worldwide.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26794-sirva-dynamics-365-contact-center</guid>
-      <pubDate>Tue, 07 Jul 2026 11:59:59 +0000</pubDate>
-      <category>Professional and Business Services</category>
-      <category>Dynamics 365 Contact Center</category>
-      <category>Microsoft Copilot Studio</category>
-      <category>Power Apps</category>
-      <category>Power Automate</category>
-      <category>Azure Communication Services</category>
-      <category>Power BI</category>
-      <category>Agents</category>
-      <category>Microsoft 365 Copilot</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26794_Sirva%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
