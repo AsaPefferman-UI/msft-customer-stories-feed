@@ -7,11 +7,24 @@
     <language>en</language>
     <atom:link rel="self" href="" type="application/rss+xml" />
     <item>
+      <title>DOMCURA settles insurance claims autonomously in about 10 minutes with Microsoft Foundry</title>
+      <link>https://www.microsoft.com/en/customers/story/27007-domcura-microsoft-foundry</link>
+      <description>Insurance provider DOMCURA resolves claims in about 10 minutes with its autonomous AI platform, KIM, powered by Microsoft Foundry.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27007-domcura-microsoft-foundry</guid>
+      <pubDate>Fri, 07 Aug 2026 12:00:00 +0000</pubDate>
+      <category>Financial Services</category>
+      <category>Microsoft Foundry</category>
+      <category>Azure Document Intelligence in Foundry Tools</category>
+      <category>Azure</category>
+      <category>Azure OpenAI in Foundry Models</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27007_DOMCURA%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>BIPA cuts after-sales processing time by 25% with Microsoft Dynamics 365</title>
       <link>https://www.microsoft.com/en/customers/story/26958-bipa-dynamics-365</link>
       <description>BIPA transforms customer relationships, boosts sales efficiency, and saves hours daily with a CRM built using Microsoft Dynamics 365.</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26958-bipa-dynamics-365</guid>
-      <pubDate>Fri, 07 Aug 2026 12:00:00 +0000</pubDate>
+      <pubDate>Fri, 07 Aug 2026 11:59:59 +0000</pubDate>
       <category>Industrials and Manufacturing</category>
       <category>Dynamics 365</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26958_BIPA%20Header%20Image" type="image/jpeg" length="0" />
@@ -537,19 +550,6 @@
       <category>Azure</category>
       <category>Azure Document Intelligence in Foundry Tools</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26799_Normain%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>JJ Food Service completes a 21-year Microsoft ERP journey to the cloud with Dynamics 365 Supply Chain Management</title>
-      <link>https://www.microsoft.com/en/customers/story/26802-jj-food-service-dynamics-365-finance</link>
-      <description>UK food wholesaler, JJ Food Service, completes a six-year migration from AX 2012 to Dynamics 365, gaining a cloud ERP platform and modern analytics.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26802-jj-food-service-dynamics-365-finance</guid>
-      <pubDate>Fri, 26 Jun 2026 11:59:59 +0000</pubDate>
-      <category>Retail and Consumer Goods</category>
-      <category>Dynamics 365 Finance</category>
-      <category>Dynamics 365 Supply Chain Management</category>
-      <category>Microsoft Fabric</category>
-      <category>Power BI</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26802_JJ%20Food%20Service%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
