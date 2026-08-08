@@ -261,6 +261,19 @@
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26944_Stadt%20Rosenheim%20Header%20Image" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>Infosys Helix delivers smarter, faster, and more resilient healthcare with Microsoft Azure</title>
+      <link>https://www.microsoft.com/en/customers/story/26782-infosys-azure-api-management</link>
+      <description>Infosys reimagines Infosys Helix as a scalable, resilient, and AI-first healthcare platform, helping power the future of a more connected, intelligent, and future-ready healthcare ecosystem.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26782-infosys-azure-api-management</guid>
+      <pubDate>Sat, 08 Aug 2026 12:00:00 +0000</pubDate>
+      <category>Software, Data and Platforms</category>
+      <category>Azure API Management</category>
+      <category>Azure Kubernetes Service</category>
+      <category>Microsoft Entra ID</category>
+      <category>GitHub</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26782_Infosys%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Astellas explores hundreds of protein mutations with BioEmu in Microsoft Foundry</title>
       <link>https://www.microsoft.com/en/customers/story/26922-astellas-pharma-microsoft-foundry</link>
       <description>Astellas used BioEmu in Microsoft Foundry to explore hundreds of protein mutations and accelerate drug candidate prioritization.</description>
@@ -538,18 +551,6 @@
       <category>OneDrive</category>
       <category>Outlook</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26791_KARL%20STORZ%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title> Normain uses Azure to enhance its AI platform, helping boost annual revenue by 250% </title>
-      <link>https://www.microsoft.com/en/customers/story/26799-normain-microsoft-marketplace</link>
-      <description>Normain uses Microsoft Azure to boost the speed and security features of its ‘Extractional AI,’ contributing to a 250% increase in annual revenue.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26799-normain-microsoft-marketplace</guid>
-      <pubDate>Thu, 25 Jun 2026 12:00:00 +0000</pubDate>
-      <category>Software, Data and Platforms</category>
-      <category>Microsoft Marketplace</category>
-      <category>Azure</category>
-      <category>Azure Document Intelligence in Foundry Tools</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26799_Normain%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
