@@ -261,6 +261,19 @@
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26944_Stadt%20Rosenheim%20Header%20Image" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>Caledonian Sleeper ensures a smooth journey for staff and guests with Dynamics 365</title>
+      <link>https://www.microsoft.com/en/customers/story/26875-caledonian-sleeper-dynamics-365-contact-center</link>
+      <description>Caledonian Sleeper uses Dynamics 365 and Power Platform to unify guest data, streamline service workflows, and improve satisfaction across its overnight rail experience.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26875-caledonian-sleeper-dynamics-365-contact-center</guid>
+      <pubDate>Mon, 10 Aug 2026 12:00:00 +0000</pubDate>
+      <category>Government</category>
+      <category>Dynamics 365 Contact Center</category>
+      <category>Dynamics 365 Customer Service</category>
+      <category>Dynamics 365 Customer Insights</category>
+      <category>Microsoft Power Platform</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26875_Caledonian%20Sleeper%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Infosys Helix delivers smarter, faster, and more resilient healthcare with Microsoft Azure</title>
       <link>https://www.microsoft.com/en/customers/story/26782-infosys-azure-api-management</link>
       <description>Infosys reimagines Infosys Helix as a scalable, resilient, and AI-first healthcare platform, helping power the future of a more connected, intelligent, and future-ready healthcare ecosystem.</description>
@@ -535,22 +548,6 @@
       <category>Azure Kubernetes Service</category>
       <category>Azure Database for PostgreSQL</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26808_DTI%20Group%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>KARL STORZ builds a governed AI foundation with Microsoft 365 Copilot</title>
-      <link>https://www.microsoft.com/en/customers/story/26791-karl-storz-microsoft-365-copilot</link>
-      <description>With Microsoft 365 Copilot, KARL STORZ scaled governed AI, reaching 97% active usage across licensed users.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26791-karl-storz-microsoft-365-copilot</guid>
-      <pubDate>Fri, 26 Jun 2026 12:00:00 +0000</pubDate>
-      <category>Healthcare</category>
-      <category>Microsoft 365 Copilot</category>
-      <category>Microsoft 365</category>
-      <category>Microsoft Copilot</category>
-      <category>Microsoft 365 Copilot Chat</category>
-      <category>SharePoint</category>
-      <category>OneDrive</category>
-      <category>Outlook</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26791_KARL%20STORZ%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
