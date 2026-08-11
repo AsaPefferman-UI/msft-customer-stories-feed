@@ -102,21 +102,22 @@
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26496_Plaud%20Header%20Image" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Planet DDS cuts provisioning time from six weeks to one day with Azure modernization</title>
+      <title> Planet DDS cuts provisioning time from six weeks to one day with Azure modernization 
+</title>
       <link>https://www.microsoft.com/en/customers/story/26987-planet-dds-azure</link>
       <description>Planet DDS cuts provisioning from six weeks to one day with Azure, delivering enterprise scale and reliability.</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26987-planet-dds-azure</guid>
       <pubDate>Tue, 04 Aug 2026 12:00:00 +0000</pubDate>
       <category>Healthcare</category>
-      <category>Azure</category>
-      <category>Microsoft Defender for Cloud</category>
+      <category>Azure App Service</category>
       <category>Azure SQL Database</category>
+      <category>Azure Cosmos DB</category>
+      <category>Azure</category>
       <category>Microsoft Entra ID</category>
+      <category>Microsoft Defender for Cloud</category>
       <category>Azure Application Gateway</category>
       <category>Azure Front Door</category>
       <category>Microsoft Fabric</category>
-      <category>Azure Cosmos DB</category>
-      <category>Azure App Service</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26987_Planet%20DDS%20Header%20Image" type="image/jpeg" length="0" />
     </item>
     <item>
