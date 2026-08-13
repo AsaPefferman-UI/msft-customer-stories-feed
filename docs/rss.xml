@@ -7,6 +7,20 @@
     <language>en</language>
     <atom:link rel="self" href="" type="application/rss+xml" />
     <item>
+      <title>Asper AI makes profitable growth more predictable with Azure and Azure Databricks</title>
+      <link>https://www.microsoft.com/en/customers/story/27038-asper-ai-azure-databricks</link>
+      <description>Asper AI uses Microsoft Foundry and Azure Databricks to unify CPG data and drive coordinated pricing and promotions decisions for measurable growth.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27038-asper-ai-azure-databricks</guid>
+      <pubDate>Thu, 13 Aug 2026 12:00:00 +0000</pubDate>
+      <category>Software, Data and Platforms</category>
+      <category>Azure Databricks</category>
+      <category>Azure Database for PostgreSQL</category>
+      <category>Azure Cosmos DB</category>
+      <category>Microsoft Foundry</category>
+      <category>Azure</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27038_Asper%20AI%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>ServiceNow extends the benefits of AI to its Microsoft 365 assets with Microsoft Copilot Studio</title>
       <link>https://www.microsoft.com/en/customers/story/27010-servicenow-microsoft-copilot-studio</link>
       <description>Multi-agent orchestration on Copilot Studio drives a 26% increase in performance.</description>
@@ -540,19 +554,6 @@
       <category>Outlook</category>
       <category>Microsoft Teams</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26831_GOL%20Linhas%20Aereas%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Struber scales its impact across critical infrastructure with Microsoft 365 Copilot</title>
-      <link>https://www.microsoft.com/en/customers/story/26829-struber-microsoft-365-copilot</link>
-      <description>Struber gave every employee Microsoft 365 Copilot and turned a 50-person team into a force that competes with infrastructure multinationals worldwide.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26829-struber-microsoft-365-copilot</guid>
-      <pubDate>Thu, 02 Jul 2026 11:59:57 +0000</pubDate>
-      <category>Commercial Other Industries</category>
-      <category>Microsoft 365 Copilot</category>
-      <category>Microsoft Copilot Studio</category>
-      <category>Agents</category>
-      <category>SharePoint</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26829_STRUBER%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
