@@ -7,6 +7,16 @@
     <language>en</language>
     <atom:link rel="self" href="" type="application/rss+xml" />
     <item>
+      <title>Mercy nurses use Microsoft Dragon Copilot to help advance patient-centered care</title>
+      <link>https://www.microsoft.com/en/customers/story/27030-mercy-microsoft-dragon-copilot</link>
+      <description>Mercy nurses use Microsoft Dragon Copilot to reduce administrative burden and spend more time delivering compassionate, patient-centered care.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27030-mercy-microsoft-dragon-copilot</guid>
+      <pubDate>Fri, 14 Aug 2026 12:00:00 +0000</pubDate>
+      <category>Healthcare</category>
+      <category>Microsoft Dragon Copilot</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27030_Mercy%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Asper AI makes profitable growth more predictable with Azure and Azure Databricks</title>
       <link>https://www.microsoft.com/en/customers/story/27038-asper-ai-azure-databricks</link>
       <description>Asper AI uses Microsoft Foundry and Azure Databricks to unify CPG data and drive coordinated pricing and promotions decisions for measurable growth.</description>
@@ -537,23 +547,6 @@
       <category>Azure Marketplace</category>
       <category>Azure</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26750_BeeKeeperAI%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>GOL Airlines modernizes airport IT with Microsoft Intune and Microsoft Entra ID</title>
-      <link>https://www.microsoft.com/en/customers/story/26831-gol-linhas-aereas-microsoft-intune</link>
-      <description>GOL Airlines employs Microsoft Intune and Microsoft Entra ID to modernize cloud management and support real-time operations across 84 airport bases.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26831-gol-linhas-aereas-microsoft-intune</guid>
-      <pubDate>Thu, 02 Jul 2026 11:59:58 +0000</pubDate>
-      <category>Automotive, Mobility, and Transportation</category>
-      <category>Microsoft Intune</category>
-      <category>Microsoft Entra ID</category>
-      <category>Microsoft 365</category>
-      <category>Windows Autopilot</category>
-      <category>Windows Hello</category>
-      <category>Power Automate</category>
-      <category>Outlook</category>
-      <category>Microsoft Teams</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26831_GOL%20Linhas%20Aereas%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
