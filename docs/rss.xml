@@ -31,18 +31,6 @@
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27038_Asper%20AI%20Header%20Image" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>ServiceNow extends the benefits of AI to its Microsoft 365 assets with Microsoft Copilot Studio</title>
-      <link>https://www.microsoft.com/en/customers/story/27010-servicenow-microsoft-copilot-studio</link>
-      <description>Multi-agent orchestration on Copilot Studio drives a 26% increase in performance.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27010-servicenow-microsoft-copilot-studio</guid>
-      <pubDate>Tue, 11 Aug 2026 12:00:00 +0000</pubDate>
-      <category>Software, Data and Platforms</category>
-      <category>Microsoft Copilot Studio</category>
-      <category>Azure AI Search</category>
-      <category>Microsoft 365</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27010_ServiceNow%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
       <title>KOHLER achieves 98% Microsoft 365 Copilot adoption with a bold strategy for change</title>
       <link>https://www.microsoft.com/en/customers/story/26948-kohler-company-microsoft-365-copilot</link>
       <description>KOHLER achieved 98% Microsoft 365 Copilot adoption with a targeted, enterprise-wide change management and skilling strategy that encourages bold ideas.</description>
@@ -61,7 +49,7 @@
       <link>https://www.microsoft.com/en/customers/story/26969-banco-hipotecario-github-copilot</link>
       <description>Banco Hipotecario modernizes banking with Dynamics 365 and Copilot Studio, improving service, efficiency, and customer satisfaction.</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26969-banco-hipotecario-github-copilot</guid>
-      <pubDate>Tue, 11 Aug 2026 11:59:59 +0000</pubDate>
+      <pubDate>Tue, 11 Aug 2026 12:00:00 +0000</pubDate>
       <category>Financial Services</category>
       <category>GitHub Copilot</category>
       <category>Microsoft Copilot Studio</category>
@@ -93,7 +81,7 @@
       <link>https://www.microsoft.com/en/customers/story/26985-cemex-microsoft-copilot-studio</link>
       <description>CEMEX deployed an AI-powered HR agent on Copilot Studio to deliver 24/7 self-service support for 800 employees.</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26985-cemex-microsoft-copilot-studio</guid>
-      <pubDate>Tue, 11 Aug 2026 11:59:58 +0000</pubDate>
+      <pubDate>Tue, 11 Aug 2026 11:59:59 +0000</pubDate>
       <category>Industrials and Manufacturing</category>
       <category>Microsoft Copilot Studio</category>
       <category>Microsoft 365 Copilot</category>
@@ -172,7 +160,7 @@
       <link>https://www.microsoft.com/en/customers/story/26947-state-farm-microsoft-power-platform</link>
       <description>State Farm scales governed Copilot Studio agents through responsible AI training, reusable patterns, and a thriving builder community.</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26947-state-farm-microsoft-power-platform</guid>
-      <pubDate>Tue, 11 Aug 2026 11:59:57 +0000</pubDate>
+      <pubDate>Tue, 11 Aug 2026 11:59:58 +0000</pubDate>
       <category>Financial Services</category>
       <category>Microsoft Power Platform</category>
       <category>Power Automate</category>
@@ -547,6 +535,23 @@
       <category>Azure Marketplace</category>
       <category>Azure</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26750_BeeKeeperAI%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>GOL Airlines modernizes airport IT with Microsoft Intune and Microsoft Entra ID</title>
+      <link>https://www.microsoft.com/en/customers/story/26831-gol-linhas-aereas-microsoft-intune</link>
+      <description>GOL Airlines employs Microsoft Intune and Microsoft Entra ID to modernize cloud management and support real-time operations across 84 airport bases.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26831-gol-linhas-aereas-microsoft-intune</guid>
+      <pubDate>Thu, 02 Jul 2026 11:59:58 +0000</pubDate>
+      <category>Automotive, Mobility, and Transportation</category>
+      <category>Microsoft Intune</category>
+      <category>Microsoft Entra ID</category>
+      <category>Microsoft 365</category>
+      <category>Windows Autopilot</category>
+      <category>Windows Hello</category>
+      <category>Power Automate</category>
+      <category>Outlook</category>
+      <category>Microsoft Teams</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26831_GOL%20Linhas%20Aereas%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
