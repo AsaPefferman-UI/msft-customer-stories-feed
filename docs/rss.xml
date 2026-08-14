@@ -7,11 +7,23 @@
     <language>en</language>
     <atom:link rel="self" href="" type="application/rss+xml" />
     <item>
+      <title>The NFL modernizes game-day operations with Microsoft Copilot Studio and Power Platform</title>
+      <link>https://www.microsoft.com/en/customers/story/26767-national-football-league-microsoft-copilot-studio</link>
+      <description>AI-powered Game Ops Dashboard saves 8-12 hours a week in data entry and report generation time.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26767-national-football-league-microsoft-copilot-studio</guid>
+      <pubDate>Fri, 14 Aug 2026 12:00:00 +0000</pubDate>
+      <category>Telecommunications and Media</category>
+      <category>Microsoft Copilot Studio</category>
+      <category>Microsoft Power Platform</category>
+      <category>Power Automate</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26767_National%20Football%20League%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Mercy nurses use Microsoft Dragon Copilot to help advance patient-centered care</title>
       <link>https://www.microsoft.com/en/customers/story/27030-mercy-microsoft-dragon-copilot</link>
       <description>Mercy nurses use Microsoft Dragon Copilot to reduce administrative burden and spend more time delivering compassionate, patient-centered care.</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27030-mercy-microsoft-dragon-copilot</guid>
-      <pubDate>Fri, 14 Aug 2026 12:00:00 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 11:59:59 +0000</pubDate>
       <category>Healthcare</category>
       <category>Microsoft Dragon Copilot</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27030_Mercy%20Header%20Image" type="image/jpeg" length="0" />
@@ -29,6 +41,17 @@
       <category>Microsoft Foundry</category>
       <category>Azure</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27038_Asper%20AI%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Sunrise simplifies secure work for external teams with Windows 365 Cloud PCs and Microsoft Intune</title>
+      <link>https://www.microsoft.com/en/customers/story/27032-sunrise-gmbh-windows-365</link>
+      <description>Sunrise uses Windows 365 and Intune to securely equip contractors while simplifying management and reducing IT complexity.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27032-sunrise-gmbh-windows-365</guid>
+      <pubDate>Sat, 15 Aug 2026 12:00:00 +0000</pubDate>
+      <category>Telecommunications and Media</category>
+      <category>Windows 365</category>
+      <category>Microsoft Intune</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27032_Sunrise%20GmbH%20Header%20Image" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>KOHLER achieves 98% Microsoft 365 Copilot adoption with a bold strategy for change</title>
@@ -520,38 +543,6 @@
       <category>Dataverse</category>
       <category>Microsoft 365</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26844_Medicana%20Health%20Group%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>BeeKeeperAI uses Azure Confidential Computing to enable protected AI validation on sensitive data</title>
-      <link>https://www.microsoft.com/en/customers/story/26750-beekeeperai-azure-confidential-ledger</link>
-      <description>BeeKeeperAI enables secure AI validation on sensitive data with Azure Confidential Computing.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26750-beekeeperai-azure-confidential-ledger</guid>
-      <pubDate>Thu, 02 Jul 2026 11:59:59 +0000</pubDate>
-      <category>Healthcare</category>
-      <category>Azure Confidential Ledger</category>
-      <category>Azure Blob Storage</category>
-      <category>Azure DevOps</category>
-      <category>Azure Kubernetes Service</category>
-      <category>Azure Marketplace</category>
-      <category>Azure</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26750_BeeKeeperAI%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>GOL Airlines modernizes airport IT with Microsoft Intune and Microsoft Entra ID</title>
-      <link>https://www.microsoft.com/en/customers/story/26831-gol-linhas-aereas-microsoft-intune</link>
-      <description>GOL Airlines employs Microsoft Intune and Microsoft Entra ID to modernize cloud management and support real-time operations across 84 airport bases.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26831-gol-linhas-aereas-microsoft-intune</guid>
-      <pubDate>Thu, 02 Jul 2026 11:59:58 +0000</pubDate>
-      <category>Automotive, Mobility, and Transportation</category>
-      <category>Microsoft Intune</category>
-      <category>Microsoft Entra ID</category>
-      <category>Microsoft 365</category>
-      <category>Windows Autopilot</category>
-      <category>Windows Hello</category>
-      <category>Power Automate</category>
-      <category>Outlook</category>
-      <category>Microsoft Teams</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26831_GOL%20Linhas%20Aereas%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
