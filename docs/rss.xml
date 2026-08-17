@@ -7,6 +7,20 @@
     <language>en</language>
     <atom:link rel="self" href="" type="application/rss+xml" />
     <item>
+      <title>Nordre Follo municipality advances public hearing modernization with Microsoft Copilot Studio</title>
+      <link>https://www.microsoft.com/en/customers/story/27052-nordre-follo-municipality-microsoft-copilot-studio</link>
+      <description>Norwegian municipality deploys a Hearing Agent to automate collection, summarization, and reporting of public hearing responses.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27052-nordre-follo-municipality-microsoft-copilot-studio</guid>
+      <pubDate>Mon, 17 Aug 2026 12:00:00 +0000</pubDate>
+      <category>Government</category>
+      <category>Microsoft Copilot Studio</category>
+      <category>SharePoint</category>
+      <category>Microsoft 365</category>
+      <category>Microsoft Fabric</category>
+      <category>Power BI</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27052_Nordre%20Follo%20Municipality%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>The NFL modernizes game-day operations with Microsoft Copilot Studio and Power Platform</title>
       <link>https://www.microsoft.com/en/customers/story/26767-national-football-league-microsoft-copilot-studio</link>
       <description>AI-powered Game Ops Dashboard saves 8-12 hours a week in data entry and report generation time.</description>
@@ -525,24 +539,6 @@
       <category>Azure Virtual Machines</category>
       <category>Microsoft Foundry</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26839_Storebrand%20ASA%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Medicana builds a bespoke patient experience solution on Microsoft Power Platform</title>
-      <link>https://www.microsoft.com/en/customers/story/26844-medicana-health-group-microsoft-power-platform</link>
-      <description>Medicana unified patient feedback on Microsoft Power Platform, delivering real-time insights, faster response times, and AI-supported patient care.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26844-medicana-health-group-microsoft-power-platform</guid>
-      <pubDate>Fri, 03 Jul 2026 12:00:00 +0000</pubDate>
-      <category>Healthcare</category>
-      <category>Microsoft Power Platform</category>
-      <category>Power Apps</category>
-      <category>Power Automate</category>
-      <category>SharePoint</category>
-      <category>Dynamics 365 Finance</category>
-      <category>Power BI</category>
-      <category>Microsoft Copilot Studio</category>
-      <category>Dataverse</category>
-      <category>Microsoft 365</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26844_Medicana%20Health%20Group%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
