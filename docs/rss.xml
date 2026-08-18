@@ -57,6 +57,22 @@
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27038_Asper%20AI%20Header%20Image" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>SK Innovation Realizes Multi-Agent Orchestration Based on Microsoft Foundry</title>
+      <link>https://www.microsoft.com/en/customers/story/27046-sk-innovation-azure-api-management</link>
+      <description>With Microsoft Foundry, SK Innovation is scaling to enterprise-wide multi-agent orchestration, pairing rapid AI adoption with strong governance for a leading AX model.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27046-sk-innovation-azure-api-management</guid>
+      <pubDate>Tue, 18 Aug 2026 12:00:00 +0000</pubDate>
+      <category>Commercial Other Industries</category>
+      <category>Azure API Management</category>
+      <category>Microsoft Foundry</category>
+      <category>Azure Document Intelligence in Foundry Tools</category>
+      <category>Azure AI Search</category>
+      <category>Azure OpenAI in Foundry Models</category>
+      <category>Azure Blob Storage</category>
+      <category>Power Automate</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27046_SK%20Innovation%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Sunrise simplifies secure work for external teams with Windows 365 Cloud PCs and Microsoft Intune</title>
       <link>https://www.microsoft.com/en/customers/story/27032-sunrise-gmbh-windows-365</link>
       <description>Sunrise uses Windows 365 and Intune to securely equip contractors while simplifying management and reducing IT complexity.</description>
@@ -526,19 +542,6 @@
       <category>Microsoft Copilot Studio</category>
       <category>Microsoft 365 Copilot</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26836_AGCO%20Corp%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Storebrand builds a multi-region cloud foundation to strengthen operational resilience with Azure</title>
-      <link>https://www.microsoft.com/en/customers/story/26839-storebrand-asa-azure</link>
-      <description>Storebrand demonstrates a region-independent Azure architecture by successfully bringing a mission-critical portfolio management system online in another region using a code-first cloud foundation.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26839-storebrand-asa-azure</guid>
-      <pubDate>Thu, 02 Jul 2026 12:00:00 +0000</pubDate>
-      <category>Financial Services</category>
-      <category>Financial Services</category>
-      <category>Azure</category>
-      <category>Azure Virtual Machines</category>
-      <category>Microsoft Foundry</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26839_Storebrand%20ASA%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
