@@ -7,6 +7,31 @@
     <language>en</language>
     <atom:link rel="self" href="" type="application/rss+xml" />
     <item>
+      <title>Basecamp Research trains AI on 4 billion years of evolution to build general biological intelligence, powered by Microsoft Azure</title>
+      <link>https://www.microsoft.com/en/customers/story/26652-basecamp-research-ltd-azure-container-registry</link>
+      <description>Basecamp Research used Azure AI Infrastructure to achieve world-first programmable gene insertion with AI trained on evolutionary data.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26652-basecamp-research-ltd-azure-container-registry</guid>
+      <pubDate>Wed, 19 Aug 2026 12:00:00 +0000</pubDate>
+      <category>Commercial Other Industries</category>
+      <category>Azure Container Registry</category>
+      <category>Azure AI Infrastructure</category>
+      <category>Azure Kubernetes Service</category>
+      <category>Azure Blob Storage</category>
+      <category>Azure Files</category>
+      <category>Azure Machine Learning</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26652_Basecamp%20Research%20LTD%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Tomorrow.io redefines weather forecasting with AI and space-based data on Azure</title>
+      <link>https://www.microsoft.com/en/customers/story/27023-tomorrowio-azure</link>
+      <description>Tomorrow.io uses Azure to compress weather observation and insight delivery from several hours to near real-time.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27023-tomorrowio-azure</guid>
+      <pubDate>Tue, 18 Aug 2026 12:00:00 +0000</pubDate>
+      <category>Commercial Other Industries</category>
+      <category>Azure</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27023_Tomorrowio%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Nordre Follo municipality advances public hearing modernization with Microsoft Copilot Studio</title>
       <link>https://www.microsoft.com/en/customers/story/27052-nordre-follo-municipality-microsoft-copilot-studio</link>
       <description>Norwegian municipality deploys a Hearing Agent to automate collection, summarization, and reporting of public hearing responses.</description>
@@ -43,6 +68,40 @@
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27030_Mercy%20Header%20Image" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>COSMO CONSULT quadruples sales pipeline with Dynamics 365 and Copilot Studio</title>
+      <link>https://www.microsoft.com/en/customers/story/27037-cosmo-consult-microsoft-copilot-studio</link>
+      <description>A Microsoft partner consolidates fragmented systems into Dynamics 365 and uses AI agents to drive 4x pipeline growth.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27037-cosmo-consult-microsoft-copilot-studio</guid>
+      <pubDate>Tue, 18 Aug 2026 11:59:59 +0000</pubDate>
+      <category>Professional and Business Services</category>
+      <category>Microsoft Copilot Studio</category>
+      <category>Dynamics 365 Sales</category>
+      <category>Microsoft Power Platform</category>
+      <category>Dynamics 365 Customer Insights</category>
+      <category>Dynamics 365 Project Operations</category>
+      <category>Dynamics 365 Customer Service</category>
+      <category>Power Apps</category>
+      <category>Dynamics 365 Finance</category>
+      <category>Dynamics 365 Supply Chain Management</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27037_COSMO%20CONSULT%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Springtime Technologies unlocks potential with a cloud-first transformation on Azure</title>
+      <link>https://www.microsoft.com/en/customers/story/27035-springtime-gmbh-azure</link>
+      <description>Springtime Technologies uses Azure to scale invoice automation, boost insights, and unlock new revenue with a resilient cloud platform.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27035-springtime-gmbh-azure</guid>
+      <pubDate>Tue, 18 Aug 2026 11:59:58 +0000</pubDate>
+      <category>Professional and Business Services</category>
+      <category>Azure</category>
+      <category>Microsoft Fabric</category>
+      <category>Azure OpenAI in Foundry Models</category>
+      <category>Microsoft 365</category>
+      <category>Microsoft Copilot</category>
+      <category>GitHub Copilot</category>
+      <category>Microsoft Foundry</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27035_Springtime%20GmbH%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Asper AI makes profitable growth more predictable with Azure and Azure Databricks</title>
       <link>https://www.microsoft.com/en/customers/story/27038-asper-ai-azure-databricks</link>
       <description>Asper AI uses Microsoft Foundry and Azure Databricks to unify CPG data and drive coordinated pricing and promotions decisions for measurable growth.</description>
@@ -61,7 +120,7 @@
       <link>https://www.microsoft.com/en/customers/story/27046-sk-innovation-azure-api-management</link>
       <description>With Microsoft Foundry, SK Innovation is scaling to enterprise-wide multi-agent orchestration, pairing rapid AI adoption with strong governance for a leading AX model.</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27046-sk-innovation-azure-api-management</guid>
-      <pubDate>Tue, 18 Aug 2026 12:00:00 +0000</pubDate>
+      <pubDate>Tue, 18 Aug 2026 11:59:57 +0000</pubDate>
       <category>Commercial Other Industries</category>
       <category>Azure API Management</category>
       <category>Microsoft Foundry</category>
@@ -489,59 +548,6 @@
       <category>Microsoft 365 Copilot Chat</category>
       <category>SharePoint</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26864_Public%20Service%20Commission%20of%20Canada%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Adani Green Energy scales project governance and AI-driven decision-making with Microsoft Power Platform</title>
-      <link>https://www.microsoft.com/en/customers/story/26789-adani-green-energy-power-apps</link>
-      <description>AGEL built an AI-powered project governance platform on Microsoft Power Platform, accelerating execution, visibility, and decision-making at scale.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26789-adani-green-energy-power-apps</guid>
-      <pubDate>Wed, 08 Jul 2026 11:59:59 +0000</pubDate>
-      <category>Energy and Resources</category>
-      <category>Power Apps</category>
-      <category>Power Automate</category>
-      <category>Microsoft Copilot Studio</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26789_Adani%20Green%20Energy%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title> Cancer Council NSW gives staff trusted policy answers in seconds with Copilot Studio 
-</title>
-      <link>https://www.microsoft.com/en/customers/story/26834-cancer-council-nsw-sharepoint</link>
-      <description>Cancer Council NSW deployed a Copilot Studio agent to deliver instant, trusted policy guidance to staff across the organization.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26834-cancer-council-nsw-sharepoint</guid>
-      <pubDate>Tue, 07 Jul 2026 12:00:00 +0000</pubDate>
-      <category>Healthcare</category>
-      <category>SharePoint</category>
-      <category>Microsoft Teams</category>
-      <category>Microsoft Copilot Studio</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26834_Cancer%20Council%20NSW%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Eczacıbaşı scales AI innovation across sectors with Microsoft Copilot Studio</title>
-      <link>https://www.microsoft.com/en/customers/story/26849-eczacibasi-holding-microsoft-copilot-studio</link>
-      <description>Eczacıbaşı scales AI with Microsoft Copilot Studio, cutting action-taking time up to 75% in specific use cases and two-week cycles to under three days.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26849-eczacibasi-holding-microsoft-copilot-studio</guid>
-      <pubDate>Thu, 09 Jul 2026 11:59:59 +0000</pubDate>
-      <category>Industrials and Manufacturing</category>
-      <category>Microsoft Copilot Studio</category>
-      <category>Microsoft Foundry</category>
-      <category>Azure OpenAI in Foundry Models</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26849_ECZACIBASI%20HOLDING%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>AGCO scales employee-built AI agents with Microsoft Copilot Studio</title>
-      <link>https://www.microsoft.com/en/customers/story/26836-agco-corp-word</link>
-      <description>AGCO uses Microsoft Copilot Studio to help employees build agents and speed manufacturing decisions.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26836-agco-corp-word</guid>
-      <pubDate>Mon, 06 Jul 2026 12:00:00 +0000</pubDate>
-      <category>Commercial Other Industries</category>
-      <category>Word</category>
-      <category>Excel</category>
-      <category>PowerPoint</category>
-      <category>OneDrive</category>
-      <category>SharePoint</category>
-      <category>Microsoft Copilot Studio</category>
-      <category>Microsoft 365 Copilot</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26836_AGCO%20Corp%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
