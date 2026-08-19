@@ -7,11 +7,28 @@
     <language>en</language>
     <atom:link rel="self" href="" type="application/rss+xml" />
     <item>
+      <title>Kotsovolos cuts handling time by 30% with Dynamics 365 Contact Center and AI-powered automation</title>
+      <link>https://www.microsoft.com/en/customers/story/27075-kotsovolos-dynamics-365-customer-service</link>
+      <description>Kotsovolos deploys Dynamics 365 Contact Center and cuts handling time by 30% while planning several AI agents by year-end.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27075-kotsovolos-dynamics-365-customer-service</guid>
+      <pubDate>Wed, 19 Aug 2026 12:00:00 +0000</pubDate>
+      <category>Retail and Consumer Goods</category>
+      <category>Dynamics 365 Customer Service</category>
+      <category>Dynamics 365 Customer Insights</category>
+      <category>Dynamics 365</category>
+      <category>Dynamics 365 Sales</category>
+      <category>Dynamics 365 Contact Center</category>
+      <category>Azure Communication Services</category>
+      <category>Microsoft Copilot Studio</category>
+      <category>Dynamics 365 Field Service</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27075_Kotsovolos%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Basecamp Research trains AI on 4 billion years of evolution to build general biological intelligence, powered by Microsoft Azure</title>
       <link>https://www.microsoft.com/en/customers/story/26652-basecamp-research-ltd-azure-container-registry</link>
       <description>Basecamp Research used Azure AI Infrastructure to achieve world-first programmable gene insertion with AI trained on evolutionary data.</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26652-basecamp-research-ltd-azure-container-registry</guid>
-      <pubDate>Wed, 19 Aug 2026 12:00:00 +0000</pubDate>
+      <pubDate>Wed, 19 Aug 2026 11:59:59 +0000</pubDate>
       <category>Commercial Other Industries</category>
       <category>Azure Container Registry</category>
       <category>Azure AI Infrastructure</category>
@@ -535,19 +552,6 @@
       <category>Microsoft Copilot Studio</category>
       <category>Microsoft 365 Copilot</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26868_MAIRE%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Transforming comptrollership: PSC cuts travel email inquiries by 90% using M365 Copilot agent</title>
-      <link>https://www.microsoft.com/en/customers/story/26864-public-service-commission-of-canada-microsoft-365-copilot</link>
-      <description>Using Microsoft 365 Copilot and Copilot Studio, PSC built an in-house AI agent for instant, bilingual answers to travel policy questions.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26864-public-service-commission-of-canada-microsoft-365-copilot</guid>
-      <pubDate>Wed, 08 Jul 2026 12:00:00 +0000</pubDate>
-      <category>Government</category>
-      <category>Microsoft 365 Copilot</category>
-      <category>Microsoft Copilot Studio</category>
-      <category>Microsoft 365 Copilot Chat</category>
-      <category>SharePoint</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26864_Public%20Service%20Commission%20of%20Canada%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
