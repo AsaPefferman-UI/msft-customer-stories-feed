@@ -7,6 +7,19 @@
     <language>en</language>
     <atom:link rel="self" href="" type="application/rss+xml" />
     <item>
+      <title> Citadele Banka cuts service wait times to under 5 seconds with Azure AI assistant </title>
+      <link>https://www.microsoft.com/en/customers/story/27078-citadele-banka-microsoft-365-copilot</link>
+      <description>Citadele Banka cut customer chat response times to under 5 seconds and quadrupled monthly document processing within a year with Copilot and Azure.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27078-citadele-banka-microsoft-365-copilot</guid>
+      <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+      <category>Financial Services</category>
+      <category>Microsoft 365 Copilot</category>
+      <category>Microsoft Teams</category>
+      <category>Azure</category>
+      <category>Microsoft Copilot Studio</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27078_Citadele%20Banka%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Kotsovolos cuts handling time by 30% with Dynamics 365 Contact Center and AI-powered automation</title>
       <link>https://www.microsoft.com/en/customers/story/27075-kotsovolos-dynamics-365-customer-service</link>
       <description>Kotsovolos deploys Dynamics 365 Contact Center and cuts handling time by 30% while planning several AI agents by year-end.</description>
@@ -546,18 +559,6 @@
       <category>Azure Kubernetes Service</category>
       <category>Anyscale on Azure</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26882_Xoople%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title> Direct Pojišťovna automates claims, cutting processing time by 87% with Azure AI 
-</title>
-      <link>https://www.microsoft.com/en/customers/story/26862-direct-pojistovna-azure-document-intelligence-in-foundry-tools</link>
-      <description>Direct Pojišťovna automated windshield claims with Azure AI, cutting claim processing by 87%, automating 60% of it, and keeping the system running 24/7.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26862-direct-pojistovna-azure-document-intelligence-in-foundry-tools</guid>
-      <pubDate>Fri, 10 Jul 2026 12:00:00 +0000</pubDate>
-      <category>Financial Services</category>
-      <category>Azure Document Intelligence in Foundry Tools</category>
-      <category>Microsoft Foundry</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26862_Direct%20Pojistovna%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
