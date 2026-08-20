@@ -24,11 +24,29 @@
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27075_Kotsovolos%20Header%20Image" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>Brisbane Grammar School replaces 42 systems, saves 30% manual work on Dynamics 365</title>
+      <link>https://www.microsoft.com/en/customers/story/26970-brisbane-grammar-school-dynamics-365</link>
+      <description>Brisbane Grammar School replaced 42 disconnected systems with one platform on Microsoft Dynamics 365, returning hours to staff and families.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26970-brisbane-grammar-school-dynamics-365</guid>
+      <pubDate>Wed, 19 Aug 2026 11:59:59 +0000</pubDate>
+      <category>Education</category>
+      <category>Dynamics 365</category>
+      <category>Microsoft Power Platform</category>
+      <category>Azure</category>
+      <category>Microsoft 365 Copilot</category>
+      <category>OneNote</category>
+      <category>Microsoft Teams</category>
+      <category>Dataverse</category>
+      <category>Microsoft Fabric</category>
+      <category>Microsoft Copilot Studio</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26970_Brisbane%20Grammar%20School%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Basecamp Research trains AI on 4 billion years of evolution to build general biological intelligence, powered by Microsoft Azure</title>
       <link>https://www.microsoft.com/en/customers/story/26652-basecamp-research-ltd-azure-container-registry</link>
       <description>Basecamp Research used Azure AI Infrastructure to achieve world-first programmable gene insertion with AI trained on evolutionary data.</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26652-basecamp-research-ltd-azure-container-registry</guid>
-      <pubDate>Wed, 19 Aug 2026 11:59:59 +0000</pubDate>
+      <pubDate>Wed, 19 Aug 2026 11:59:58 +0000</pubDate>
       <category>Commercial Other Industries</category>
       <category>Azure Container Registry</category>
       <category>Azure AI Infrastructure</category>
@@ -540,18 +558,6 @@
       <category>Azure Document Intelligence in Foundry Tools</category>
       <category>Microsoft Foundry</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26862_Direct%20Pojistovna%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>MAIRE redefines global engineering with 100+ use cases in Microsoft AI and Autodesk</title>
-      <link>https://www.microsoft.com/en/customers/story/26868-maire-microsoft-foundry</link>
-      <description>Connecting Microsoft technologies with Autodesk solutions, MAIRE helps its engineers navigate complexity and accelerate global engineering innovation.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26868-maire-microsoft-foundry</guid>
-      <pubDate>Thu, 09 Jul 2026 12:00:00 +0000</pubDate>
-      <category>Energy and Resources</category>
-      <category>Microsoft Foundry</category>
-      <category>Microsoft Copilot Studio</category>
-      <category>Microsoft 365 Copilot</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26868_MAIRE%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
