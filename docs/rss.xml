@@ -7,11 +7,51 @@
     <language>en</language>
     <atom:link rel="self" href="" type="application/rss+xml" />
     <item>
+      <title>Neural Concept accelerates engineering design up to 75% with Microsoft Azure HPC</title>
+      <link>https://www.microsoft.com/en/customers/story/27098-neural-concept-azure</link>
+      <description>Neural Concept uses Microsoft Azure to help manufacturers accelerate engineering design with secure, scalable AI workflows.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27098-neural-concept-azure</guid>
+      <pubDate>Fri, 21 Aug 2026 12:00:00 +0000</pubDate>
+      <category>Government</category>
+      <category>Azure</category>
+      <category>Azure Compute</category>
+      <category>Azure Kubernetes Service</category>
+      <category>Azure Storage</category>
+      <category>Azure AI Infrastructure</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27098_Neural%20Concept%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Defensoria de SP expands access to justice with Dynamics 365 Customer Service</title>
+      <link>https://www.microsoft.com/en/customers/story/27086-defensoria-de-sp-microsoft-copilot</link>
+      <description>The Public Defender's Office of São Paulo uses Dynamics 365 Customer Service and generative AI to expand access to justice at scale.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27086-defensoria-de-sp-microsoft-copilot</guid>
+      <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+      <category>Government</category>
+      <category>Microsoft Copilot</category>
+      <category>Dynamics 365 Customer Service</category>
+      <category>Microsoft 365</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27086_Defensoria%20de%20SP%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Pangaea Data uses Azure AI to identify untreated and under-treated patients</title>
+      <link>https://www.microsoft.com/en/customers/story/26653-pangaea-data-azure-ai-infrastructure</link>
+      <description>Pangaea Data uses Azure AI to help clinicians close care gaps by finding untreated and under-treated patients at the point of care and at scale, enabling earlier intervention and improved outcomes.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26653-pangaea-data-azure-ai-infrastructure</guid>
+      <pubDate>Fri, 21 Aug 2026 11:59:59 +0000</pubDate>
+      <category>Healthcare</category>
+      <category>Azure AI Infrastructure</category>
+      <category>Azure OpenAI in Foundry Models</category>
+      <category>Microsoft Fabric</category>
+      <category>Power BI</category>
+      <category>Azure Marketplace</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26653_Pangaea%20Data%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title> Citadele Banka cuts service wait times to under 5 seconds with Azure AI assistant </title>
       <link>https://www.microsoft.com/en/customers/story/27078-citadele-banka-microsoft-365-copilot</link>
       <description>Citadele Banka cut customer chat response times to under 5 seconds and quadrupled monthly document processing within a year with Copilot and Azure.</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27078-citadele-banka-microsoft-365-copilot</guid>
-      <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+      <pubDate>Thu, 20 Aug 2026 11:59:59 +0000</pubDate>
       <category>Financial Services</category>
       <category>Microsoft 365 Copilot</category>
       <category>Microsoft Teams</category>
@@ -132,6 +172,25 @@
       <category>Dynamics 365 Finance</category>
       <category>Dynamics 365 Supply Chain Management</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27037_COSMO%20CONSULT%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>The Contingent fights the foster care crisis with Microsoft low-code and AI solutions</title>
+      <link>https://www.microsoft.com/en/customers/story/27013-the-contingent-dataverse</link>
+      <description>The Contingent leverages Microsoft Power Platform, Power BI, Copilot, and other tools to help Tennessee recruit more foster families.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27013-the-contingent-dataverse</guid>
+      <pubDate>Thu, 20 Aug 2026 11:59:58 +0000</pubDate>
+      <category>Nonprofit and IGO</category>
+      <category>Dataverse</category>
+      <category>Azure</category>
+      <category>Dynamics 365 Customer Insights</category>
+      <category>Microsoft Power Platform</category>
+      <category>Azure App Service</category>
+      <category>Power Apps</category>
+      <category>Power BI</category>
+      <category>Microsoft 365 Copilot</category>
+      <category>GitHub Copilot</category>
+      <category>Microsoft Copilot Studio</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27013_The%20Contingent%20Header%20Image" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Springtime Technologies unlocks potential with a cloud-first transformation on Azure</title>
@@ -506,59 +565,6 @@
       <category>Exchange Online</category>
       <category>Microsoft Copilot</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26944_Stadt%20Rosenheim%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Caledonian Sleeper ensures a smooth journey for staff and guests with Dynamics 365</title>
-      <link>https://www.microsoft.com/en/customers/story/26875-caledonian-sleeper-dynamics-365-contact-center</link>
-      <description>Caledonian Sleeper uses Dynamics 365 and Power Platform to unify guest data, streamline service workflows, and improve satisfaction across its overnight rail experience.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26875-caledonian-sleeper-dynamics-365-contact-center</guid>
-      <pubDate>Mon, 10 Aug 2026 11:59:59 +0000</pubDate>
-      <category>Government</category>
-      <category>Dynamics 365 Contact Center</category>
-      <category>Dynamics 365 Customer Service</category>
-      <category>Dynamics 365 Customer Insights</category>
-      <category>Microsoft Power Platform</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26875_Caledonian%20Sleeper%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Infosys Helix delivers smarter, faster, and more resilient healthcare with Microsoft Azure</title>
-      <link>https://www.microsoft.com/en/customers/story/26782-infosys-azure-api-management</link>
-      <description>Infosys reimagines Infosys Helix as a scalable, resilient, and AI-first healthcare platform, helping power the future of a more connected, intelligent, and future-ready healthcare ecosystem.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26782-infosys-azure-api-management</guid>
-      <pubDate>Sat, 08 Aug 2026 12:00:00 +0000</pubDate>
-      <category>Software, Data and Platforms</category>
-      <category>Azure API Management</category>
-      <category>Azure Kubernetes Service</category>
-      <category>Microsoft Entra ID</category>
-      <category>GitHub</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26782_Infosys%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Astellas explores hundreds of protein mutations with BioEmu in Microsoft Foundry</title>
-      <link>https://www.microsoft.com/en/customers/story/26922-astellas-pharma-microsoft-foundry</link>
-      <description>Astellas used BioEmu in Microsoft Foundry to explore hundreds of protein mutations and accelerate drug candidate prioritization.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26922-astellas-pharma-microsoft-foundry</guid>
-      <pubDate>Mon, 20 Jul 2026 12:00:00 +0000</pubDate>
-      <category>Healthcare</category>
-      <category>Microsoft Foundry</category>
-      <category>Azure Machine Learning</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26922_Astellas%20Pharma%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>How EY and Xoople bring geospatial intelligence into enterprise decision-making</title>
-      <link>https://www.microsoft.com/en/customers/story/26882-xoople-microsoft-planetary-computer-pro</link>
-      <description>EY and Xoople bring geospatial intelligence to demand forecasting with Planetary Computer Pro, Fabric, and Foundry; no need for specialist infra.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26882-xoople-microsoft-planetary-computer-pro</guid>
-      <pubDate>Tue, 14 Jul 2026 12:00:00 +0000</pubDate>
-      <category>Retail and Consumer Goods</category>
-      <category>Microsoft Planetary Computer Pro</category>
-      <category>Microsoft Foundry</category>
-      <category>Microsoft Fabric</category>
-      <category>Azure Functions</category>
-      <category>Azure App Service</category>
-      <category>Azure Kubernetes Service</category>
-      <category>Anyscale on Azure</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26882_Xoople%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
