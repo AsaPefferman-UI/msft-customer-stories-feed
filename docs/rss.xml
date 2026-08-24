@@ -264,6 +264,20 @@
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26948_KOHLER%20Company%20Header%20Image" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>Engineers Australia improves member experience and builds team capacity with Dynamics 365 Contact Center</title>
+      <link>https://www.microsoft.com/en/customers/story/26999-engineers-australia-dynamics-365-contact-center</link>
+      <description>Engineers Australia's digital transformation, including Microsoft Dynamics 365 Contact Center, empowers the nonprofit to grow and scale.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26999-engineers-australia-dynamics-365-contact-center</guid>
+      <pubDate>Mon, 24 Aug 2026 12:00:00 +0000</pubDate>
+      <category>Nonprofit and IGO</category>
+      <category>Dynamics 365 Contact Center</category>
+      <category>Microsoft 365</category>
+      <category>Dynamics 365 Sales</category>
+      <category>Dynamics 365 Customer Insights</category>
+      <category>Microsoft Copilot Studio</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26999_Engineers%20Australia%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Banco Hipotecario transforms banking and customer service with Dynamics 365 and Copilot Studio AI agents</title>
       <link>https://www.microsoft.com/en/customers/story/26969-banco-hipotecario-github-copilot</link>
       <description>Banco Hipotecario modernizes banking with Dynamics 365 and Copilot Studio, improving service, efficiency, and customer satisfaction.</description>
@@ -549,22 +563,6 @@
       <category>Financial Services</category>
       <category>Azure</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26932_Kooperativa%20pojisovna%20as%20Vienna%20Insurance%20Group%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title> Stadt Rosenheim modernizes operations and strengthens governance with Microsoft 365 
-</title>
-      <link>https://www.microsoft.com/en/customers/story/26944-stadt-rosenheim-microsoft-365</link>
-      <description>Stadt Rosenheim modernized municipal operations and governance with Microsoft 365 and Entra ID, streamlining workflows and enabling future innovation.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26944-stadt-rosenheim-microsoft-365</guid>
-      <pubDate>Tue, 28 Jul 2026 11:59:58 +0000</pubDate>
-      <category>Government</category>
-      <category>Microsoft 365</category>
-      <category>Microsoft Entra ID</category>
-      <category>Microsoft Teams</category>
-      <category>SharePoint</category>
-      <category>Exchange Online</category>
-      <category>Microsoft Copilot</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26944_Stadt%20Rosenheim%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
