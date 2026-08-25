@@ -7,6 +7,22 @@
     <language>en</language>
     <atom:link rel="self" href="" type="application/rss+xml" />
     <item>
+      <title>KoRo Handels scales to 15,000 orders a day with Dynamics 365 Business Central</title>
+      <link>https://www.microsoft.com/en/customers/story/27081-koro-handels-dynamics-365-business-central</link>
+      <description>Startup KoRo Handels scaled to 15,000 orders a day and €150m revenue with Dynamics 365 Business Central</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27081-koro-handels-dynamics-365-business-central</guid>
+      <pubDate>Tue, 25 Aug 2026 12:00:00 +0000</pubDate>
+      <category>Retail and Consumer Goods</category>
+      <category>Dynamics 365 Business Central</category>
+      <category>Microsoft 365</category>
+      <category>Excel</category>
+      <category>Word</category>
+      <category>Outlook</category>
+      <category>Microsoft Copilot</category>
+      <category>Microsoft Copilot Studio</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27081_KoRo%20Handels%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Neural Concept accelerates engineering design up to 75% with Microsoft Azure HPC</title>
       <link>https://www.microsoft.com/en/customers/story/27098-neural-concept-azure</link>
       <description>Neural Concept uses Microsoft Azure to help manufacturers accelerate engineering design with secure, scalable AI workflows.</description>
@@ -314,7 +330,7 @@
       <link>https://www.microsoft.com/en/customers/story/26998-doa-dierenasiel-dynamics-365-sales</link>
       <description>DOA dierenasiel's solutions using Microsoft Power Platform, Dynamics 365, and Copilot Studio reduce admin, inform medical care, and help more animals.</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26998-doa-dierenasiel-dynamics-365-sales</guid>
-      <pubDate>Tue, 25 Aug 2026 12:00:00 +0000</pubDate>
+      <pubDate>Tue, 25 Aug 2026 11:59:59 +0000</pubDate>
       <category>Nonprofit and IGO</category>
       <category>Dynamics 365 Sales</category>
       <category>Microsoft Copilot Studio</category>
@@ -550,21 +566,6 @@
       <category>Windows Autopilot</category>
       <category>Microsoft Intune</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26945_Central%20Coast%20Council%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Kawasaki builds scalable robotics as a service platform with Azure Kubernetes Service</title>
-      <link>https://www.microsoft.com/en/customers/story/26946-kawasaki-heavy-industries-azure-kubernetes-service</link>
-      <description>Kawasaki uses Azure to modernize its robotics foundation to scale physical AI systems across healthcare and other real-world environments.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26946-kawasaki-heavy-industries-azure-kubernetes-service</guid>
-      <pubDate>Fri, 24 Jul 2026 11:59:58 +0000</pubDate>
-      <category>Industrials and Manufacturing</category>
-      <category>Azure Kubernetes Service</category>
-      <category>Azure OpenAI in Foundry Models</category>
-      <category>Azure Cosmos DB</category>
-      <category>Azure Digital Twins</category>
-      <category>IoT Operations</category>
-      <category>Azure</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26946_Kawasaki%20Heavy%20Industries%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
