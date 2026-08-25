@@ -310,6 +310,19 @@
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27007_DOMCURA%20Header%20Image" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>DOA dierenasiel helps animals get adopted faster with Dynamics 365, Power Apps, and Microsoft AI</title>
+      <link>https://www.microsoft.com/en/customers/story/26998-doa-dierenasiel-dynamics-365-sales</link>
+      <description>DOA dierenasiel's solutions using Microsoft Power Platform, Dynamics 365, and Copilot Studio reduce admin, inform medical care, and help more animals.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26998-doa-dierenasiel-dynamics-365-sales</guid>
+      <pubDate>Tue, 25 Aug 2026 12:00:00 +0000</pubDate>
+      <category>Nonprofit and IGO</category>
+      <category>Dynamics 365 Sales</category>
+      <category>Microsoft Copilot Studio</category>
+      <category>Microsoft Power Platform</category>
+      <category>Microsoft Foundry</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26998_DOA%20dierenasiel%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Cemex builds an always-on HR experience with a Copilot Studio agent</title>
       <link>https://www.microsoft.com/en/customers/story/26985-cemex-microsoft-copilot-studio</link>
       <description>CEMEX deployed an AI-powered HR agent on Copilot Studio to deliver 24/7 self-service support for 800 employees.</description>
@@ -552,17 +565,6 @@
       <category>IoT Operations</category>
       <category>Azure</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26946_Kawasaki%20Heavy%20Industries%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title> Kooperativa saves thousands of hours annually with Azure-based chatbots 
-</title>
-      <link>https://www.microsoft.com/en/customers/story/26932-kooperativa-pojisovna-as-vienna-insurance-group-azure</link>
-      <description>Kooperativa uses Azure-based agents to cut time lost to manual data retrieval, enabling its teams to spend more time on higher-value customer work.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26932-kooperativa-pojisovna-as-vienna-insurance-group-azure</guid>
-      <pubDate>Fri, 24 Jul 2026 11:59:57 +0000</pubDate>
-      <category>Financial Services</category>
-      <category>Azure</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26932_Kooperativa%20pojisovna%20as%20Vienna%20Insurance%20Group%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
