@@ -7,11 +7,24 @@
     <language>en</language>
     <atom:link rel="self" href="" type="application/rss+xml" />
     <item>
+      <title>Acme Corrugated Box increases self-service reporting by 50% and saves 50+ hours on data reconciliation with Microsoft Fabric</title>
+      <link>https://www.microsoft.com/en/customers/story/27103-acme-corrugated-box-microsoft-fabric</link>
+      <description>With Microsoft Fabric, Acme Corrugated Box increases self-service reporting by 50% while reclaiming 50+ hours every week.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27103-acme-corrugated-box-microsoft-fabric</guid>
+      <pubDate>Tue, 25 Aug 2026 12:00:00 +0000</pubDate>
+      <category>Industrials and Manufacturing</category>
+      <category>Microsoft Fabric</category>
+      <category>Power BI</category>
+      <category>OneLake</category>
+      <category>Azure DevOps</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27103_Acme%20Corrugated%20Box%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>KoRo Handels scales to 15,000 orders a day with Dynamics 365 Business Central</title>
       <link>https://www.microsoft.com/en/customers/story/27081-koro-handels-dynamics-365-business-central</link>
       <description>Startup KoRo Handels scaled to 15,000 orders a day and €150m revenue with Dynamics 365 Business Central</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27081-koro-handels-dynamics-365-business-central</guid>
-      <pubDate>Tue, 25 Aug 2026 12:00:00 +0000</pubDate>
+      <pubDate>Tue, 25 Aug 2026 11:59:59 +0000</pubDate>
       <category>Retail and Consumer Goods</category>
       <category>Dynamics 365 Business Central</category>
       <category>Microsoft 365</category>
@@ -330,7 +343,7 @@
       <link>https://www.microsoft.com/en/customers/story/26998-doa-dierenasiel-dynamics-365-sales</link>
       <description>DOA dierenasiel's solutions using Microsoft Power Platform, Dynamics 365, and Copilot Studio reduce admin, inform medical care, and help more animals.</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26998-doa-dierenasiel-dynamics-365-sales</guid>
-      <pubDate>Tue, 25 Aug 2026 11:59:59 +0000</pubDate>
+      <pubDate>Tue, 25 Aug 2026 11:59:58 +0000</pubDate>
       <category>Nonprofit and IGO</category>
       <category>Dynamics 365 Sales</category>
       <category>Microsoft Copilot Studio</category>
@@ -552,20 +565,6 @@
       <category>Microsoft Copilot Studio</category>
       <category>Dynamics 365 Finance</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26939_GN%20Store%20Nord%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Central Coast Council serves 355,000 citizens anytime, anywhere with Surface 5G</title>
-      <link>https://www.microsoft.com/en/customers/story/26945-central-coast-council-surface</link>
-      <description>Central Coast Council deployed Surface 5G, Microsoft 365, and Copilot to serve 355,000 residents securely from anywhere.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26945-central-coast-council-surface</guid>
-      <pubDate>Fri, 24 Jul 2026 11:59:59 +0000</pubDate>
-      <category>Government</category>
-      <category>Surface</category>
-      <category>Microsoft 365</category>
-      <category>Microsoft Copilot</category>
-      <category>Windows Autopilot</category>
-      <category>Microsoft Intune</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26945_Central%20Coast%20Council%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
