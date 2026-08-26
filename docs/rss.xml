@@ -7,6 +7,23 @@
     <language>en</language>
     <atom:link rel="self" href="" type="application/rss+xml" />
     <item>
+      <title>Lifetime Products rebalances work with Microsoft Copilot Studio</title>
+      <link>https://www.microsoft.com/en/customers/story/27087-lifetime-products-microsoft-copilot-studio</link>
+      <description>Lifetime Products uses Microsoft Copilot Studio agents to make work faster, touchless, and more people-led.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27087-lifetime-products-microsoft-copilot-studio</guid>
+      <pubDate>Wed, 26 Aug 2026 12:00:00 +0000</pubDate>
+      <category>Industrials and Manufacturing</category>
+      <category>Microsoft Copilot Studio</category>
+      <category>Power Automate</category>
+      <category>Microsoft 365 Copilot</category>
+      <category>Microsoft Foundry</category>
+      <category>Dynamics 365 Finance</category>
+      <category>Dynamics 365 Supply Chain Management</category>
+      <category>Dynamics 365</category>
+      <category>Microsoft Power Platform</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27087_Lifetime%20Products%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Acme Corrugated Box increases self-service reporting by 50% and saves 50+ hours on data reconciliation with Microsoft Fabric</title>
       <link>https://www.microsoft.com/en/customers/story/27103-acme-corrugated-box-microsoft-fabric</link>
       <description>With Microsoft Fabric, Acme Corrugated Box increases self-service reporting by 50% while reclaiming 50+ hours every week.</description>
@@ -550,21 +567,6 @@
       <category>Microsoft Copilot Studio</category>
       <category>Microsoft Foundry</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26941_NHS%20Scotland%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>GN Store Nord insources global supply chain with Dynamics 365 Warehouse Only Mode</title>
-      <link>https://www.microsoft.com/en/customers/story/26939-gn-store-nord-dynamics-365</link>
-      <description>GN Store Nord insourced warehousing using Dynamics 365 Warehouse Only Mode, achieving same-day shipping within four days of go-live.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26939-gn-store-nord-dynamics-365</guid>
-      <pubDate>Fri, 24 Jul 2026 12:00:00 +0000</pubDate>
-      <category>Healthcare</category>
-      <category>Healthcare</category>
-      <category>Dynamics 365</category>
-      <category>Dynamics 365 Supply Chain Management</category>
-      <category>Power Automate</category>
-      <category>Microsoft Copilot Studio</category>
-      <category>Dynamics 365 Finance</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26939_GN%20Store%20Nord%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
