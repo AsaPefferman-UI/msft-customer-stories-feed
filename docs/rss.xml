@@ -7,11 +7,23 @@
     <language>en</language>
     <atom:link rel="self" href="" type="application/rss+xml" />
     <item>
+      <title>SPORTFIVE frees time for creativity and client relationships with Microsoft 365 Copilot</title>
+      <link>https://www.microsoft.com/en/customers/story/27129-sportfive-global-holding-microsoft-365</link>
+      <description>Global sports marketing agency SPORTFIVE scaled Microsoft 365 Copilot to 93% adoption, freeing teams to focus on client relationships.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27129-sportfive-global-holding-microsoft-365</guid>
+      <pubDate>Wed, 26 Aug 2026 12:00:00 +0000</pubDate>
+      <category>Professional and Business Services</category>
+      <category>Microsoft 365</category>
+      <category>Microsoft Copilot</category>
+      <category>Microsoft 365 Copilot</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27129_SPORTFIVE%20Global%20Holding%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Lifetime Products rebalances work with Microsoft Copilot Studio</title>
       <link>https://www.microsoft.com/en/customers/story/27087-lifetime-products-microsoft-copilot-studio</link>
       <description>Lifetime Products uses Microsoft Copilot Studio agents to make work faster, touchless, and more people-led.</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27087-lifetime-products-microsoft-copilot-studio</guid>
-      <pubDate>Wed, 26 Aug 2026 12:00:00 +0000</pubDate>
+      <pubDate>Wed, 26 Aug 2026 11:59:59 +0000</pubDate>
       <category>Industrials and Manufacturing</category>
       <category>Microsoft Copilot Studio</category>
       <category>Power Automate</category>
@@ -551,22 +563,6 @@
       <category>Dynamics 365 Customer Service</category>
       <category>Dynamics 365</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26950_Rhenus%20Logistics%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>NHS Scotland delivers a higher standard of cancer care using Microsoft Power Platform</title>
-      <link>https://www.microsoft.com/en/customers/story/26941-nhs-scotland-microsoft-power-platform</link>
-      <description>New system frees up clinicians’ time to focus on more complex patient cases</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26941-nhs-scotland-microsoft-power-platform</guid>
-      <pubDate>Mon, 27 Jul 2026 11:59:59 +0000</pubDate>
-      <category>Healthcare</category>
-      <category>Microsoft Power Platform</category>
-      <category>Power Apps</category>
-      <category>Power Automate</category>
-      <category>Dataverse</category>
-      <category>Microsoft Entra ID</category>
-      <category>Microsoft Copilot Studio</category>
-      <category>Microsoft Foundry</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26941_NHS%20Scotland%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
