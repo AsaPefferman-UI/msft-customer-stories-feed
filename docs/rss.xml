@@ -7,6 +7,40 @@
     <language>en</language>
     <atom:link rel="self" href="" type="application/rss+xml" />
     <item>
+      <title>Elkjøp Nordic moves 200+ microservices to Azure Sweden Central with no downtime using GitHub Copilot</title>
+      <link>https://www.microsoft.com/en/customers/story/27131-elkjop-nordic-as-github-copilot</link>
+      <description>Elkjøp Nordic used GitHub Copilot and modern cloud architecture practices to move more than 200 microservices to Azure Sweden Central with no customer-visible downtime, while extending regional resiliency.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27131-elkjop-nordic-as-github-copilot</guid>
+      <pubDate>Thu, 27 Aug 2026 12:00:00 +0000</pubDate>
+      <category>Retail and Consumer Goods</category>
+      <category>GitHub Copilot</category>
+      <category>Azure</category>
+      <category>Azure Kubernetes Service</category>
+      <category>Azure Cosmos DB</category>
+      <category>Azure Service Bus</category>
+      <category>Azure DNS</category>
+      <category>Azure Web Application Firewall</category>
+      <category>Azure Virtual Machines</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27131_Elkjop%20Nordic%20AS%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>GridBeyond helps turn energy flexibility into revenue and savings using Azure AI</title>
+      <link>https://www.microsoft.com/en/customers/story/27136-gridbeyond-azure</link>
+      <description>GridBeyond uses Azure AI and virtual power plant technology to turn energy flexibility into revenue for the world's most energy-intensive businesses.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27136-gridbeyond-azure</guid>
+      <pubDate>Thu, 27 Aug 2026 11:59:59 +0000</pubDate>
+      <category>Energy and Resources</category>
+      <category>Azure</category>
+      <category>Azure Virtual Machines</category>
+      <category>Azure SQL</category>
+      <category>Azure App Service</category>
+      <category>Azure Storage</category>
+      <category>Azure Firewall</category>
+      <category>GitHub Copilot</category>
+      <category>Microsoft 365 Copilot</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27136_GridBeyond%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>SPORTFIVE frees time for creativity and client relationships with Microsoft 365 Copilot</title>
       <link>https://www.microsoft.com/en/customers/story/27129-sportfive-global-holding-microsoft-365</link>
       <description>Global sports marketing agency SPORTFIVE scaled Microsoft 365 Copilot to 93% adoption, freeing teams to focus on client relationships.</description>
@@ -19,7 +53,20 @@
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27129_SPORTFIVE%20Global%20Holding%20Header%20Image" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Lifetime Products rebalances work with Microsoft Copilot Studio</title>
+      <title>The Ministry of Labor and Social Affairs builds a data-driven Czech state with Azure</title>
+      <link>https://www.microsoft.com/en/customers/story/27134-ministry-of-labor-and-social-affairs-azure</link>
+      <description>The Czech Ministry of Labor and Social Affairs unified its data on Azure to power self-service analytics and AI for millions of citizens.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27134-ministry-of-labor-and-social-affairs-azure</guid>
+      <pubDate>Thu, 27 Aug 2026 11:59:58 +0000</pubDate>
+      <category>Government</category>
+      <category>Azure</category>
+      <category>Azure Databricks</category>
+      <category>Power BI</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27134_Ministry%20of%20Labor%20and%20Social%20Affairs%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title> Lifetime Products rebalances work with Microsoft Copilot Studio 
+</title>
       <link>https://www.microsoft.com/en/customers/story/27087-lifetime-products-microsoft-copilot-studio</link>
       <description>Lifetime Products uses Microsoft Copilot Studio agents to make work faster, touchless, and more people-led.</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27087-lifetime-products-microsoft-copilot-studio</guid>
@@ -47,6 +94,16 @@
       <category>OneLake</category>
       <category>Azure DevOps</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27103_Acme%20Corrugated%20Box%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Korn Ferry partners with Microsoft to securely scale the latest AI solutions</title>
+      <link>https://www.microsoft.com/en/customers/story/27106-korn-ferry-international-microsoft-365-enterprise</link>
+      <description>This story highlights how leading enterprises are using Microsoft 365 E7 to unlock business value, strengthen security, and accelerate AI transformation.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27106-korn-ferry-international-microsoft-365-enterprise</guid>
+      <pubDate>Fri, 28 Aug 2026 12:00:00 +0000</pubDate>
+      <category>Commercial Other Industries</category>
+      <category>Microsoft 365 Enterprise</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27106_Korn%20Ferry%20International%20Header%20Image" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>KoRo Handels scales to 15,000 orders a day with Dynamics 365 Business Central</title>
@@ -517,52 +574,6 @@
       <category>Power BI</category>
       <category>Microsoft Fabric</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26952_NIRAS%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Duke Health builds digital resilience for Epic EHR with disaster recovery on Azure</title>
-      <link>https://www.microsoft.com/en/customers/story/26907-duke-health-microsoft-defender</link>
-      <description>Duke Health strengthens digital resilience for Epic EHR with disaster recovery on Azure, protecting patient care and improving clinician experience.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26907-duke-health-microsoft-defender</guid>
-      <pubDate>Tue, 28 Jul 2026 12:00:00 +0000</pubDate>
-      <category>Healthcare</category>
-      <category>Microsoft Defender</category>
-      <category>Microsoft Fabric</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26907_Duke%20Health%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Krones cuts simulation run times by up to 98% with AI agents and Azure High-Performance Computing</title>
-      <link>https://www.microsoft.com/en/customers/story/26951-krones-azure-hpc</link>
-      <description>Krones is reimagining the future of engineering with AI-powered computer simulations and digital twins that reduce simulation run times by up to 98%.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26951-krones-azure-hpc</guid>
-      <pubDate>Tue, 28 Jul 2026 11:59:59 +0000</pubDate>
-      <category>Industrials and Manufacturing</category>
-      <category>Azure HPC</category>
-      <category>Azure</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26951_Krones%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Brown Health scales Microsoft Dragon Copilot and AI agents to ease care delivery</title>
-      <link>https://www.microsoft.com/en/customers/story/26765-brown-university-health-microsoft-365-copilot</link>
-      <description>Brown Health uses Dragon Copilot, Microsoft 365 Copilot and AI agents to reduce clinician burden and streamline the care delivery process.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26765-brown-university-health-microsoft-365-copilot</guid>
-      <pubDate>Sat, 25 Jul 2026 12:00:00 +0000</pubDate>
-      <category>Healthcare</category>
-      <category>Microsoft 365 Copilot</category>
-      <category>Azure AI Health Bot</category>
-      <category>Microsoft Dragon Copilot</category>
-      <category>Microsoft Copilot Studio</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26765_Brown%20University%20Health%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Smart sales with AI: Rhenus banks on Dynamics 365 to enable more focus on customers</title>
-      <link>https://www.microsoft.com/en/customers/story/26950-rhenus-logistics-dynamics-365-customer-service</link>
-      <description>Rhenus creates with Dynamics 365 a global CRM platform for more transparency, efficiency and customer-focused collaboration.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26950-rhenus-logistics-dynamics-365-customer-service</guid>
-      <pubDate>Mon, 27 Jul 2026 12:00:00 +0000</pubDate>
-      <category>Automotive, Mobility, and Transportation</category>
-      <category>Dynamics 365 Customer Service</category>
-      <category>Dynamics 365</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26950_Rhenus%20Logistics%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
