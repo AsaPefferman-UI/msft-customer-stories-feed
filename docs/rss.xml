@@ -7,6 +7,22 @@
     <language>en</language>
     <atom:link rel="self" href="" type="application/rss+xml" />
     <item>
+      <title>Wellstar cuts shift-fill effort more than 80% using Swift, built on Azure AI</title>
+      <link>https://www.microsoft.com/en/customers/story/27115-wellstar-health-system-microsoft-foundry</link>
+      <description>Swift™ Workforce AI’s agentic scheduling agent, built on Azure AI, cuts Wellstar’s shift-fill effort 80%+, returning Nurse Managers to patient care.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27115-wellstar-health-system-microsoft-foundry</guid>
+      <pubDate>Fri, 28 Aug 2026 12:00:00 +0000</pubDate>
+      <category>Healthcare</category>
+      <category>Microsoft Foundry</category>
+      <category>Azure Kubernetes Service</category>
+      <category>Azure Database for PostgreSQL</category>
+      <category>Azure OpenAI in Foundry Models</category>
+      <category>GitHub</category>
+      <category>GitHub Copilot</category>
+      <category>Azure</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27115_Wellstar%20Health%20System%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Elkjøp Nordic moves 200+ microservices to Azure Sweden Central with no downtime using GitHub Copilot</title>
       <link>https://www.microsoft.com/en/customers/story/27131-elkjop-nordic-as-github-copilot</link>
       <description>Elkjøp Nordic used GitHub Copilot and modern cloud architecture practices to move more than 200 microservices to Azure Sweden Central with no customer-visible downtime, while extending regional resiliency.</description>
@@ -65,6 +81,24 @@
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27134_Ministry%20of%20Labor%20and%20Social%20Affairs%20Header%20Image" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>Harris County builds AI playbook on Microsoft Foundry, saves $2.5M+</title>
+      <link>https://www.microsoft.com/en/customers/story/27102-tx-county-of-harris-microsoft-foundry</link>
+      <description>Texas county develops templated, structured approach to AI and saves $2.5m+ with a single AI project</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27102-tx-county-of-harris-microsoft-foundry</guid>
+      <pubDate>Fri, 28 Aug 2026 11:59:59 +0000</pubDate>
+      <category>Government</category>
+      <category>Microsoft Foundry</category>
+      <category>Microsoft Copilot</category>
+      <category>Microsoft 365 Copilot</category>
+      <category>Microsoft Entra</category>
+      <category>Azure</category>
+      <category>Azure SQL</category>
+      <category>Azure Blob Storage</category>
+      <category>Azure Functions</category>
+      <category>Microsoft Learn</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27102_TX%20COUNTY%20OF%20HARRIS%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title> Lifetime Products rebalances work with Microsoft Copilot Studio 
 </title>
       <link>https://www.microsoft.com/en/customers/story/27087-lifetime-products-microsoft-copilot-studio</link>
@@ -100,7 +134,7 @@
       <link>https://www.microsoft.com/en/customers/story/27106-korn-ferry-international-microsoft-365-enterprise</link>
       <description>This story highlights how leading enterprises are using Microsoft 365 E7 to unlock business value, strengthen security, and accelerate AI transformation.</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27106-korn-ferry-international-microsoft-365-enterprise</guid>
-      <pubDate>Fri, 28 Aug 2026 12:00:00 +0000</pubDate>
+      <pubDate>Fri, 28 Aug 2026 11:59:58 +0000</pubDate>
       <category>Commercial Other Industries</category>
       <category>Microsoft 365 Enterprise</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27106_Korn%20Ferry%20International%20Header%20Image" type="image/jpeg" length="0" />
@@ -233,6 +267,19 @@
       <category>Commercial Other Industries</category>
       <category>Azure</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27023_Tomorrowio%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Garudafood unlocks organizational intelligence as a competitive advantage with Microsoft Fabric</title>
+      <link>https://www.microsoft.com/en/customers/story/27073-tudung-putra-putri-jaya-pt-microsoft-fabric</link>
+      <description>Garudafood innovates with Fabric Real-Time Intelligence to drive business with speed and agility.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27073-tudung-putra-putri-jaya-pt-microsoft-fabric</guid>
+      <pubDate>Sat, 29 Aug 2026 12:00:00 +0000</pubDate>
+      <category>Retail and Consumer Goods</category>
+      <category>Microsoft Fabric</category>
+      <category>Real-Time Intelligence</category>
+      <category>Power BI</category>
+      <category>Microsoft Foundry</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27073_Tudung%20Putra%20Putri%20Jaya%20PT%20Header%20Image" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Nordre Follo municipality advances public hearing modernization with Microsoft Copilot Studio</title>
@@ -530,50 +577,6 @@
       <category>Power Apps</category>
       <category>Dataverse</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26947_State%20Farm%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Accenture achieves 30% faster investigations with Microsoft Defender XDR</title>
-      <link>https://www.microsoft.com/en/customers/story/26955-accenture-microsoft-defender-xdr</link>
-      <description>Accenture advances modern SecOps with Microsoft Security, accelerating investigations and automating response at global scale.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26955-accenture-microsoft-defender-xdr</guid>
-      <pubDate>Mon, 03 Aug 2026 11:59:59 +0000</pubDate>
-      <category>Professional and Business Services</category>
-      <category>Microsoft Defender XDR</category>
-      <category>Microsoft Defender for Endpoint</category>
-      <category>Microsoft Defender for Identity</category>
-      <category>Microsoft Defender for Cloud Apps</category>
-      <category>Microsoft Defender</category>
-      <category>Microsoft Sentinel</category>
-      <category>Microsoft Entra ID</category>
-      <category>Microsoft Intune</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26955_Accenture%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>NTT DATA strengthens customer touchpoints with a secure AI agent using Microsoft Defender</title>
-      <link>https://www.microsoft.com/en/customers/story/26434-ntt-data-japan-corporation-azure</link>
-      <description>NTT DATA’s Customer Service AI agent uses Secure by Design and Microsoft Security to mitigate GenAI risks.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26434-ntt-data-japan-corporation-azure</guid>
-      <pubDate>Mon, 03 Aug 2026 11:59:58 +0000</pubDate>
-      <category>Telecommunications and Media</category>
-      <category>Azure</category>
-      <category>Content Safety in Foundry Control Plane</category>
-      <category>Microsoft Defender Threat Intelligence</category>
-      <category>Microsoft Sentinel</category>
-      <category>Microsoft Defender Cloud Security Posture Management</category>
-      <category>Azure OpenAI in Foundry Models</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26434_NTT%20DATA%20Japan%20Corporation%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>NIRAS slashes data processing times by over 60% with Microsoft Fabric</title>
-      <link>https://www.microsoft.com/en/customers/story/26952-niras-onelake</link>
-      <description>Engineering consulting firm NIRAS decreased data upload and refresh times by over 60% with Microsoft Fabric, empowering employees with timely insights.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26952-niras-onelake</guid>
-      <pubDate>Tue, 04 Aug 2026 11:59:58 +0000</pubDate>
-      <category>Professional and Business Services</category>
-      <category>OneLake</category>
-      <category>Power BI</category>
-      <category>Microsoft Fabric</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26952_NIRAS%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
