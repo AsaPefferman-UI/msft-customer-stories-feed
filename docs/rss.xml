@@ -130,6 +130,17 @@
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27103_Acme%20Corrugated%20Box%20Header%20Image" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>Infobip unlocks daily profitability insights with Microsoft Fabric</title>
+      <link>https://www.microsoft.com/en/customers/story/27089-infobip-microsoft-fabric</link>
+      <description>Infobip modernises its global data estate with Microsoft Fabric, delivering faster insights, unified governance, and a foundation for AI-driven analytics in partnership with Cloud Services.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27089-infobip-microsoft-fabric</guid>
+      <pubDate>Mon, 31 Aug 2026 12:00:00 +0000</pubDate>
+      <category>Telecommunications and Media</category>
+      <category>Microsoft Fabric</category>
+      <category>Real-Time Intelligence</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27089_Infobip%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Korn Ferry partners with Microsoft to securely scale the latest AI solutions</title>
       <link>https://www.microsoft.com/en/customers/story/27106-korn-ferry-international-microsoft-365-enterprise</link>
       <description>This story highlights how leading enterprises are using Microsoft 365 E7 to unlock business value, strengthen security, and accelerate AI transformation.</description>
@@ -472,7 +483,8 @@
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27007_DOMCURA%20Header%20Image" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>DOA dierenasiel helps animals get adopted faster with Dynamics 365, Power Apps, and Microsoft AI</title>
+      <title> DOA dierenasiel helps animals get adopted faster with Dynamics 365, Power Apps, and Microsoft AI 
+</title>
       <link>https://www.microsoft.com/en/customers/story/26998-doa-dierenasiel-dynamics-365-sales</link>
       <description>DOA dierenasiel's solutions using Microsoft Power Platform, Dynamics 365, and Copilot Studio reduce admin, inform medical care, and help more animals.</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26998-doa-dierenasiel-dynamics-365-sales</guid>
@@ -562,21 +574,6 @@
       <category>Government</category>
       <category>Azure</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26967_City%20of%20Raleigh%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>State Farm scales governed AI to deliver enterprise business value with Microsoft Copilot Studio and Power Platform</title>
-      <link>https://www.microsoft.com/en/customers/story/26947-state-farm-microsoft-power-platform</link>
-      <description>State Farm scales governed Copilot Studio agents through responsible AI training, reusable patterns, and a thriving builder community.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26947-state-farm-microsoft-power-platform</guid>
-      <pubDate>Tue, 11 Aug 2026 11:59:58 +0000</pubDate>
-      <category>Financial Services</category>
-      <category>Microsoft Power Platform</category>
-      <category>Power Automate</category>
-      <category>Microsoft Entra ID</category>
-      <category>Microsoft Copilot Studio</category>
-      <category>Power Apps</category>
-      <category>Dataverse</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26947_State%20Farm%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
