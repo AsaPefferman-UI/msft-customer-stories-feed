@@ -7,6 +7,19 @@
     <language>en</language>
     <atom:link rel="self" href="" type="application/rss+xml" />
     <item>
+      <title> Topdanmark completes a business-critical carve-out with Azure landing zones </title>
+      <link>https://www.microsoft.com/en/customers/story/27147-topdanmark-azure</link>
+      <description>Topdanmark used Azure landing zones to establish a governed cloud foundation and complete a business-critical carve-out on schedule.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27147-topdanmark-azure</guid>
+      <pubDate>Tue, 01 Sep 2026 12:00:00 +0000</pubDate>
+      <category>Financial Services</category>
+      <category>Azure</category>
+      <category>Microsoft Entra ID</category>
+      <category>Azure Policy</category>
+      <category>Microsoft Defender for Cloud</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27147_Topdanmark%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Wellstar cuts shift-fill effort more than 80% using Swift, built on Azure AI</title>
       <link>https://www.microsoft.com/en/customers/story/27115-wellstar-health-system-microsoft-foundry</link>
       <description>Swift™ Workforce AI’s agentic scheduling agent, built on Azure AI, cuts Wellstar’s shift-fill effort 80%+, returning Nurse Managers to patient care.</description>
@@ -139,6 +152,17 @@
       <category>Microsoft Fabric</category>
       <category>Real-Time Intelligence</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27089_Infobip%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>INPEX transforms business processes with Microsoft 365 Copilot and AI agents</title>
+      <link>https://www.microsoft.com/en/customers/story/27096-inpex-corporation-microsoft-365-copilot</link>
+      <description>Microsoft 365 Copilot empowered AI-driven work, boosting productivity and engagement while generating over JPY 2 billion in annual value.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27096-inpex-corporation-microsoft-365-copilot</guid>
+      <pubDate>Tue, 01 Sep 2026 11:59:59 +0000</pubDate>
+      <category>Energy and Resources</category>
+      <category>Microsoft 365 Copilot</category>
+      <category>Microsoft Copilot Studio</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27096_INPEX%20CORPORATION%20Header%20Image" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Korn Ferry partners with Microsoft to securely scale the latest AI solutions</title>
@@ -551,29 +575,6 @@
       <category>Azure Front Door</category>
       <category>Microsoft Fabric</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26987_Planet%20DDS%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Peterborough Regional Health Centre turns fragmented data into trusted insight</title>
-      <link>https://www.microsoft.com/en/customers/story/26994-peterborough-regional-health-centre-microsoft-fabric</link>
-      <description>Peterborough Regional Health Centre unified clinical and operational data and introduced governed AI to help teams make faster decisions, improve workflows, and prepare for growing care demands.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26994-peterborough-regional-health-centre-microsoft-fabric</guid>
-      <pubDate>Tue, 04 Aug 2026 11:59:59 +0000</pubDate>
-      <category>Healthcare</category>
-      <category>Microsoft Fabric</category>
-      <category>OneLake</category>
-      <category>Microsoft Foundry</category>
-      <category>Microsoft Purview</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26994_Peterborough%20Regional%20Health%20Centre%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>City of Raleigh to save commuters an estimated $9.7 million with digital twins and Microsoft Azure</title>
-      <link>https://www.microsoft.com/en/customers/story/26967-city-of-raleigh-azure</link>
-      <description>The City of Raleigh is reimagining government services with real-time digital twins of traffic patterns, potentially saving commuters $9.7 million.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26967-city-of-raleigh-azure</guid>
-      <pubDate>Mon, 03 Aug 2026 12:00:00 +0000</pubDate>
-      <category>Government</category>
-      <category>Azure</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26967_City%20of%20Raleigh%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
