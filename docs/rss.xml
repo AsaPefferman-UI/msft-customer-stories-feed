@@ -7,6 +7,17 @@
     <language>en</language>
     <atom:link rel="self" href="" type="application/rss+xml" />
     <item>
+      <title>HFW Companies unifies 13 ERPs and automates its close with Microsoft Fabric</title>
+      <link>https://www.microsoft.com/en/customers/story/27108-hfw-companies-power-bi</link>
+      <description>HFW Companies used Microsoft Fabric to unify 13 ERPs and automate finance reporting across its growing portfolio.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27108-hfw-companies-power-bi</guid>
+      <pubDate>Wed, 02 Sep 2026 12:00:00 +0000</pubDate>
+      <category>Professional and Business Services</category>
+      <category>Power BI</category>
+      <category>Microsoft Fabric</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27108_HFW%20Companies%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title> Topdanmark completes a business-critical carve-out with Azure landing zones </title>
       <link>https://www.microsoft.com/en/customers/story/27147-topdanmark-azure</link>
       <description>Topdanmark used Azure landing zones to establish a governed cloud foundation and complete a business-critical carve-out on schedule.</description>
@@ -556,25 +567,6 @@
       <category>Azure OpenAI in Foundry Models</category>
       <category>Content Safety in Foundry Control Plane</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26496_Plaud%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title> Planet DDS cuts provisioning time from six weeks to one day with Azure modernization 
-</title>
-      <link>https://www.microsoft.com/en/customers/story/26987-planet-dds-azure</link>
-      <description>Planet DDS cuts provisioning from six weeks to one day with Azure, delivering enterprise scale and reliability.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26987-planet-dds-azure</guid>
-      <pubDate>Tue, 04 Aug 2026 12:00:00 +0000</pubDate>
-      <category>Healthcare</category>
-      <category>Azure App Service</category>
-      <category>Azure SQL Database</category>
-      <category>Azure Cosmos DB</category>
-      <category>Azure</category>
-      <category>Microsoft Entra ID</category>
-      <category>Microsoft Defender for Cloud</category>
-      <category>Azure Application Gateway</category>
-      <category>Azure Front Door</category>
-      <category>Microsoft Fabric</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26987_Planet%20DDS%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
