@@ -43,6 +43,17 @@
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27108_HFW%20Companies%20Header%20Image" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>MIRAGE transforms B2B sales with a self-service dealer portal on Dynamics 365 Commerce</title>
+      <link>https://www.microsoft.com/en/customers/story/27172-mirage-dynamics-365-commerce</link>
+      <description>MIRAGE transforms dealer service with a self-service portal for real-time inventory, pricing, and faster ordering.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27172-mirage-dynamics-365-commerce</guid>
+      <pubDate>Fri, 04 Sep 2026 12:00:00 +0000</pubDate>
+      <category>Retail and Consumer Goods</category>
+      <category>Dynamics 365 Commerce</category>
+      <category>Dynamics 365 Finance</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27172_Mirage%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Vend transforms its Nordic digital marketplaces, streamlines finances, and enhances personalization with Dynamics 365</title>
       <link>https://www.microsoft.com/en/customers/story/27150-vend-marketplaces-dynamics-365-finance</link>
       <description>Vend Marketplaces transformed its multi-country operations by unifying ERP and CRM with Microsoft Dynamics 365.</description>
@@ -457,6 +468,18 @@
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27035_Springtime%20GmbH%20Header%20Image" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>Krafton Achieves AI-Powered SecOps Automation with Microsoft Defender XDR and Security Copilot</title>
+      <link>https://www.microsoft.com/en/customers/story/27058-krafton-microsoft-defender-xdr</link>
+      <description>As global gaming company Krafton pursued a company-wide AX, creating an environment where employees could freely use a variety of AI tools, it faced a new reality that the scale and complexity of security events grew rapidly.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27058-krafton-microsoft-defender-xdr</guid>
+      <pubDate>Thu, 03 Sep 2026 12:00:00 +0000</pubDate>
+      <category>Commercial Other Industries</category>
+      <category>Microsoft Defender XDR</category>
+      <category>Microsoft Security Copilot</category>
+      <category>Power Automate</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27058_KRAFTON%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Asper AI makes profitable growth more predictable with Azure and Azure Databricks</title>
       <link>https://www.microsoft.com/en/customers/story/27038-asper-ai-azure-databricks</link>
       <description>Asper AI uses Microsoft Foundry and Azure Databricks to unify CPG data and drive coordinated pricing and promotions decisions for measurable growth.</description>
@@ -543,33 +566,6 @@
       <category>Azure Key Vault</category>
       <category>Azure DevOps</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26969_Banco%20Hipotecario%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>DOMCURA settles insurance claims autonomously in about 10 minutes with Microsoft Foundry</title>
-      <link>https://www.microsoft.com/en/customers/story/27007-domcura-microsoft-foundry</link>
-      <description>Insurance provider DOMCURA resolves claims in about 10 minutes with its autonomous AI platform, KIM, powered by Microsoft Foundry.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27007-domcura-microsoft-foundry</guid>
-      <pubDate>Fri, 07 Aug 2026 12:00:00 +0000</pubDate>
-      <category>Financial Services</category>
-      <category>Microsoft Foundry</category>
-      <category>Azure Document Intelligence in Foundry Tools</category>
-      <category>Azure</category>
-      <category>Azure OpenAI in Foundry Models</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27007_DOMCURA%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title> DOA dierenasiel helps animals get adopted faster with Dynamics 365, Power Apps, and Microsoft AI 
-</title>
-      <link>https://www.microsoft.com/en/customers/story/26998-doa-dierenasiel-dynamics-365-sales</link>
-      <description>DOA dierenasiel's solutions using Microsoft Power Platform, Dynamics 365, and Copilot Studio reduce admin, inform medical care, and help more animals.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26998-doa-dierenasiel-dynamics-365-sales</guid>
-      <pubDate>Tue, 25 Aug 2026 11:59:58 +0000</pubDate>
-      <category>Nonprofit and IGO</category>
-      <category>Dynamics 365 Sales</category>
-      <category>Microsoft Copilot Studio</category>
-      <category>Microsoft Power Platform</category>
-      <category>Microsoft Foundry</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26998_DOA%20dierenasiel%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
