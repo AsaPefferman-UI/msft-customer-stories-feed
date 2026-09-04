@@ -7,7 +7,34 @@
     <language>en</language>
     <atom:link rel="self" href="" type="application/rss+xml" />
     <item>
-      <title> Koerber accelerates GxP operations with trusted AI leveraging Microsoft Azure 
+      <title>Vanderlande saves time and money with Power Platform and Copilot Studio</title>
+      <link>https://www.microsoft.com/en/customers/story/27170-vanderlande-microsoft-power-platform</link>
+      <description>Vanderlande transformed spreadsheet-driven processes into low-code applications and AI agents, empowering more than 1,142 makers across its global logistics operation.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27170-vanderlande-microsoft-power-platform</guid>
+      <pubDate>Fri, 04 Sep 2026 12:00:00 +0000</pubDate>
+      <category>Automotive, Mobility, and Transportation</category>
+      <category>Microsoft Power Platform</category>
+      <category>Microsoft Copilot Studio</category>
+      <category>Microsoft 365 Copilot</category>
+      <category>Power Apps</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27170_Vanderlande%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title> Public Employee Benefits Administrators transforms member services with Dynamics 365 AI agents </title>
+      <link>https://www.microsoft.com/en/customers/story/27179-public-employee-benefits-administrators-dynamics-365-customer-service</link>
+      <description>A benefits administrator deploys four AI agents to transform manual member support into a scalable, quality-driven operation.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27179-public-employee-benefits-administrators-dynamics-365-customer-service</guid>
+      <pubDate>Fri, 04 Sep 2026 11:59:59 +0000</pubDate>
+      <category>Professional and Business Services</category>
+      <category>Dynamics 365 Customer Service</category>
+      <category>Microsoft Copilot Studio</category>
+      <category>Microsoft Power Platform</category>
+      <category>Dynamics 365 Sales</category>
+      <category>Dynamics 365 Customer Insights</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27179_Public%20Employee%20Benefits%20Administrators%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title> Körber accelerates GxP operations with trusted AI leveraging Microsoft Azure 
 </title>
       <link>https://www.microsoft.com/en/customers/story/26966-koerber-azure</link>
       <description>Körber uses Microsoft Azure to build its K.AI platform, including PharmaGuardrails technology, bringing trusted GxP, GAMP AI and EU AI act compliant Artificial Intelligence into the life science industry.</description>
@@ -47,7 +74,7 @@
       <link>https://www.microsoft.com/en/customers/story/27172-mirage-dynamics-365-commerce</link>
       <description>MIRAGE transforms dealer service with a self-service portal for real-time inventory, pricing, and faster ordering.</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27172-mirage-dynamics-365-commerce</guid>
-      <pubDate>Fri, 04 Sep 2026 12:00:00 +0000</pubDate>
+      <pubDate>Fri, 04 Sep 2026 11:59:58 +0000</pubDate>
       <category>Retail and Consumer Goods</category>
       <category>Dynamics 365 Commerce</category>
       <category>Dynamics 365 Finance</category>
@@ -533,39 +560,6 @@
       <category>Microsoft Copilot Studio</category>
       <category>Microsoft 365 Copilot Chat</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26948_KOHLER%20Company%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Engineers Australia improves member experience and builds team capacity with Dynamics 365 Contact Center</title>
-      <link>https://www.microsoft.com/en/customers/story/26999-engineers-australia-dynamics-365-contact-center</link>
-      <description>Engineers Australia's digital transformation, including Microsoft Dynamics 365 Contact Center, empowers the nonprofit to grow and scale.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26999-engineers-australia-dynamics-365-contact-center</guid>
-      <pubDate>Mon, 24 Aug 2026 12:00:00 +0000</pubDate>
-      <category>Nonprofit and IGO</category>
-      <category>Dynamics 365 Contact Center</category>
-      <category>Microsoft 365</category>
-      <category>Dynamics 365 Sales</category>
-      <category>Dynamics 365 Customer Insights</category>
-      <category>Microsoft Copilot Studio</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26999_Engineers%20Australia%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Banco Hipotecario transforms banking and customer service with Dynamics 365 and Copilot Studio AI agents</title>
-      <link>https://www.microsoft.com/en/customers/story/26969-banco-hipotecario-github-copilot</link>
-      <description>Banco Hipotecario modernizes banking with Dynamics 365 and Copilot Studio, improving service, efficiency, and customer satisfaction.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26969-banco-hipotecario-github-copilot</guid>
-      <pubDate>Tue, 11 Aug 2026 12:00:00 +0000</pubDate>
-      <category>Financial Services</category>
-      <category>GitHub Copilot</category>
-      <category>Microsoft Copilot Studio</category>
-      <category>Dynamics 365 Sales</category>
-      <category>Dynamics 365 Customer Service</category>
-      <category>Microsoft Power Platform</category>
-      <category>Power Automate</category>
-      <category>Power BI</category>
-      <category>Dataverse</category>
-      <category>Azure Key Vault</category>
-      <category>Azure DevOps</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26969_Banco%20Hipotecario%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
