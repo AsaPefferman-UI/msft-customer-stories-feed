@@ -7,6 +7,71 @@
     <language>en</language>
     <atom:link rel="self" href="" type="application/rss+xml" />
     <item>
+      <title>Williams transforms frontline work with Copilot, gaining 90% adoption</title>
+      <link>https://www.microsoft.com/en/customers/story/27209-williams-microsoft-365-copilot</link>
+      <description>Williams transforms frontline operations with Microsoft 365 Copilot, driving over 90% AI adoption organization-wide.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27209-williams-microsoft-365-copilot</guid>
+      <pubDate>Wed, 09 Sep 2026 12:00:00 +0000</pubDate>
+      <category>Energy and Resources</category>
+      <category>Microsoft 365 Copilot</category>
+      <category>Outlook</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27209_Williams%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>JetBlue modernizes cloud security at scale with Azure Firewall</title>
+      <link>https://www.microsoft.com/en/customers/story/27168-jetblue-airways-azure-firewall</link>
+      <description>JetBlue scales cloud security with Azure Firewall.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27168-jetblue-airways-azure-firewall</guid>
+      <pubDate>Tue, 08 Sep 2026 12:00:00 +0000</pubDate>
+      <category>Automotive, Mobility, and Transportation</category>
+      <category>Azure Firewall</category>
+      <category>Azure</category>
+      <category>Azure Kubernetes Service</category>
+      <category>GitHub</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27168_JetBlue%20Airways%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>How Premera Blue Cross strengthened the heartbeat of its business with Microsoft Azure</title>
+      <link>https://www.microsoft.com/en/customers/story/27197-premera-blue-cross-azure</link>
+      <description>Premera Blue Cross modernized its mission-critical FACETS platform on Microsoft Azure, improving performance and building a foundation for future innovation.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27197-premera-blue-cross-azure</guid>
+      <pubDate>Tue, 08 Sep 2026 11:59:59 +0000</pubDate>
+      <category>Healthcare</category>
+      <category>Azure</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27197_PREMERA%20BLUE%20CROSS%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Black &amp; Veatch scales Microsoft AI enterprise-wide to deliver greater client value</title>
+      <link>https://www.microsoft.com/en/customers/story/27050-black-and-veatch-microsoft-365-copilot</link>
+      <description>Leading engineering and construction company Black &amp; Veatch uses Microsoft AI solutions to meet rising demand, delivering faster and higher-quality work.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27050-black-and-veatch-microsoft-365-copilot</guid>
+      <pubDate>Tue, 08 Sep 2026 11:59:58 +0000</pubDate>
+      <category>Professional and Business Services</category>
+      <category>Microsoft 365 Copilot</category>
+      <category>Microsoft Foundry</category>
+      <category>GitHub Copilot</category>
+      <category>Azure</category>
+      <category>Microsoft Fabric</category>
+      <category>Microsoft Security Copilot</category>
+      <category>Microsoft Purview</category>
+      <category>Visual Studio Code</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27050_Black%20and%20Veatch%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Black &amp; Veatch Achieves 98% Microsoft Copilot Adoption Through AI Change Management.</title>
+      <link>https://www.microsoft.com/en/customers/story/27049-black-and-veatch-microsoft-365-copilot</link>
+      <description>Engineering and construction leader Black &amp; Veatch takes a highly effective, cohort-based approach to learning and achieves 98% adoption of Copilot.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27049-black-and-veatch-microsoft-365-copilot</guid>
+      <pubDate>Tue, 08 Sep 2026 11:59:57 +0000</pubDate>
+      <category>Professional and Business Services</category>
+      <category>Microsoft 365 Copilot</category>
+      <category>Microsoft Copilot Studio</category>
+      <category>GitHub Copilot</category>
+      <category>Azure OpenAI in Foundry Models</category>
+      <category>Microsoft Viva Engage</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27049_Black%20and%20Veatch%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Vanderlande saves time and money with Power Platform and Copilot Studio</title>
       <link>https://www.microsoft.com/en/customers/story/27170-vanderlande-microsoft-power-platform</link>
       <description>Vanderlande transformed spreadsheet-driven processes into low-code applications and AI agents, empowering more than 1,142 makers across its global logistics operation.</description>
@@ -493,73 +558,6 @@
       <category>GitHub Copilot</category>
       <category>Microsoft Foundry</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27035_Springtime%20GmbH%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Krafton Achieves AI-Powered SecOps Automation with Microsoft Defender XDR and Security Copilot</title>
-      <link>https://www.microsoft.com/en/customers/story/27058-krafton-microsoft-defender-xdr</link>
-      <description>As global gaming company Krafton pursued a company-wide AX, creating an environment where employees could freely use a variety of AI tools, it faced a new reality that the scale and complexity of security events grew rapidly.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27058-krafton-microsoft-defender-xdr</guid>
-      <pubDate>Thu, 03 Sep 2026 12:00:00 +0000</pubDate>
-      <category>Commercial Other Industries</category>
-      <category>Microsoft Defender XDR</category>
-      <category>Microsoft Security Copilot</category>
-      <category>Power Automate</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27058_KRAFTON%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Asper AI makes profitable growth more predictable with Azure and Azure Databricks</title>
-      <link>https://www.microsoft.com/en/customers/story/27038-asper-ai-azure-databricks</link>
-      <description>Asper AI uses Microsoft Foundry and Azure Databricks to unify CPG data and drive coordinated pricing and promotions decisions for measurable growth.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27038-asper-ai-azure-databricks</guid>
-      <pubDate>Thu, 13 Aug 2026 12:00:00 +0000</pubDate>
-      <category>Software, Data and Platforms</category>
-      <category>Azure Databricks</category>
-      <category>Azure Database for PostgreSQL</category>
-      <category>Azure Cosmos DB</category>
-      <category>Microsoft Foundry</category>
-      <category>Azure</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27038_Asper%20AI%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>SK Innovation Realizes Multi-Agent Orchestration Based on Microsoft Foundry</title>
-      <link>https://www.microsoft.com/en/customers/story/27046-sk-innovation-azure-api-management</link>
-      <description>With Microsoft Foundry, SK Innovation is scaling to enterprise-wide multi-agent orchestration, pairing rapid AI adoption with strong governance for a leading AX model.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27046-sk-innovation-azure-api-management</guid>
-      <pubDate>Tue, 18 Aug 2026 11:59:57 +0000</pubDate>
-      <category>Commercial Other Industries</category>
-      <category>Azure API Management</category>
-      <category>Microsoft Foundry</category>
-      <category>Azure Document Intelligence in Foundry Tools</category>
-      <category>Azure AI Search</category>
-      <category>Azure OpenAI in Foundry Models</category>
-      <category>Azure Blob Storage</category>
-      <category>Power Automate</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27046_SK%20Innovation%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Sunrise simplifies secure work for external teams with Windows 365 Cloud PCs and Microsoft Intune</title>
-      <link>https://www.microsoft.com/en/customers/story/27032-sunrise-gmbh-windows-365</link>
-      <description>Sunrise uses Windows 365 and Intune to securely equip contractors while simplifying management and reducing IT complexity.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27032-sunrise-gmbh-windows-365</guid>
-      <pubDate>Sat, 15 Aug 2026 12:00:00 +0000</pubDate>
-      <category>Telecommunications and Media</category>
-      <category>Windows 365</category>
-      <category>Microsoft Intune</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27032_Sunrise%20GmbH%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>KOHLER achieves 98% Microsoft 365 Copilot adoption with a bold strategy for change</title>
-      <link>https://www.microsoft.com/en/customers/story/26948-kohler-company-microsoft-365-copilot</link>
-      <description>KOHLER achieved 98% Microsoft 365 Copilot adoption with a targeted, enterprise-wide change management and skilling strategy that encourages bold ideas.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26948-kohler-company-microsoft-365-copilot</guid>
-      <pubDate>Mon, 10 Aug 2026 12:00:00 +0000</pubDate>
-      <category>Industrials and Manufacturing</category>
-      <category>Microsoft 365 Copilot</category>
-      <category>GitHub Copilot</category>
-      <category>Microsoft Viva Engage</category>
-      <category>Microsoft Copilot Studio</category>
-      <category>Microsoft 365 Copilot Chat</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26948_KOHLER%20Company%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
