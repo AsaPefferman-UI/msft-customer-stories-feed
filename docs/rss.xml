@@ -85,6 +85,21 @@
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27170_Vanderlande%20Header%20Image" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>CPL Aromas builds a unified data foundation, innovating faster with Fabric</title>
+      <link>https://www.microsoft.com/en/customers/story/26991-cpl-aromas-microsoft-fabric</link>
+      <description>CPL Aromas unified enterprise data with Microsoft Fabric, accelerating decision-making and creating a foundation for future AI innovation.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26991-cpl-aromas-microsoft-fabric</guid>
+      <pubDate>Wed, 09 Sep 2026 11:59:59 +0000</pubDate>
+      <category>Retail and Consumer Goods</category>
+      <category>Microsoft Fabric</category>
+      <category>OneLake</category>
+      <category>Dynamics 365</category>
+      <category>Dynamics AX</category>
+      <category>Power BI</category>
+      <category>Microsoft Copilot</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26991_CPL%20AROMAS%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title> Public Employee Benefits Administrators transforms member services with Dynamics 365 AI agents </title>
       <link>https://www.microsoft.com/en/customers/story/27179-public-employee-benefits-administrators-dynamics-365-customer-service</link>
       <description>A benefits administrator deploys four AI agents to transform manual member support into a scalable, quality-driven operation.</description>
@@ -542,22 +557,6 @@
       <category>GitHub Copilot</category>
       <category>Microsoft Copilot Studio</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27013_The%20Contingent%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Springtime Technologies unlocks potential with a cloud-first transformation on Azure</title>
-      <link>https://www.microsoft.com/en/customers/story/27035-springtime-gmbh-azure</link>
-      <description>Springtime Technologies uses Azure to scale invoice automation, boost insights, and unlock new revenue with a resilient cloud platform.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27035-springtime-gmbh-azure</guid>
-      <pubDate>Tue, 18 Aug 2026 11:59:58 +0000</pubDate>
-      <category>Professional and Business Services</category>
-      <category>Azure</category>
-      <category>Microsoft Fabric</category>
-      <category>Azure OpenAI in Foundry Models</category>
-      <category>Microsoft 365</category>
-      <category>Microsoft Copilot</category>
-      <category>GitHub Copilot</category>
-      <category>Microsoft Foundry</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27035_Springtime%20GmbH%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
