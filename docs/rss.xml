@@ -7,11 +7,25 @@
     <language>en</language>
     <atom:link rel="self" href="" type="application/rss+xml" />
     <item>
+      <title>The BUSY Group securely combats unemployment internationally with Microsoft Entra and Microsoft Intune</title>
+      <link>https://www.microsoft.com/en/customers/story/26992-the-busy-group-microsoft-entra</link>
+      <description>The BUSY Group expands service offerings in alternative schools and employment programs with a deployment model using Microsoft Entra and Intune.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26992-the-busy-group-microsoft-entra</guid>
+      <pubDate>Wed, 09 Sep 2026 12:00:00 +0000</pubDate>
+      <category>Nonprofit and IGO</category>
+      <category>Microsoft Entra</category>
+      <category>Microsoft Intune</category>
+      <category>Windows Autopilot</category>
+      <category>Microsoft 365</category>
+      <category>Azure</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26992_The%20BUSY%20Group%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Williams transforms frontline work with Copilot, gaining 90% adoption</title>
       <link>https://www.microsoft.com/en/customers/story/27209-williams-microsoft-365-copilot</link>
       <description>Williams transforms frontline operations with Microsoft 365 Copilot, driving over 90% AI adoption organization-wide.</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27209-williams-microsoft-365-copilot</guid>
-      <pubDate>Wed, 09 Sep 2026 12:00:00 +0000</pubDate>
+      <pubDate>Wed, 09 Sep 2026 11:59:59 +0000</pubDate>
       <category>Energy and Resources</category>
       <category>Microsoft 365 Copilot</category>
       <category>Outlook</category>
@@ -89,7 +103,7 @@
       <link>https://www.microsoft.com/en/customers/story/26991-cpl-aromas-microsoft-fabric</link>
       <description>CPL Aromas unified enterprise data with Microsoft Fabric, accelerating decision-making and creating a foundation for future AI innovation.</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26991-cpl-aromas-microsoft-fabric</guid>
-      <pubDate>Wed, 09 Sep 2026 11:59:59 +0000</pubDate>
+      <pubDate>Wed, 09 Sep 2026 11:59:58 +0000</pubDate>
       <category>Retail and Consumer Goods</category>
       <category>Microsoft Fabric</category>
       <category>OneLake</category>
@@ -137,6 +151,20 @@
       <category>Microsoft 365</category>
       <category>Microsoft Copilot</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27133_Nazareth%20Care%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Catalent uses AI on Azure to improve deviation review and quality decisions</title>
+      <link>https://www.microsoft.com/en/customers/story/27171-catalent-azure-openai-in-foundry-models</link>
+      <description>Catalent prioritized its Patient First value by applying agentic AI to production deviations through a bespoke development process on Azure.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27171-catalent-azure-openai-in-foundry-models</guid>
+      <pubDate>Wed, 09 Sep 2026 11:59:57 +0000</pubDate>
+      <category>Healthcare</category>
+      <category>Azure OpenAI in Foundry Models</category>
+      <category>Microsoft Foundry</category>
+      <category>Azure App Service</category>
+      <category>Microsoft Fabric</category>
+      <category>Azure</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27171_Catalent%20Header%20Image" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>HFW Companies unifies 13 ERPs and automates its close with Microsoft Fabric</title>
@@ -520,43 +548,6 @@
       <category>Healthcare</category>
       <category>Microsoft Dragon Copilot</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27030_Mercy%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>COSMO CONSULT quadruples sales pipeline with Dynamics 365 and Copilot Studio</title>
-      <link>https://www.microsoft.com/en/customers/story/27037-cosmo-consult-microsoft-copilot-studio</link>
-      <description>A Microsoft partner consolidates fragmented systems into Dynamics 365 and uses AI agents to drive 4x pipeline growth.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27037-cosmo-consult-microsoft-copilot-studio</guid>
-      <pubDate>Tue, 18 Aug 2026 11:59:59 +0000</pubDate>
-      <category>Professional and Business Services</category>
-      <category>Microsoft Copilot Studio</category>
-      <category>Dynamics 365 Sales</category>
-      <category>Microsoft Power Platform</category>
-      <category>Dynamics 365 Customer Insights</category>
-      <category>Dynamics 365 Project Operations</category>
-      <category>Dynamics 365 Customer Service</category>
-      <category>Power Apps</category>
-      <category>Dynamics 365 Finance</category>
-      <category>Dynamics 365 Supply Chain Management</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27037_COSMO%20CONSULT%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>The Contingent fights the foster care crisis with Microsoft low-code and AI solutions</title>
-      <link>https://www.microsoft.com/en/customers/story/27013-the-contingent-dataverse</link>
-      <description>The Contingent leverages Microsoft Power Platform, Power BI, Copilot, and other tools to help Tennessee recruit more foster families.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27013-the-contingent-dataverse</guid>
-      <pubDate>Thu, 20 Aug 2026 11:59:58 +0000</pubDate>
-      <category>Nonprofit and IGO</category>
-      <category>Dataverse</category>
-      <category>Azure</category>
-      <category>Dynamics 365 Customer Insights</category>
-      <category>Microsoft Power Platform</category>
-      <category>Azure App Service</category>
-      <category>Power Apps</category>
-      <category>Power BI</category>
-      <category>Microsoft 365 Copilot</category>
-      <category>GitHub Copilot</category>
-      <category>Microsoft Copilot Studio</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27013_The%20Contingent%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
