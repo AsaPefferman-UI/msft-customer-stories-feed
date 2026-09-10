@@ -7,6 +7,19 @@
     <language>en</language>
     <atom:link rel="self" href="" type="application/rss+xml" />
     <item>
+      <title>Hancock Iron Ore scales Azure AI to extend rail lifespan 10%</title>
+      <link>https://www.microsoft.com/en/customers/story/27229-hancock-iron-ore-microsoft-foundry</link>
+      <description>Hancock Iron Ore became a frontier firm for mining, scaling Azure AI apps and agents across operations, maintenance, and corporate functions.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27229-hancock-iron-ore-microsoft-foundry</guid>
+      <pubDate>Thu, 10 Sep 2026 12:00:00 +0000</pubDate>
+      <category>Energy and Resources</category>
+      <category>Microsoft Foundry</category>
+      <category>Microsoft Fabric</category>
+      <category>Azure Databricks</category>
+      <category>Microsoft 365 Copilot</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27229_Hancock%20Iron%20Ore%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>The BUSY Group securely combats unemployment internationally with Microsoft Entra and Microsoft Intune</title>
       <link>https://www.microsoft.com/en/customers/story/26992-the-busy-group-microsoft-entra</link>
       <description>The BUSY Group expands service offerings in alternative schools and employment programs with a deployment model using Microsoft Entra and Intune.</description>
@@ -25,7 +38,7 @@
       <link>https://www.microsoft.com/en/customers/story/27237-pladis-global-microsoft-365-copilot</link>
       <description>Global snacking company pladis used Microsoft 365 Copilot to help engaged participants save 12+ hours a month on average, with some saving up to 20 hours.</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27237-pladis-global-microsoft-365-copilot</guid>
-      <pubDate>Thu, 10 Sep 2026 12:00:00 +0000</pubDate>
+      <pubDate>Thu, 10 Sep 2026 11:59:59 +0000</pubDate>
       <category>Retail and Consumer Goods</category>
       <category>Microsoft 365 Copilot</category>
       <category>Microsoft Copilot Studio</category>
@@ -541,18 +554,6 @@
       <category>Microsoft Fabric</category>
       <category>Power BI</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27052_Nordre%20Follo%20Municipality%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>The NFL modernizes game-day operations with Microsoft Copilot Studio and Power Platform</title>
-      <link>https://www.microsoft.com/en/customers/story/26767-national-football-league-microsoft-copilot-studio</link>
-      <description>AI-powered Game Ops Dashboard saves 8-12 hours a week in data entry and report generation time.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26767-national-football-league-microsoft-copilot-studio</guid>
-      <pubDate>Fri, 14 Aug 2026 12:00:00 +0000</pubDate>
-      <category>Telecommunications and Media</category>
-      <category>Microsoft Copilot Studio</category>
-      <category>Microsoft Power Platform</category>
-      <category>Power Automate</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26767_National%20Football%20League%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
