@@ -21,6 +21,20 @@
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26992_The%20BUSY%20Group%20Header%20Image" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>pladis engaged users save 12+ hours a month on average with Microsoft 365 Copilot</title>
+      <link>https://www.microsoft.com/en/customers/story/27237-pladis-global-microsoft-365-copilot</link>
+      <description>Global snacking company pladis used Microsoft 365 Copilot to help engaged participants save 12+ hours a month on average, with some saving up to 20 hours.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27237-pladis-global-microsoft-365-copilot</guid>
+      <pubDate>Thu, 10 Sep 2026 12:00:00 +0000</pubDate>
+      <category>Retail and Consumer Goods</category>
+      <category>Microsoft 365 Copilot</category>
+      <category>Microsoft Copilot Studio</category>
+      <category>Power Automate</category>
+      <category>Power BI</category>
+      <category>Microsoft Power Platform</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27237_pladis%20Global%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Williams transforms frontline work with Copilot, gaining 90% adoption</title>
       <link>https://www.microsoft.com/en/customers/story/27209-williams-microsoft-365-copilot</link>
       <description>Williams transforms frontline operations with Microsoft 365 Copilot, driving over 90% AI adoption organization-wide.</description>
@@ -539,16 +553,6 @@
       <category>Microsoft Power Platform</category>
       <category>Power Automate</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26767_National%20Football%20League%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Mercy nurses use Microsoft Dragon Copilot to help advance patient-centered care</title>
-      <link>https://www.microsoft.com/en/customers/story/27030-mercy-microsoft-dragon-copilot</link>
-      <description>Mercy nurses use Microsoft Dragon Copilot to reduce administrative burden and spend more time delivering compassionate, patient-centered care.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27030-mercy-microsoft-dragon-copilot</guid>
-      <pubDate>Fri, 14 Aug 2026 11:59:59 +0000</pubDate>
-      <category>Healthcare</category>
-      <category>Microsoft Dragon Copilot</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27030_Mercy%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
