@@ -7,6 +7,18 @@
     <language>en</language>
     <atom:link rel="self" href="" type="application/rss+xml" />
     <item>
+      <title>flatexDEGIRO uses Microsoft Fabric to reduce recurring HR reporting preparation effort by 38% and enable daily workforce insights</title>
+      <link>https://www.microsoft.com/en/customers/story/27123-flatexdegiro-se-microsoft-fabric</link>
+      <description>flatexDEGIRO modernized HR reporting with Microsoft Fabric, reducing recurring preparation effort by 38%, enabling daily refreshed workforce insights, and releasing 106 working hours annually for higher-value analysis.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27123-flatexdegiro-se-microsoft-fabric</guid>
+      <pubDate>Sat, 12 Sep 2026 12:00:00 +0000</pubDate>
+      <category>Financial Services</category>
+      <category>Microsoft Fabric</category>
+      <category>Power BI</category>
+      <category>Azure</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27123_flatexDEGIRO%20SE%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Hancock Iron Ore scales Azure AI to extend rail lifespan 10%</title>
       <link>https://www.microsoft.com/en/customers/story/27229-hancock-iron-ore-microsoft-foundry</link>
       <description>Hancock Iron Ore became a frontier firm for mining, scaling Azure AI apps and agents across operations, maintenance, and corporate functions.</description>
@@ -540,20 +552,6 @@
       <category>Power BI</category>
       <category>Microsoft Foundry</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27073_Tudung%20Putra%20Putri%20Jaya%20PT%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Nordre Follo municipality advances public hearing modernization with Microsoft Copilot Studio</title>
-      <link>https://www.microsoft.com/en/customers/story/27052-nordre-follo-municipality-microsoft-copilot-studio</link>
-      <description>Norwegian municipality deploys a Hearing Agent to automate collection, summarization, and reporting of public hearing responses.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27052-nordre-follo-municipality-microsoft-copilot-studio</guid>
-      <pubDate>Mon, 17 Aug 2026 12:00:00 +0000</pubDate>
-      <category>Government</category>
-      <category>Microsoft Copilot Studio</category>
-      <category>SharePoint</category>
-      <category>Microsoft 365</category>
-      <category>Microsoft Fabric</category>
-      <category>Power BI</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27052_Nordre%20Follo%20Municipality%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
