@@ -19,11 +19,24 @@
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27123_flatexDEGIRO%20SE%20Header%20Image" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>St. Helena Hospice builds capacity for compassionate care with Dynamics 365</title>
+      <link>https://www.microsoft.com/en/customers/story/27146-st-helena-hospice-dynamics-365-business-central</link>
+      <description>St. Helena Hospice uses Dynamics 365 Business Central to gain and act on financial insights and Customer Insights to deepen stakeholder relationships.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27146-st-helena-hospice-dynamics-365-business-central</guid>
+      <pubDate>Tue, 15 Sep 2026 12:00:00 +0000</pubDate>
+      <category>Nonprofit and IGO</category>
+      <category>Dynamics 365 Business Central</category>
+      <category>Dynamics 365 Customer Insights</category>
+      <category>Dynamics 365 Sales</category>
+      <category>Dataverse</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27146_St%20Helena%20Hospice%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Dunea taps into efficiency, productivity, and better service with Dynamics 365</title>
       <link>https://www.microsoft.com/en/customers/story/27252-dunea-dynamics-365-customer-service</link>
       <description>Dunea boosts operational efficiency and service quality through integrated Dynamics 365 and Power Platform modernization.</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27252-dunea-dynamics-365-customer-service</guid>
-      <pubDate>Tue, 15 Sep 2026 12:00:00 +0000</pubDate>
+      <pubDate>Tue, 15 Sep 2026 11:59:59 +0000</pubDate>
       <category>Commercial Other Industries</category>
       <category>Dynamics 365 Customer Service</category>
       <category>Dynamics 365 Field Service</category>
@@ -37,7 +50,7 @@
       <link>https://www.microsoft.com/en/customers/story/27232-vcat-dynamics-365</link>
       <description>VCAT has built a digital case management platform on Dynamics 365 to move from paper files to faster, more accessible dispute resolution for Victorians.</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27232-vcat-dynamics-365</guid>
-      <pubDate>Tue, 15 Sep 2026 11:59:59 +0000</pubDate>
+      <pubDate>Tue, 15 Sep 2026 11:59:58 +0000</pubDate>
       <category>Government</category>
       <category>Dynamics 365</category>
       <category>Dynamics 365 Customer Service</category>
@@ -544,21 +557,6 @@
       <category>Microsoft Fabric</category>
       <category>Microsoft Copilot Studio</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26970_Brisbane%20Grammar%20School%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Basecamp Research trains AI on 4 billion years of evolution to build general biological intelligence, powered by Microsoft Azure</title>
-      <link>https://www.microsoft.com/en/customers/story/26652-basecamp-research-ltd-azure-container-registry</link>
-      <description>Basecamp Research used Azure AI Infrastructure to achieve world-first programmable gene insertion with AI trained on evolutionary data.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26652-basecamp-research-ltd-azure-container-registry</guid>
-      <pubDate>Wed, 19 Aug 2026 11:59:58 +0000</pubDate>
-      <category>Commercial Other Industries</category>
-      <category>Azure Container Registry</category>
-      <category>Azure AI Infrastructure</category>
-      <category>Azure Kubernetes Service</category>
-      <category>Azure Blob Storage</category>
-      <category>Azure Files</category>
-      <category>Azure Machine Learning</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26652_Basecamp%20Research%20LTD%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
