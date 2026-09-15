@@ -19,6 +19,20 @@
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27123_flatexDEGIRO%20SE%20Header%20Image" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>Dunea taps into efficiency, productivity, and better service with Dynamics 365</title>
+      <link>https://www.microsoft.com/en/customers/story/27252-dunea-dynamics-365-customer-service</link>
+      <description>Dunea boosts operational efficiency and service quality through integrated Dynamics 365 and Power Platform modernization.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27252-dunea-dynamics-365-customer-service</guid>
+      <pubDate>Tue, 15 Sep 2026 12:00:00 +0000</pubDate>
+      <category>Commercial Other Industries</category>
+      <category>Dynamics 365 Customer Service</category>
+      <category>Dynamics 365 Field Service</category>
+      <category>Dynamics 365 Supply Chain Management</category>
+      <category>Power BI</category>
+      <category>Power Apps</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27252_Dunea%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Hancock Iron Ore scales Azure AI to extend rail lifespan 10%</title>
       <link>https://www.microsoft.com/en/customers/story/27229-hancock-iron-ore-microsoft-foundry</link>
       <description>Hancock Iron Ore became a frontier firm for mining, scaling Azure AI apps and agents across operations, maintenance, and corporate functions.</description>
@@ -539,19 +553,6 @@
       <category>Commercial Other Industries</category>
       <category>Azure</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27023_Tomorrowio%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Garudafood unlocks organizational intelligence as a competitive advantage with Microsoft Fabric</title>
-      <link>https://www.microsoft.com/en/customers/story/27073-tudung-putra-putri-jaya-pt-microsoft-fabric</link>
-      <description>Garudafood innovates with Fabric Real-Time Intelligence to drive business with speed and agility.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27073-tudung-putra-putri-jaya-pt-microsoft-fabric</guid>
-      <pubDate>Sat, 29 Aug 2026 12:00:00 +0000</pubDate>
-      <category>Retail and Consumer Goods</category>
-      <category>Microsoft Fabric</category>
-      <category>Real-Time Intelligence</category>
-      <category>Power BI</category>
-      <category>Microsoft Foundry</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27073_Tudung%20Putra%20Putri%20Jaya%20PT%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
