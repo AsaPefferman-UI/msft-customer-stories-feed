@@ -7,6 +7,21 @@
     <language>en</language>
     <atom:link rel="self" href="" type="application/rss+xml" />
     <item>
+      <title>Docusign scales AI on Azure, processes 1M+ agreements daily with eightfold throughput</title>
+      <link>https://www.microsoft.com/en/customers/story/27299-docusign-microsoft-foundry</link>
+      <description>Docusign optimized AI on Azure to process over 1 million agreements daily, reduce costs 90%, and increase throughput eightfold.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27299-docusign-microsoft-foundry</guid>
+      <pubDate>Tue, 15 Sep 2026 12:00:00 +0000</pubDate>
+      <category>Software, Data and Platforms</category>
+      <category>Microsoft Foundry</category>
+      <category>Azure OpenAI in Foundry Models</category>
+      <category>Azure Kubernetes Service</category>
+      <category>Azure Cosmos DB</category>
+      <category>Azure Database for PostgreSQL</category>
+      <category>Azure</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27299_Docusign%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>flatexDEGIRO uses Microsoft Fabric to reduce recurring HR reporting preparation effort by 38% and enable daily workforce insights</title>
       <link>https://www.microsoft.com/en/customers/story/27123-flatexdegiro-se-microsoft-fabric</link>
       <description>flatexDEGIRO modernized HR reporting with Microsoft Fabric, reducing recurring preparation effort by 38%, enabling daily refreshed workforce insights, and releasing 106 working hours annually for higher-value analysis.</description>
@@ -23,7 +38,7 @@
       <link>https://www.microsoft.com/en/customers/story/27146-st-helena-hospice-dynamics-365-business-central</link>
       <description>St. Helena Hospice uses Dynamics 365 Business Central to gain and act on financial insights and Customer Insights to deepen stakeholder relationships.</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27146-st-helena-hospice-dynamics-365-business-central</guid>
-      <pubDate>Tue, 15 Sep 2026 12:00:00 +0000</pubDate>
+      <pubDate>Tue, 15 Sep 2026 11:59:59 +0000</pubDate>
       <category>Nonprofit and IGO</category>
       <category>Dynamics 365 Business Central</category>
       <category>Dynamics 365 Customer Insights</category>
@@ -32,11 +47,29 @@
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27146_St%20Helena%20Hospice%20Header%20Image" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>Kentucky CHFS modernizes its integration hub on Azure, cutting cost and complexity</title>
+      <link>https://www.microsoft.com/en/customers/story/27144-kentucky-cabinet-of-health-and-family-services-azure-integration-services</link>
+      <description>Kentucky Cabinet for Health and Family Services completes a major enterprise cloud modernization of its State Integration Hub.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27144-kentucky-cabinet-of-health-and-family-services-azure-integration-services</guid>
+      <pubDate>Tue, 15 Sep 2026 11:59:58 +0000</pubDate>
+      <category>Government</category>
+      <category>Azure Integration Services</category>
+      <category>Azure</category>
+      <category>Azure Key Vault</category>
+      <category>Azure Application Gateway</category>
+      <category>Azure API Management</category>
+      <category>Azure Monitor</category>
+      <category>Azure DevOps</category>
+      <category>Azure Functions</category>
+      <category>Azure Logic Apps</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27144_Cabinet%20of%20Health%20and%20Family%20Services%20Government%20of%20the%20Commonwealth%20of%20Kentucky%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Dunea taps into efficiency, productivity, and better service with Dynamics 365</title>
       <link>https://www.microsoft.com/en/customers/story/27252-dunea-dynamics-365-customer-service</link>
       <description>Dunea boosts operational efficiency and service quality through integrated Dynamics 365 and Power Platform modernization.</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27252-dunea-dynamics-365-customer-service</guid>
-      <pubDate>Tue, 15 Sep 2026 11:59:59 +0000</pubDate>
+      <pubDate>Tue, 15 Sep 2026 11:59:57 +0000</pubDate>
       <category>Commercial Other Industries</category>
       <category>Dynamics 365 Customer Service</category>
       <category>Dynamics 365 Field Service</category>
@@ -50,7 +83,7 @@
       <link>https://www.microsoft.com/en/customers/story/27232-vcat-dynamics-365</link>
       <description>VCAT has built a digital case management platform on Dynamics 365 to move from paper files to faster, more accessible dispute resolution for Victorians.</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27232-vcat-dynamics-365</guid>
-      <pubDate>Tue, 15 Sep 2026 11:59:58 +0000</pubDate>
+      <pubDate>Tue, 15 Sep 2026 11:59:56 +0000</pubDate>
       <category>Government</category>
       <category>Dynamics 365</category>
       <category>Dynamics 365 Customer Service</category>
@@ -522,41 +555,6 @@
       <category>Azure</category>
       <category>Microsoft Copilot Studio</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27078_Citadele%20Banka%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Kotsovolos cuts handling time by 30% with Dynamics 365 Contact Center and AI-powered automation</title>
-      <link>https://www.microsoft.com/en/customers/story/27075-kotsovolos-dynamics-365-customer-service</link>
-      <description>Kotsovolos deploys Dynamics 365 Contact Center and cuts handling time by 30% while planning several AI agents by year-end.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27075-kotsovolos-dynamics-365-customer-service</guid>
-      <pubDate>Wed, 19 Aug 2026 12:00:00 +0000</pubDate>
-      <category>Retail and Consumer Goods</category>
-      <category>Dynamics 365 Customer Service</category>
-      <category>Dynamics 365 Customer Insights</category>
-      <category>Dynamics 365</category>
-      <category>Dynamics 365 Sales</category>
-      <category>Dynamics 365 Contact Center</category>
-      <category>Azure Communication Services</category>
-      <category>Microsoft Copilot Studio</category>
-      <category>Dynamics 365 Field Service</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27075_Kotsovolos%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Brisbane Grammar School replaces 42 systems, saves 30% manual work on Dynamics 365</title>
-      <link>https://www.microsoft.com/en/customers/story/26970-brisbane-grammar-school-dynamics-365</link>
-      <description>Brisbane Grammar School replaced 42 disconnected systems with one platform on Microsoft Dynamics 365, returning hours to staff and families.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26970-brisbane-grammar-school-dynamics-365</guid>
-      <pubDate>Wed, 19 Aug 2026 11:59:59 +0000</pubDate>
-      <category>Education</category>
-      <category>Dynamics 365</category>
-      <category>Microsoft Power Platform</category>
-      <category>Azure</category>
-      <category>Microsoft 365 Copilot</category>
-      <category>OneNote</category>
-      <category>Microsoft Teams</category>
-      <category>Dataverse</category>
-      <category>Microsoft Fabric</category>
-      <category>Microsoft Copilot Studio</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26970_Brisbane%20Grammar%20School%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
