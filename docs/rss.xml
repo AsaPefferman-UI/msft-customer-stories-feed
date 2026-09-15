@@ -33,6 +33,22 @@
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27252_Dunea%20Header%20Image" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>VCAT uses Dynamics 365 to resolve 70% of rental dispute matters early</title>
+      <link>https://www.microsoft.com/en/customers/story/27232-vcat-dynamics-365</link>
+      <description>VCAT has built a digital case management platform on Dynamics 365 to move from paper files to faster, more accessible dispute resolution for Victorians.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27232-vcat-dynamics-365</guid>
+      <pubDate>Tue, 15 Sep 2026 11:59:59 +0000</pubDate>
+      <category>Government</category>
+      <category>Dynamics 365</category>
+      <category>Dynamics 365 Customer Service</category>
+      <category>Dynamics 365 Contact Center</category>
+      <category>Power Pages</category>
+      <category>Microsoft Fabric</category>
+      <category>SharePoint</category>
+      <category>Azure Integration</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27232_VCAT%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Hancock Iron Ore scales Azure AI to extend rail lifespan 10%</title>
       <link>https://www.microsoft.com/en/customers/story/27229-hancock-iron-ore-microsoft-foundry</link>
       <description>Hancock Iron Ore became a frontier firm for mining, scaling Azure AI apps and agents across operations, maintenance, and corporate functions.</description>
@@ -543,16 +559,6 @@
       <category>Azure Files</category>
       <category>Azure Machine Learning</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26652_Basecamp%20Research%20LTD%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Tomorrow.io redefines weather forecasting with AI and space-based data on Azure</title>
-      <link>https://www.microsoft.com/en/customers/story/27023-tomorrowio-azure</link>
-      <description>Tomorrow.io uses Azure to compress weather observation and insight delivery from several hours to near real-time.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27023-tomorrowio-azure</guid>
-      <pubDate>Tue, 18 Aug 2026 12:00:00 +0000</pubDate>
-      <category>Commercial Other Industries</category>
-      <category>Azure</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27023_Tomorrowio%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
