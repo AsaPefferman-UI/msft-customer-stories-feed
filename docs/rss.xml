@@ -22,11 +22,27 @@
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27299_Docusign%20Header%20Image" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>Mercedes-AMG PETRONAS F1 Team turns race-day pressure into speed with Microsoft Azure</title>
+      <link>https://www.microsoft.com/en/customers/story/27253-mercedes-amg-petronas-f1-team-azure-kubernetes-service</link>
+      <description>The Mercedes-AMG PETRONAS F1 Team uses Azure to scale race-day simulations and model sensor data in software.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27253-mercedes-amg-petronas-f1-team-azure-kubernetes-service</guid>
+      <pubDate>Wed, 16 Sep 2026 12:00:00 +0000</pubDate>
+      <category>Telecommunications and Media</category>
+      <category>Azure Kubernetes Service</category>
+      <category>Azure Batch</category>
+      <category>GitHub Copilot</category>
+      <category>SQL Server</category>
+      <category>Power BI</category>
+      <category>Microsoft 365</category>
+      <category>Azure</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27253_Mercedes%20AMG%20PETRONAS%20F1%20Team%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Axalta cuts data reloads 87% and streamlines analytics with Microsoft Fabric</title>
       <link>https://www.microsoft.com/en/customers/story/27230-axalta-coating-systems-microsoft-fabric</link>
       <description>Axalta built a unified data foundation on Microsoft Fabric to power enterprise analytics and cut data reloads 87%.</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27230-axalta-coating-systems-microsoft-fabric</guid>
-      <pubDate>Wed, 16 Sep 2026 12:00:00 +0000</pubDate>
+      <pubDate>Wed, 16 Sep 2026 11:59:59 +0000</pubDate>
       <category>Industrials and Manufacturing</category>
       <category>Microsoft Fabric</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27230_Axalta%20Coating%20Systems%20Header%20Image" type="image/jpeg" length="0" />
@@ -44,11 +60,21 @@
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27278_OneSchool%20Global%20Header%20Image" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>Muleshoe Area Medical Center streamlines documentation with Microsoft Dragon Copilot</title>
+      <link>https://www.microsoft.com/en/customers/story/27016-muleshoe-area-medical-center-microsoft-dragon-copilot</link>
+      <description>Muleshoe Area Medical Center uses Microsoft Dragon Copilot embedded within their TruBridge EHR to reduce clinical documentation time.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27016-muleshoe-area-medical-center-microsoft-dragon-copilot</guid>
+      <pubDate>Thu, 17 Sep 2026 12:00:00 +0000</pubDate>
+      <category>Healthcare</category>
+      <category>Microsoft Dragon Copilot</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27016_Muleshoe%20Area%20Medical%20Center%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Arvind Group builds an AI-ready data foundation with Microsoft Fabric</title>
       <link>https://www.microsoft.com/en/customers/story/27288-arvind-limited-microsoft-fabric</link>
       <description>Arvind Group uses Microsoft Fabric to unify analytics, strengthen executive decision-making, and build an AI-ready foundation for future innovation.</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27288-arvind-limited-microsoft-fabric</guid>
-      <pubDate>Wed, 16 Sep 2026 11:59:59 +0000</pubDate>
+      <pubDate>Wed, 16 Sep 2026 11:59:58 +0000</pubDate>
       <category>Industrials and Manufacturing</category>
       <category>Microsoft Fabric</category>
       <category>Real-Time Intelligence</category>
@@ -527,27 +553,6 @@
       <category>Microsoft Fabric</category>
       <category>Real-Time Intelligence</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27089_Infobip%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>INPEX transforms business processes with Microsoft 365 Copilot and AI agents</title>
-      <link>https://www.microsoft.com/en/customers/story/27096-inpex-corporation-microsoft-365-copilot</link>
-      <description>Microsoft 365 Copilot empowered AI-driven work, boosting productivity and engagement while generating over JPY 2 billion in annual value.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27096-inpex-corporation-microsoft-365-copilot</guid>
-      <pubDate>Tue, 01 Sep 2026 11:59:59 +0000</pubDate>
-      <category>Energy and Resources</category>
-      <category>Microsoft 365 Copilot</category>
-      <category>Microsoft Copilot Studio</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27096_INPEX%20CORPORATION%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Korn Ferry partners with Microsoft to securely scale the latest AI solutions</title>
-      <link>https://www.microsoft.com/en/customers/story/27106-korn-ferry-international-microsoft-365-enterprise</link>
-      <description>This story highlights how leading enterprises are using Microsoft 365 E7 to unlock business value, strengthen security, and accelerate AI transformation.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27106-korn-ferry-international-microsoft-365-enterprise</guid>
-      <pubDate>Fri, 28 Aug 2026 11:59:58 +0000</pubDate>
-      <category>Commercial Other Industries</category>
-      <category>Microsoft 365 Enterprise</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27106_Korn%20Ferry%20International%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
