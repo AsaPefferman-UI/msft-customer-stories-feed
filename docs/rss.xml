@@ -22,6 +22,16 @@
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27299_Docusign%20Header%20Image" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>Axalta cuts data reloads 87% and streamlines analytics with Microsoft Fabric</title>
+      <link>https://www.microsoft.com/en/customers/story/27230-axalta-coating-systems-microsoft-fabric</link>
+      <description>Axalta built a unified data foundation on Microsoft Fabric to power enterprise analytics and cut data reloads 87%.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27230-axalta-coating-systems-microsoft-fabric</guid>
+      <pubDate>Wed, 16 Sep 2026 12:00:00 +0000</pubDate>
+      <category>Industrials and Manufacturing</category>
+      <category>Microsoft Fabric</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27230_Axalta%20Coating%20Systems%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>OneSchool Global transforms curriculum quality at scale with Microsoft Copilot Studio</title>
       <link>https://www.microsoft.com/en/customers/story/27278-oneschool-global-microsoft-copilot-studio</link>
       <description>OneSchool Global uses a Copilot Studio agent to cut Assignment review time from 60 to 15 minutes, returning 375 days to teachers annually.</description>
@@ -32,6 +42,22 @@
       <category>Microsoft 365 Copilot</category>
       <category>SharePoint</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27278_OneSchool%20Global%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Arvind Group builds an AI-ready data foundation with Microsoft Fabric</title>
+      <link>https://www.microsoft.com/en/customers/story/27288-arvind-limited-microsoft-fabric</link>
+      <description>Arvind Group uses Microsoft Fabric to unify analytics, strengthen executive decision-making, and build an AI-ready foundation for future innovation.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27288-arvind-limited-microsoft-fabric</guid>
+      <pubDate>Wed, 16 Sep 2026 11:59:59 +0000</pubDate>
+      <category>Industrials and Manufacturing</category>
+      <category>Microsoft Fabric</category>
+      <category>Real-Time Intelligence</category>
+      <category>OneLake</category>
+      <category>Power BI</category>
+      <category>Azure Data Factory</category>
+      <category>Microsoft Purview</category>
+      <category>Microsoft Entra</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27288_Arvind%20Limited%20Header%20Image" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>flatexDEGIRO uses Microsoft Fabric to reduce recurring HR reporting preparation effort by 38% and enable daily workforce insights</title>
@@ -522,36 +548,6 @@
       <category>Commercial Other Industries</category>
       <category>Microsoft 365 Enterprise</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27106_Korn%20Ferry%20International%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>KoRo Handels scales to 15,000 orders a day with Dynamics 365 Business Central</title>
-      <link>https://www.microsoft.com/en/customers/story/27081-koro-handels-dynamics-365-business-central</link>
-      <description>Startup KoRo Handels scaled to 15,000 orders a day and €150m revenue with Dynamics 365 Business Central</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27081-koro-handels-dynamics-365-business-central</guid>
-      <pubDate>Tue, 25 Aug 2026 11:59:59 +0000</pubDate>
-      <category>Retail and Consumer Goods</category>
-      <category>Dynamics 365 Business Central</category>
-      <category>Microsoft 365</category>
-      <category>Excel</category>
-      <category>Word</category>
-      <category>Outlook</category>
-      <category>Microsoft Copilot</category>
-      <category>Microsoft Copilot Studio</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27081_KoRo%20Handels%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Neural Concept accelerates engineering design up to 75% with Microsoft Azure HPC</title>
-      <link>https://www.microsoft.com/en/customers/story/27098-neural-concept-azure</link>
-      <description>Neural Concept uses Microsoft Azure to help manufacturers accelerate engineering design with secure, scalable AI workflows.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27098-neural-concept-azure</guid>
-      <pubDate>Fri, 21 Aug 2026 12:00:00 +0000</pubDate>
-      <category>Government</category>
-      <category>Azure</category>
-      <category>Azure Compute</category>
-      <category>Azure Kubernetes Service</category>
-      <category>Azure Storage</category>
-      <category>Azure AI Infrastructure</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27098_Neural%20Concept%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
