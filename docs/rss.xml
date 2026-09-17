@@ -7,6 +7,55 @@
     <language>en</language>
     <atom:link rel="self" href="" type="application/rss+xml" />
     <item>
+      <title>KMD Brands unifies retail brands on a single Microsoft Dynamics 365 platform</title>
+      <link>https://www.microsoft.com/en/customers/story/27276-kmd-brands-dynamics-365-commerce</link>
+      <description>KMD Brands unified Kathmandu, Rip Curl, and Oboz on Microsoft Dynamics 365, enabling a lean team to deliver shared capabilities with speed and scale.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27276-kmd-brands-dynamics-365-commerce</guid>
+      <pubDate>Wed, 16 Sep 2026 12:00:00 +0000</pubDate>
+      <category>Retail and Consumer Goods</category>
+      <category>Dynamics 365 Commerce</category>
+      <category>Dynamics 365 Supply Chain Management</category>
+      <category>Power BI</category>
+      <category>Microsoft Entra ID</category>
+      <category>Dataverse</category>
+      <category>Microsoft Fabric</category>
+      <category>Microsoft Foundry</category>
+      <category>Azure</category>
+      <category>Azure Logic Apps</category>
+      <category>Azure API Management</category>
+      <category>Dynamics 365</category>
+      <category>GitHub Copilot</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27276_KMD%20Brands%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>BNY uses Azure OpenAI in Foundry Models to scale trust in accounting operations</title>
+      <link>https://www.microsoft.com/en/customers/story/27291-bny-azure-openai-in-foundry-models</link>
+      <description>Using Azure OpenAI in Foundry Models and Microsoft Foundry, BNY is exploring how AI can help clients investigate and resolve data issues at scale.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27291-bny-azure-openai-in-foundry-models</guid>
+      <pubDate>Thu, 17 Sep 2026 12:00:00 +0000</pubDate>
+      <category>Financial Services</category>
+      <category>Azure OpenAI in Foundry Models</category>
+      <category>Microsoft Foundry</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27291_BNY%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Inspiro achieves 85% audit accuracy with Celebal Technologies' call-monitoring system, built on Azure AI</title>
+      <link>https://www.microsoft.com/en/customers/story/27231-inspiro-relia-power-bi</link>
+      <description>Inspiro cuts manual audit effort by up to 45% and ensures 100% data masking across multilingual calls</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27231-inspiro-relia-power-bi</guid>
+      <pubDate>Wed, 16 Sep 2026 11:59:59 +0000</pubDate>
+      <category>Professional and Business Services</category>
+      <category>Power BI</category>
+      <category>Azure Cosmos DB</category>
+      <category>Azure OpenAI in Foundry Models</category>
+      <category>Azure AI Search</category>
+      <category>Azure Kubernetes Service</category>
+      <category>Azure Speech in Foundry Tools</category>
+      <category>Azure Communication Services</category>
+      <category>Azure</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27231_Inspiro%20Relia%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Docusign scales AI on Azure, processes 1M+ agreements daily with eightfold throughput</title>
       <link>https://www.microsoft.com/en/customers/story/27299-docusign-microsoft-foundry</link>
       <description>Docusign optimized AI on Azure to process over 1 million agreements daily, reduce costs 90%, and increase throughput eightfold.</description>
@@ -26,7 +75,7 @@
       <link>https://www.microsoft.com/en/customers/story/27253-mercedes-amg-petronas-f1-team-azure-kubernetes-service</link>
       <description>The Mercedes-AMG PETRONAS F1 Team uses Azure to scale race-day simulations and model sensor data in software.</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27253-mercedes-amg-petronas-f1-team-azure-kubernetes-service</guid>
-      <pubDate>Wed, 16 Sep 2026 12:00:00 +0000</pubDate>
+      <pubDate>Wed, 16 Sep 2026 11:59:58 +0000</pubDate>
       <category>Telecommunications and Media</category>
       <category>Azure Kubernetes Service</category>
       <category>Azure Batch</category>
@@ -42,7 +91,7 @@
       <link>https://www.microsoft.com/en/customers/story/27230-axalta-coating-systems-microsoft-fabric</link>
       <description>Axalta built a unified data foundation on Microsoft Fabric to power enterprise analytics and cut data reloads 87%.</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27230-axalta-coating-systems-microsoft-fabric</guid>
-      <pubDate>Wed, 16 Sep 2026 11:59:59 +0000</pubDate>
+      <pubDate>Wed, 16 Sep 2026 11:59:57 +0000</pubDate>
       <category>Industrials and Manufacturing</category>
       <category>Microsoft Fabric</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27230_Axalta%20Coating%20Systems%20Header%20Image" type="image/jpeg" length="0" />
@@ -64,7 +113,7 @@
       <link>https://www.microsoft.com/en/customers/story/27016-muleshoe-area-medical-center-microsoft-dragon-copilot</link>
       <description>Muleshoe Area Medical Center uses Microsoft Dragon Copilot embedded within their TruBridge EHR to reduce clinical documentation time.</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27016-muleshoe-area-medical-center-microsoft-dragon-copilot</guid>
-      <pubDate>Thu, 17 Sep 2026 12:00:00 +0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 11:59:59 +0000</pubDate>
       <category>Healthcare</category>
       <category>Microsoft Dragon Copilot</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27016_Muleshoe%20Area%20Medical%20Center%20Header%20Image" type="image/jpeg" length="0" />
@@ -74,7 +123,7 @@
       <link>https://www.microsoft.com/en/customers/story/27288-arvind-limited-microsoft-fabric</link>
       <description>Arvind Group uses Microsoft Fabric to unify analytics, strengthen executive decision-making, and build an AI-ready foundation for future innovation.</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27288-arvind-limited-microsoft-fabric</guid>
-      <pubDate>Wed, 16 Sep 2026 11:59:58 +0000</pubDate>
+      <pubDate>Wed, 16 Sep 2026 11:59:56 +0000</pubDate>
       <category>Industrials and Manufacturing</category>
       <category>Microsoft Fabric</category>
       <category>Real-Time Intelligence</category>
@@ -511,48 +560,6 @@
       <category>Azure Functions</category>
       <category>Microsoft Learn</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27102_TX%20COUNTY%20OF%20HARRIS%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title> Lifetime Products rebalances work with Microsoft Copilot Studio 
-</title>
-      <link>https://www.microsoft.com/en/customers/story/27087-lifetime-products-microsoft-copilot-studio</link>
-      <description>Lifetime Products uses Microsoft Copilot Studio agents to make work faster, touchless, and more people-led.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27087-lifetime-products-microsoft-copilot-studio</guid>
-      <pubDate>Wed, 26 Aug 2026 11:59:59 +0000</pubDate>
-      <category>Industrials and Manufacturing</category>
-      <category>Microsoft Copilot Studio</category>
-      <category>Power Automate</category>
-      <category>Microsoft 365 Copilot</category>
-      <category>Microsoft Foundry</category>
-      <category>Dynamics 365 Finance</category>
-      <category>Dynamics 365 Supply Chain Management</category>
-      <category>Dynamics 365</category>
-      <category>Microsoft Power Platform</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27087_Lifetime%20Products%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Acme Corrugated Box increases self-service reporting by 50% and saves 50+ hours on data reconciliation with Microsoft Fabric</title>
-      <link>https://www.microsoft.com/en/customers/story/27103-acme-corrugated-box-microsoft-fabric</link>
-      <description>With Microsoft Fabric, Acme Corrugated Box increases self-service reporting by 50% while reclaiming 50+ hours every week.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27103-acme-corrugated-box-microsoft-fabric</guid>
-      <pubDate>Tue, 25 Aug 2026 12:00:00 +0000</pubDate>
-      <category>Industrials and Manufacturing</category>
-      <category>Microsoft Fabric</category>
-      <category>Power BI</category>
-      <category>OneLake</category>
-      <category>Azure DevOps</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27103_Acme%20Corrugated%20Box%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Infobip unlocks daily profitability insights with Microsoft Fabric</title>
-      <link>https://www.microsoft.com/en/customers/story/27089-infobip-microsoft-fabric</link>
-      <description>Infobip modernises its global data estate with Microsoft Fabric, delivering faster insights, unified governance, and a foundation for AI-driven analytics in partnership with Cloud Services.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27089-infobip-microsoft-fabric</guid>
-      <pubDate>Mon, 31 Aug 2026 12:00:00 +0000</pubDate>
-      <category>Telecommunications and Media</category>
-      <category>Microsoft Fabric</category>
-      <category>Real-Time Intelligence</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27089_Infobip%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
