@@ -7,6 +7,21 @@
     <language>en</language>
     <atom:link rel="self" href="" type="application/rss+xml" />
     <item>
+      <title>Avanade cuts incident resolution time by up to 80% with Microsoft Security Copilot</title>
+      <link>https://www.microsoft.com/en/customers/story/27277-avanade-microsoft-security-copilot</link>
+      <description>Avanade used Microsoft Security Copilot with Microsoft Entra to standardize investigations, scale expertise, and reduce resolution times by up to 80%.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27277-avanade-microsoft-security-copilot</guid>
+      <pubDate>Fri, 18 Sep 2026 12:00:00 +0000</pubDate>
+      <category>Professional and Business Services</category>
+      <category>Microsoft Security Copilot</category>
+      <category>Microsoft Entra</category>
+      <category>Microsoft Sentinel</category>
+      <category>Microsoft Defender</category>
+      <category>Microsoft Purview Data Loss Prevention</category>
+      <category>Microsoft Defender XDR</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27277_Avanade%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>KMD Brands unifies retail brands on a single Microsoft Dynamics 365 platform</title>
       <link>https://www.microsoft.com/en/customers/story/27276-kmd-brands-dynamics-365-commerce</link>
       <description>KMD Brands unified Kathmandu, Rip Curl, and Oboz on Microsoft Dynamics 365, enabling a lean team to deliver shared capabilities with speed and scale.</description>
@@ -542,24 +557,6 @@
       <category>Azure Databricks</category>
       <category>Power BI</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27134_Ministry%20of%20Labor%20and%20Social%20Affairs%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Harris County builds AI playbook on Microsoft Foundry, saves $2.5M+</title>
-      <link>https://www.microsoft.com/en/customers/story/27102-tx-county-of-harris-microsoft-foundry</link>
-      <description>Texas county develops templated, structured approach to AI and saves $2.5m+ with a single AI project</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27102-tx-county-of-harris-microsoft-foundry</guid>
-      <pubDate>Fri, 28 Aug 2026 11:59:59 +0000</pubDate>
-      <category>Government</category>
-      <category>Microsoft Foundry</category>
-      <category>Microsoft Copilot</category>
-      <category>Microsoft 365 Copilot</category>
-      <category>Microsoft Entra</category>
-      <category>Azure</category>
-      <category>Azure SQL</category>
-      <category>Azure Blob Storage</category>
-      <category>Azure Functions</category>
-      <category>Microsoft Learn</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27102_TX%20COUNTY%20OF%20HARRIS%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
