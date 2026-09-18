@@ -231,6 +231,19 @@
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27273_Jack%20Fertility%20Header%20Image" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>Scatter Lab Pioneers the AI Entertainment Industry with Azure-Based AI Infrastructure</title>
+      <link>https://www.microsoft.com/en/customers/story/27245-scatter-lab-azure-kubernetes-service</link>
+      <description>Scatter Lab built a scalable Azure-based AI infrastructure for its zeta platform, reducing LLM infrastructure costs by 20% and incident response resources by 50% while supporting its global expansion in AI entertainment.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27245-scatter-lab-azure-kubernetes-service</guid>
+      <pubDate>Fri, 18 Sep 2026 11:59:59 +0000</pubDate>
+      <category>Commercial Other Industries</category>
+      <category>Azure Kubernetes Service</category>
+      <category>Azure</category>
+      <category>Azure Blob Storage</category>
+      <category>Azure Container Registry</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27245_Scatter%20Lab%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>VCAT uses Dynamics 365 to resolve 70% of rental dispute matters early</title>
       <link>https://www.microsoft.com/en/customers/story/27232-vcat-dynamics-365</link>
       <description>VCAT has built a digital case management platform on Dynamics 365 to move from paper files to faster, more accessible dispute resolution for Victorians.</description>
@@ -545,18 +558,6 @@
       <category>Microsoft Copilot</category>
       <category>Microsoft 365 Copilot</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27129_SPORTFIVE%20Global%20Holding%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>The Ministry of Labor and Social Affairs builds a data-driven Czech state with Azure</title>
-      <link>https://www.microsoft.com/en/customers/story/27134-ministry-of-labor-and-social-affairs-azure</link>
-      <description>The Czech Ministry of Labor and Social Affairs unified its data on Azure to power self-service analytics and AI for millions of citizens.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27134-ministry-of-labor-and-social-affairs-azure</guid>
-      <pubDate>Thu, 27 Aug 2026 11:59:58 +0000</pubDate>
-      <category>Government</category>
-      <category>Azure</category>
-      <category>Azure Databricks</category>
-      <category>Power BI</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27134_Ministry%20of%20Labor%20and%20Social%20Affairs%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
