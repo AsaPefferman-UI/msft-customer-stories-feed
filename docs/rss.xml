@@ -22,6 +22,23 @@
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27277_Avanade%20Header%20Image" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>Pamarco accelerates finance operations with autonomous agents and Copilot Cowork</title>
+      <link>https://www.microsoft.com/en/customers/story/27289-pamarco-technologies-dynamics-365-finance</link>
+      <description>Pamarco uses autonomous agents and Copilot Cowork to streamline finance operations, automate up to 40% of close tasks, and give employees more time for strategic decisions.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27289-pamarco-technologies-dynamics-365-finance</guid>
+      <pubDate>Fri, 18 Sep 2026 11:59:59 +0000</pubDate>
+      <category>Industrials and Manufacturing</category>
+      <category>Dynamics 365 Finance</category>
+      <category>Dynamics 365 Supply Chain Management</category>
+      <category>Microsoft Copilot Studio</category>
+      <category>Dataverse</category>
+      <category>Dynamics 365</category>
+      <category>Power BI</category>
+      <category>Excel</category>
+      <category>Word</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27289_Pamarco%20Technologies%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>KMD Brands unifies retail brands on a single Microsoft Dynamics 365 platform</title>
       <link>https://www.microsoft.com/en/customers/story/27276-kmd-brands-dynamics-365-commerce</link>
       <description>KMD Brands unified Kathmandu, Rip Curl, and Oboz on Microsoft Dynamics 365, enabling a lean team to deliver shared capabilities with speed and scale.</description>
@@ -235,7 +252,7 @@
       <link>https://www.microsoft.com/en/customers/story/27245-scatter-lab-azure-kubernetes-service</link>
       <description>Scatter Lab built a scalable Azure-based AI infrastructure for its zeta platform, reducing LLM infrastructure costs by 20% and incident response resources by 50% while supporting its global expansion in AI entertainment.</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27245-scatter-lab-azure-kubernetes-service</guid>
-      <pubDate>Fri, 18 Sep 2026 11:59:59 +0000</pubDate>
+      <pubDate>Fri, 18 Sep 2026 11:59:58 +0000</pubDate>
       <category>Commercial Other Industries</category>
       <category>Azure Kubernetes Service</category>
       <category>Azure</category>
@@ -305,7 +322,7 @@
       <link>https://www.microsoft.com/en/customers/story/27055-tmf-services-india-dynamics-365-finance</link>
       <description>TMF Group is modernizing finance across 70+ countries with Dynamics 365, creating a connected, standardized global operating model.</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27055-tmf-services-india-dynamics-365-finance</guid>
-      <pubDate>Fri, 18 Sep 2026 11:59:58 +0000</pubDate>
+      <pubDate>Fri, 18 Sep 2026 11:59:57 +0000</pubDate>
       <category>Professional and Business Services</category>
       <category>Dynamics 365 Finance</category>
       <category>Dynamics 365 Project Operations</category>
@@ -540,23 +557,6 @@
       <category>Azure Web Application Firewall</category>
       <category>Azure Virtual Machines</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27131_Elkjop%20Nordic%20AS%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>GridBeyond helps turn energy flexibility into revenue and savings using Azure AI</title>
-      <link>https://www.microsoft.com/en/customers/story/27136-gridbeyond-azure</link>
-      <description>GridBeyond uses Azure AI and virtual power plant technology to turn energy flexibility into revenue for the world's most energy-intensive businesses.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27136-gridbeyond-azure</guid>
-      <pubDate>Thu, 27 Aug 2026 11:59:59 +0000</pubDate>
-      <category>Energy and Resources</category>
-      <category>Azure</category>
-      <category>Azure Virtual Machines</category>
-      <category>Azure SQL</category>
-      <category>Azure App Service</category>
-      <category>Azure Storage</category>
-      <category>Azure Firewall</category>
-      <category>GitHub Copilot</category>
-      <category>Microsoft 365 Copilot</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27136_GridBeyond%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
