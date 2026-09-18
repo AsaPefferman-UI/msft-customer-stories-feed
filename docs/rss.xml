@@ -301,6 +301,17 @@
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27237_pladis%20Global%20Header%20Image" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>TMF Group Creates a Unified Global Finance Platform with Microsoft Dynamics 365</title>
+      <link>https://www.microsoft.com/en/customers/story/27055-tmf-services-india-dynamics-365-finance</link>
+      <description>TMF Group is modernizing finance across 70+ countries with Dynamics 365, creating a connected, standardized global operating model.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27055-tmf-services-india-dynamics-365-finance</guid>
+      <pubDate>Fri, 18 Sep 2026 11:59:58 +0000</pubDate>
+      <category>Professional and Business Services</category>
+      <category>Dynamics 365 Finance</category>
+      <category>Dynamics 365 Project Operations</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27055_TMF%20Services%20India%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Williams transforms frontline work with Copilot, gaining 90% adoption</title>
       <link>https://www.microsoft.com/en/customers/story/27209-williams-microsoft-365-copilot</link>
       <description>Williams transforms frontline operations with Microsoft 365 Copilot, driving over 90% AI adoption organization-wide.</description>
@@ -546,18 +557,6 @@
       <category>GitHub Copilot</category>
       <category>Microsoft 365 Copilot</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27136_GridBeyond%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>SPORTFIVE frees time for creativity and client relationships with Microsoft 365 Copilot</title>
-      <link>https://www.microsoft.com/en/customers/story/27129-sportfive-global-holding-microsoft-365</link>
-      <description>Global sports marketing agency SPORTFIVE scaled Microsoft 365 Copilot to 93% adoption, freeing teams to focus on client relationships.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27129-sportfive-global-holding-microsoft-365</guid>
-      <pubDate>Wed, 26 Aug 2026 12:00:00 +0000</pubDate>
-      <category>Professional and Business Services</category>
-      <category>Microsoft 365</category>
-      <category>Microsoft Copilot</category>
-      <category>Microsoft 365 Copilot</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27129_SPORTFIVE%20Global%20Holding%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
