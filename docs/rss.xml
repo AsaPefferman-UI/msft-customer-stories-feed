@@ -7,6 +7,23 @@
     <language>en</language>
     <atom:link rel="self" href="" type="application/rss+xml" />
     <item>
+      <title>Moody’s guards against risk with decision-grade intelligence live in Copilot</title>
+      <link>https://www.microsoft.com/en/customers/story/27318-moodys-microsoft-365-copilot</link>
+      <description>Moody’s brings a century of credit intelligence and analytics into Microsoft 365 Copilot through an MCP connector, delivering near-real-time insights.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27318-moodys-microsoft-365-copilot</guid>
+      <pubDate>Sat, 19 Sep 2026 12:00:00 +0000</pubDate>
+      <category>Financial Services</category>
+      <category>Microsoft 365 Copilot</category>
+      <category>Microsoft Copilot Studio</category>
+      <category>Microsoft Teams</category>
+      <category>Excel</category>
+      <category>Word</category>
+      <category>PowerPoint</category>
+      <category>SharePoint</category>
+      <category>OneDrive</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27318_Moodys%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Avanade cuts incident resolution time by up to 80% with Microsoft Security Copilot</title>
       <link>https://www.microsoft.com/en/customers/story/27277-avanade-microsoft-security-copilot</link>
       <description>Avanade used Microsoft Security Copilot with Microsoft Entra to standardize investigations, scale expertise, and reduce resolution times by up to 80%.</description>
@@ -540,23 +557,6 @@
       <category>GitHub Copilot</category>
       <category>Azure</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27115_Wellstar%20Health%20System%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Elkjøp Nordic moves 200+ microservices to Azure Sweden Central with no downtime using GitHub Copilot</title>
-      <link>https://www.microsoft.com/en/customers/story/27131-elkjop-nordic-as-github-copilot</link>
-      <description>Elkjøp Nordic used GitHub Copilot and modern cloud architecture practices to move more than 200 microservices to Azure Sweden Central with no customer-visible downtime, while extending regional resiliency.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27131-elkjop-nordic-as-github-copilot</guid>
-      <pubDate>Thu, 27 Aug 2026 12:00:00 +0000</pubDate>
-      <category>Retail and Consumer Goods</category>
-      <category>GitHub Copilot</category>
-      <category>Azure</category>
-      <category>Azure Kubernetes Service</category>
-      <category>Azure Cosmos DB</category>
-      <category>Azure Service Bus</category>
-      <category>Azure DNS</category>
-      <category>Azure Web Application Firewall</category>
-      <category>Azure Virtual Machines</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27131_Elkjop%20Nordic%20AS%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
