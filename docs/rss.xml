@@ -380,6 +380,26 @@
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27197_PREMERA%20BLUE%20CROSS%20Header%20Image" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title> OYAK ANKER Bank transforms operations on Microsoft Azure </title>
+      <link>https://www.microsoft.com/en/customers/story/27135-oyak-anker-bank-microsoft-365-apps-for-enterprise</link>
+      <description>OYAK ANKER Bank migrated to Azure, enabling 80% faster product launches on a resilient, future-ready banking platform.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27135-oyak-anker-bank-microsoft-365-apps-for-enterprise</guid>
+      <pubDate>Mon, 21 Sep 2026 12:00:00 +0000</pubDate>
+      <category>Financial Services</category>
+      <category>Microsoft 365 Apps for enterprise</category>
+      <category>Microsoft 365</category>
+      <category>Microsoft Teams</category>
+      <category>Microsoft Power Platform</category>
+      <category>Azure</category>
+      <category>Azure API Management</category>
+      <category>Azure SQL</category>
+      <category>Azure App Service</category>
+      <category>Azure Functions</category>
+      <category>Azure Logic Apps</category>
+      <category>Azure DevOps</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27135_OYAK%20ANKER%20Bank%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Black &amp; Veatch scales Microsoft AI enterprise-wide to deliver greater client value</title>
       <link>https://www.microsoft.com/en/customers/story/27050-black-and-veatch-microsoft-365-copilot</link>
       <description>Leading engineering and construction company Black &amp; Veatch uses Microsoft AI solutions to meet rising demand, delivering faster and higher-quality work.</description>
@@ -541,22 +561,6 @@
       <category>Azure Policy</category>
       <category>Microsoft Defender for Cloud</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27147_Topdanmark%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Wellstar cuts shift-fill effort more than 80% using Swift, built on Azure AI</title>
-      <link>https://www.microsoft.com/en/customers/story/27115-wellstar-health-system-microsoft-foundry</link>
-      <description>Swift™ Workforce AI’s agentic scheduling agent, built on Azure AI, cuts Wellstar’s shift-fill effort 80%+, returning Nurse Managers to patient care.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27115-wellstar-health-system-microsoft-foundry</guid>
-      <pubDate>Fri, 28 Aug 2026 12:00:00 +0000</pubDate>
-      <category>Healthcare</category>
-      <category>Microsoft Foundry</category>
-      <category>Azure Kubernetes Service</category>
-      <category>Azure Database for PostgreSQL</category>
-      <category>Azure OpenAI in Foundry Models</category>
-      <category>GitHub</category>
-      <category>GitHub Copilot</category>
-      <category>Azure</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27115_Wellstar%20Health%20System%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
