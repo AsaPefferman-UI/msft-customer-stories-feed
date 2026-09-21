@@ -7,6 +7,36 @@
     <language>en</language>
     <atom:link rel="self" href="" type="application/rss+xml" />
     <item>
+      <title>NNE unifies its data estate with Microsoft Fabric to scale delivery</title>
+      <link>https://www.microsoft.com/en/customers/story/27303-nne-microsoft-fabric</link>
+      <description>NNE uses Microsoft Fabric to unify data engineering, analytics, and reporting, helping teams reuse trusted data faster.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27303-nne-microsoft-fabric</guid>
+      <pubDate>Mon, 21 Sep 2026 12:00:00 +0000</pubDate>
+      <category>Professional and Business Services</category>
+      <category>Microsoft Fabric</category>
+      <category>OneLake</category>
+      <category>Azure Synapse Analytics</category>
+      <category>Power BI</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27303_NNE%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>World Tennis brings real-time intelligence to the Billie Jean King Cup with Azure</title>
+      <link>https://www.microsoft.com/en/customers/story/27323-world-tennis-azure</link>
+      <description>World Tennis uses Azure AI apps and agents to close the competitive insight gap with real-time match intelligence at the Billie Jean King Cup.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27323-world-tennis-azure</guid>
+      <pubDate>Mon, 21 Sep 2026 11:59:59 +0000</pubDate>
+      <category>Telecommunications and Media</category>
+      <category>Azure</category>
+      <category>Microsoft Foundry</category>
+      <category>Azure App Service</category>
+      <category>Azure SQL Database</category>
+      <category>Azure SQL</category>
+      <category>Azure OpenAI in Foundry Models</category>
+      <category>Azure Data Lake Storage</category>
+      <category>Azure Databricks</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27323_World%20Tennis%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Moody’s guards against risk with decision-grade intelligence live in Copilot</title>
       <link>https://www.microsoft.com/en/customers/story/27318-moodys-microsoft-365-copilot</link>
       <description>Moody’s brings a century of credit intelligence and analytics into Microsoft 365 Copilot through an MCP connector, delivering near-real-time insights.</description>
@@ -384,7 +414,7 @@
       <link>https://www.microsoft.com/en/customers/story/27135-oyak-anker-bank-microsoft-365-apps-for-enterprise</link>
       <description>OYAK ANKER Bank migrated to Azure, enabling 80% faster product launches on a resilient, future-ready banking platform.</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27135-oyak-anker-bank-microsoft-365-apps-for-enterprise</guid>
-      <pubDate>Mon, 21 Sep 2026 12:00:00 +0000</pubDate>
+      <pubDate>Mon, 21 Sep 2026 11:59:58 +0000</pubDate>
       <category>Financial Services</category>
       <category>Microsoft 365 Apps for enterprise</category>
       <category>Microsoft 365</category>
@@ -533,34 +563,6 @@
       <category>Dynamics 365 Commerce</category>
       <category>Dynamics 365 Finance</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27172_Mirage%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Vend transforms its Nordic digital marketplaces, streamlines finances, and enhances personalization with Dynamics 365</title>
-      <link>https://www.microsoft.com/en/customers/story/27150-vend-marketplaces-dynamics-365-finance</link>
-      <description>Vend Marketplaces transformed its multi-country operations by unifying ERP and CRM with Microsoft Dynamics 365.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27150-vend-marketplaces-dynamics-365-finance</guid>
-      <pubDate>Wed, 02 Sep 2026 11:59:57 +0000</pubDate>
-      <category>Retail and Consumer Goods</category>
-      <category>Dynamics 365 Finance</category>
-      <category>Dynamics 365 Sales</category>
-      <category>Dynamics 365 Customer Service</category>
-      <category>Dynamics 365 Customer Insights</category>
-      <category>Dataverse</category>
-      <category>Power Apps</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27150_Vend%20Marketplaces%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title> Topdanmark completes a business-critical carve-out with Azure landing zones </title>
-      <link>https://www.microsoft.com/en/customers/story/27147-topdanmark-azure</link>
-      <description>Topdanmark used Azure landing zones to establish a governed cloud foundation and complete a business-critical carve-out on schedule.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27147-topdanmark-azure</guid>
-      <pubDate>Tue, 01 Sep 2026 12:00:00 +0000</pubDate>
-      <category>Financial Services</category>
-      <category>Azure</category>
-      <category>Microsoft Entra ID</category>
-      <category>Azure Policy</category>
-      <category>Microsoft Defender for Cloud</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27147_Topdanmark%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
