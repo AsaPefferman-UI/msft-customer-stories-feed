@@ -7,6 +7,18 @@
     <language>en</language>
     <atom:link rel="self" href="" type="application/rss+xml" />
     <item>
+      <title>Microsoft 365 scales engineering expertise with Azure Kubernetes Service (AKS)</title>
+      <link>https://www.microsoft.com/en/customers/story/27363-microsoft-azure-kubernetes-service</link>
+      <description>Microsoft 365 uses Azure Kubernetes Service (AKS) to scale platform expertise and focus engineering capacity on customer innovation.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27363-microsoft-azure-kubernetes-service</guid>
+      <pubDate>Tue, 22 Sep 2026 12:00:00 +0000</pubDate>
+      <category>Software, Data and Platforms</category>
+      <category>Azure Kubernetes Service</category>
+      <category>Azure Kubernetes Fleet Manager</category>
+      <category>Azure</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27363_Microsoft%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>NNE unifies its data estate with Microsoft Fabric to scale delivery</title>
       <link>https://www.microsoft.com/en/customers/story/27303-nne-microsoft-fabric</link>
       <description>NNE uses Microsoft Fabric to unify data engineering, analytics, and reporting, helping teams reuse trusted data faster.</description>
@@ -52,6 +64,19 @@
       <category>SharePoint</category>
       <category>OneDrive</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27318_Moodys%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Alzheimer’s Society accelerates the fight against dementia with Microsoft Copilot</title>
+      <link>https://www.microsoft.com/en/customers/story/27321-alzheimers-society-microsoft-copilot</link>
+      <description>Alzheimer's Society harnesses Microsoft Copilot to reduce manual tasks, identify income opportunities, and advance its fight against dementia.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27321-alzheimers-society-microsoft-copilot</guid>
+      <pubDate>Tue, 22 Sep 2026 11:59:59 +0000</pubDate>
+      <category>Nonprofit and IGO</category>
+      <category>Microsoft Copilot</category>
+      <category>Microsoft Copilot Studio</category>
+      <category>Microsoft Defender XDR</category>
+      <category>Microsoft Purview</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27321_Alzheimers%20Society%20Header%20Image" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Avanade cuts incident resolution time by up to 80% with Microsoft Security Copilot</title>
@@ -541,28 +566,6 @@
       <category>Microsoft Fabric</category>
       <category>Azure</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27171_Catalent%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>HFW Companies unifies 13 ERPs and automates its close with Microsoft Fabric</title>
-      <link>https://www.microsoft.com/en/customers/story/27108-hfw-companies-power-bi</link>
-      <description>HFW Companies used Microsoft Fabric to unify 13 ERPs and automate finance reporting across its growing portfolio.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27108-hfw-companies-power-bi</guid>
-      <pubDate>Wed, 02 Sep 2026 11:59:58 +0000</pubDate>
-      <category>Professional and Business Services</category>
-      <category>Power BI</category>
-      <category>Microsoft Fabric</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27108_HFW%20Companies%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>MIRAGE transforms B2B sales with a self-service dealer portal on Dynamics 365 Commerce</title>
-      <link>https://www.microsoft.com/en/customers/story/27172-mirage-dynamics-365-commerce</link>
-      <description>MIRAGE transforms dealer service with a self-service portal for real-time inventory, pricing, and faster ordering.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27172-mirage-dynamics-365-commerce</guid>
-      <pubDate>Fri, 04 Sep 2026 11:59:58 +0000</pubDate>
-      <category>Retail and Consumer Goods</category>
-      <category>Dynamics 365 Commerce</category>
-      <category>Dynamics 365 Finance</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27172_Mirage%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
