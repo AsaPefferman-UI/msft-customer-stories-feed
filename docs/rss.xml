@@ -7,11 +7,37 @@
     <language>en</language>
     <atom:link rel="self" href="" type="application/rss+xml" />
     <item>
+      <title>GET AI runs its business on agents built with Microsoft Copilot Studio</title>
+      <link>https://www.microsoft.com/en/customers/story/27280-get-ai-microsoft-365-copilot</link>
+      <description>GET AI uses Microsoft Copilot Studio agents across its business, proving AI in production before guiding customers—accelerating intake, boosting productivity, and strengthening governance.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27280-get-ai-microsoft-365-copilot</guid>
+      <pubDate>Tue, 22 Sep 2026 12:00:00 +0000</pubDate>
+      <category>Professional and Business Services</category>
+      <category>Microsoft 365 Copilot</category>
+      <category>Microsoft Copilot Studio</category>
+      <category>GitHub Copilot</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27280_Get%20AI%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Rio Tinto transforms month-end finance operations with Microsoft Power Platform</title>
+      <link>https://www.microsoft.com/en/customers/story/27356-rio-tinto-power-bi</link>
+      <description>Rio Tinto automated month-end finance close using Microsoft Power Platform, achieving its fastest close in history for its largest product group.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27356-rio-tinto-power-bi</guid>
+      <pubDate>Tue, 22 Sep 2026 11:59:59 +0000</pubDate>
+      <category>Energy and Resources</category>
+      <category>Power BI</category>
+      <category>Microsoft Power Platform</category>
+      <category>Power Apps</category>
+      <category>Power Automate</category>
+      <category>Microsoft 365 Copilot</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27356_Rio%20Tinto%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Microsoft 365 scales engineering expertise with Azure Kubernetes Service (AKS)</title>
       <link>https://www.microsoft.com/en/customers/story/27363-microsoft-azure-kubernetes-service</link>
       <description>Microsoft 365 uses Azure Kubernetes Service (AKS) to scale platform expertise and focus engineering capacity on customer innovation.</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27363-microsoft-azure-kubernetes-service</guid>
-      <pubDate>Tue, 22 Sep 2026 12:00:00 +0000</pubDate>
+      <pubDate>Tue, 22 Sep 2026 11:59:58 +0000</pubDate>
       <category>Software, Data and Platforms</category>
       <category>Azure Kubernetes Service</category>
       <category>Azure Kubernetes Fleet Manager</category>
@@ -70,7 +96,7 @@
       <link>https://www.microsoft.com/en/customers/story/27321-alzheimers-society-microsoft-copilot</link>
       <description>Alzheimer's Society harnesses Microsoft Copilot to reduce manual tasks, identify income opportunities, and advance its fight against dementia.</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27321-alzheimers-society-microsoft-copilot</guid>
-      <pubDate>Tue, 22 Sep 2026 11:59:59 +0000</pubDate>
+      <pubDate>Tue, 22 Sep 2026 11:59:57 +0000</pubDate>
       <category>Nonprofit and IGO</category>
       <category>Microsoft Copilot</category>
       <category>Microsoft Copilot Studio</category>
@@ -541,32 +567,6 @@
       <category>Azure OpenAI in Foundry Models</category>
       <category>Microsoft Foundry</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26966_Koerber%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Australian nonprofit Nazareth Care delivers care from the heart with support from Dynamics 365 Business Central</title>
-      <link>https://www.microsoft.com/en/customers/story/27133-nazareth-care-dynamics-365-business-central</link>
-      <description>Australian nonprofit Nazareth Care finds efficiency, revenue-boosting solutions, and automations with Dynamics 365 Business Central.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27133-nazareth-care-dynamics-365-business-central</guid>
-      <pubDate>Wed, 02 Sep 2026 11:59:59 +0000</pubDate>
-      <category>Nonprofit and IGO</category>
-      <category>Dynamics 365 Business Central</category>
-      <category>Microsoft 365</category>
-      <category>Microsoft Copilot</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27133_Nazareth%20Care%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Catalent uses AI on Azure to improve deviation review and quality decisions</title>
-      <link>https://www.microsoft.com/en/customers/story/27171-catalent-azure-openai-in-foundry-models</link>
-      <description>Catalent prioritized its Patient First value by applying agentic AI to production deviations through a bespoke development process on Azure.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27171-catalent-azure-openai-in-foundry-models</guid>
-      <pubDate>Wed, 09 Sep 2026 11:59:57 +0000</pubDate>
-      <category>Healthcare</category>
-      <category>Azure OpenAI in Foundry Models</category>
-      <category>Microsoft Foundry</category>
-      <category>Azure App Service</category>
-      <category>Microsoft Fabric</category>
-      <category>Azure</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27171_Catalent%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
