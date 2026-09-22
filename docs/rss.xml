@@ -7,11 +7,22 @@
     <language>en</language>
     <atom:link rel="self" href="" type="application/rss+xml" />
     <item>
+      <title>FC Schalke 04 turns data into decisions 3x faster with Microsoft Fabric &amp; Azure Databricks</title>
+      <link>https://www.microsoft.com/en/customers/story/27275-fc-schalke-04-microsoft-fabric</link>
+      <description>FC Schalke 04 football club used Microsoft Fabric to build a scalable foundation to integrate new data sources and support faster, deeper analysis.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27275-fc-schalke-04-microsoft-fabric</guid>
+      <pubDate>Tue, 22 Sep 2026 12:00:00 +0000</pubDate>
+      <category>Telecommunications and Media</category>
+      <category>Microsoft Fabric</category>
+      <category>Azure Databricks</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27275_FC%20Schalke%2004%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>GET AI runs its business on agents built with Microsoft Copilot Studio</title>
       <link>https://www.microsoft.com/en/customers/story/27280-get-ai-microsoft-365-copilot</link>
       <description>GET AI uses Microsoft Copilot Studio agents across its business, proving AI in production before guiding customers—accelerating intake, boosting productivity, and strengthening governance.</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27280-get-ai-microsoft-365-copilot</guid>
-      <pubDate>Tue, 22 Sep 2026 12:00:00 +0000</pubDate>
+      <pubDate>Tue, 22 Sep 2026 11:59:59 +0000</pubDate>
       <category>Professional and Business Services</category>
       <category>Microsoft 365 Copilot</category>
       <category>Microsoft Copilot Studio</category>
@@ -23,7 +34,7 @@
       <link>https://www.microsoft.com/en/customers/story/27356-rio-tinto-power-bi</link>
       <description>Rio Tinto automated month-end finance close using Microsoft Power Platform, achieving its fastest close in history for its largest product group.</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27356-rio-tinto-power-bi</guid>
-      <pubDate>Tue, 22 Sep 2026 11:59:59 +0000</pubDate>
+      <pubDate>Tue, 22 Sep 2026 11:59:58 +0000</pubDate>
       <category>Energy and Resources</category>
       <category>Power BI</category>
       <category>Microsoft Power Platform</category>
@@ -37,7 +48,7 @@
       <link>https://www.microsoft.com/en/customers/story/27363-microsoft-azure-kubernetes-service</link>
       <description>Microsoft 365 uses Azure Kubernetes Service (AKS) to scale platform expertise and focus engineering capacity on customer innovation.</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27363-microsoft-azure-kubernetes-service</guid>
-      <pubDate>Tue, 22 Sep 2026 11:59:58 +0000</pubDate>
+      <pubDate>Tue, 22 Sep 2026 11:59:57 +0000</pubDate>
       <category>Software, Data and Platforms</category>
       <category>Azure Kubernetes Service</category>
       <category>Azure Kubernetes Fleet Manager</category>
@@ -96,7 +107,7 @@
       <link>https://www.microsoft.com/en/customers/story/27321-alzheimers-society-microsoft-copilot</link>
       <description>Alzheimer's Society harnesses Microsoft Copilot to reduce manual tasks, identify income opportunities, and advance its fight against dementia.</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27321-alzheimers-society-microsoft-copilot</guid>
-      <pubDate>Tue, 22 Sep 2026 11:59:57 +0000</pubDate>
+      <pubDate>Tue, 22 Sep 2026 11:59:56 +0000</pubDate>
       <category>Nonprofit and IGO</category>
       <category>Microsoft Copilot</category>
       <category>Microsoft Copilot Studio</category>
@@ -554,19 +565,6 @@
       <category>Dynamics 365 Sales</category>
       <category>Dynamics 365 Customer Insights</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27179_Public%20Employee%20Benefits%20Administrators%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title> Körber accelerates GxP operations with trusted AI leveraging Microsoft Azure 
-</title>
-      <link>https://www.microsoft.com/en/customers/story/26966-koerber-azure</link>
-      <description>Körber uses Microsoft Azure to build its K.AI platform, including PharmaGuardrails technology, bringing trusted GxP, GAMP AI and EU AI act compliant Artificial Intelligence into the life science industry.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26966-koerber-azure</guid>
-      <pubDate>Wed, 02 Sep 2026 12:00:00 +0000</pubDate>
-      <category>Healthcare</category>
-      <category>Azure</category>
-      <category>Azure OpenAI in Foundry Models</category>
-      <category>Microsoft Foundry</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26966_Koerber%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
