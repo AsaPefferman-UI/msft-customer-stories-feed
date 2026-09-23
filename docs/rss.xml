@@ -7,6 +7,20 @@
     <language>en</language>
     <atom:link rel="self" href="" type="application/rss+xml" />
     <item>
+      <title>Children’s Cancer Institute speeds genomic data analysis with Azure and AI, giving hope for children with cancer</title>
+      <link>https://www.microsoft.com/en/customers/story/27014-childrens-cancer-institute-australia-azure-database-for-mysql</link>
+      <description>When a life-threatening brain tumor threatened Scout Bradstreet's future, genomic analysis powered by Microsoft Azure helped researchers identify a personalized treatment that changed the course of her life.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27014-childrens-cancer-institute-australia-azure-database-for-mysql</guid>
+      <pubDate>Wed, 23 Sep 2026 12:00:00 +0000</pubDate>
+      <category>Nonprofit and IGO</category>
+      <category>Azure Database for MySQL</category>
+      <category>Azure Kubernetes Service</category>
+      <category>Azure</category>
+      <category>Azure Databricks</category>
+      <category>Microsoft Entra ID</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27014_Childrens%20Cancer%20Institute%20Australia%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>FC Schalke 04 turns data into decisions 3x faster with Microsoft Fabric &amp; Azure Databricks</title>
       <link>https://www.microsoft.com/en/customers/story/27275-fc-schalke-04-microsoft-fabric</link>
       <description>FC Schalke 04 football club used Microsoft Fabric to build a scalable foundation to integrate new data sources and support faster, deeper analysis.</description>
@@ -551,20 +565,6 @@
       <category>Power BI</category>
       <category>Microsoft Copilot</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26991_CPL%20AROMAS%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title> Public Employee Benefits Administrators transforms member services with Dynamics 365 AI agents </title>
-      <link>https://www.microsoft.com/en/customers/story/27179-public-employee-benefits-administrators-dynamics-365-customer-service</link>
-      <description>A benefits administrator deploys four AI agents to transform manual member support into a scalable, quality-driven operation.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27179-public-employee-benefits-administrators-dynamics-365-customer-service</guid>
-      <pubDate>Fri, 04 Sep 2026 11:59:59 +0000</pubDate>
-      <category>Professional and Business Services</category>
-      <category>Dynamics 365 Customer Service</category>
-      <category>Microsoft Copilot Studio</category>
-      <category>Microsoft Power Platform</category>
-      <category>Dynamics 365 Sales</category>
-      <category>Dynamics 365 Customer Insights</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27179_Public%20Employee%20Benefits%20Administrators%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
