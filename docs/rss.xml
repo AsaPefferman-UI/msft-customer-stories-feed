@@ -7,11 +7,21 @@
     <language>en</language>
     <atom:link rel="self" href="" type="application/rss+xml" />
     <item>
+      <title>ZS strengthens AI-powered security operations with Microsoft Security Copilot.</title>
+      <link>https://www.microsoft.com/en/customers/story/27375-z-s-associates-inc-microsoft-security-copilot</link>
+      <description>ZS scaled its global security operations by empowering analysts with Microsoft Security Copilot to respond to threats with greater speed and precision.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27375-z-s-associates-inc-microsoft-security-copilot</guid>
+      <pubDate>Wed, 23 Sep 2026 12:00:00 +0000</pubDate>
+      <category>Professional and Business Services</category>
+      <category>Microsoft Security Copilot</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27375_Z%20S%20Associates%20Inc%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Children’s Cancer Institute speeds genomic data analysis with Azure and AI, giving hope for children with cancer</title>
       <link>https://www.microsoft.com/en/customers/story/27014-childrens-cancer-institute-australia-azure-database-for-mysql</link>
       <description>When a life-threatening brain tumor threatened Scout Bradstreet's future, genomic analysis powered by Microsoft Azure helped researchers identify a personalized treatment that changed the course of her life.</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27014-childrens-cancer-institute-australia-azure-database-for-mysql</guid>
-      <pubDate>Wed, 23 Sep 2026 12:00:00 +0000</pubDate>
+      <pubDate>Wed, 23 Sep 2026 11:59:59 +0000</pubDate>
       <category>Nonprofit and IGO</category>
       <category>Azure Database for MySQL</category>
       <category>Azure Kubernetes Service</category>
@@ -550,21 +560,6 @@
       <category>Microsoft 365 Copilot</category>
       <category>Power Apps</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27170_Vanderlande%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>CPL Aromas builds a unified data foundation, innovating faster with Fabric</title>
-      <link>https://www.microsoft.com/en/customers/story/26991-cpl-aromas-microsoft-fabric</link>
-      <description>CPL Aromas unified enterprise data with Microsoft Fabric, accelerating decision-making and creating a foundation for future AI innovation.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26991-cpl-aromas-microsoft-fabric</guid>
-      <pubDate>Wed, 09 Sep 2026 11:59:58 +0000</pubDate>
-      <category>Retail and Consumer Goods</category>
-      <category>Microsoft Fabric</category>
-      <category>OneLake</category>
-      <category>Dynamics 365</category>
-      <category>Dynamics AX</category>
-      <category>Power BI</category>
-      <category>Microsoft Copilot</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26991_CPL%20AROMAS%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
