@@ -17,11 +17,24 @@
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27375_Z%20S%20Associates%20Inc%20Header%20Image" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>ABN AMRO cuts financial crime query time by 90% with Fabric</title>
+      <link>https://www.microsoft.com/en/customers/story/27383-abn-amro-microsoft-fabric</link>
+      <description>ABN AMRO’s DFC department unified trusted, near-real-time analytics on Fabric so financial crime analysts could act faster at scale.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27383-abn-amro-microsoft-fabric</guid>
+      <pubDate>Wed, 23 Sep 2026 11:59:59 +0000</pubDate>
+      <category>Financial Services</category>
+      <category>Microsoft Fabric</category>
+      <category>Real-Time Intelligence</category>
+      <category>Power BI</category>
+      <category>Microsoft Purview</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27383_ABN%20AMRO%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Children’s Cancer Institute speeds genomic data analysis with Azure and AI, giving hope for children with cancer</title>
       <link>https://www.microsoft.com/en/customers/story/27014-childrens-cancer-institute-australia-azure-database-for-mysql</link>
       <description>When a life-threatening brain tumor threatened Scout Bradstreet's future, genomic analysis powered by Microsoft Azure helped researchers identify a personalized treatment that changed the course of her life.</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27014-childrens-cancer-institute-australia-azure-database-for-mysql</guid>
-      <pubDate>Wed, 23 Sep 2026 11:59:59 +0000</pubDate>
+      <pubDate>Wed, 23 Sep 2026 11:59:58 +0000</pubDate>
       <category>Nonprofit and IGO</category>
       <category>Azure Database for MySQL</category>
       <category>Azure Kubernetes Service</category>
@@ -31,11 +44,24 @@
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27014_Childrens%20Cancer%20Institute%20Australia%20Header%20Image" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>Atlanta Public Schools scales Power Platform to 56 apps across the district</title>
+      <link>https://www.microsoft.com/en/customers/story/27376-atlanta-public-schools-microsoft-power-platform</link>
+      <description>Atlanta Public Schools built 56 in-house Power Platform apps, streamlining psychological services, transcripts, transportation, and procurement.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27376-atlanta-public-schools-microsoft-power-platform</guid>
+      <pubDate>Tue, 22 Sep 2026 12:00:00 +0000</pubDate>
+      <category>Education</category>
+      <category>Microsoft Power Platform</category>
+      <category>Power Pages</category>
+      <category>Dataverse</category>
+      <category>Power Apps</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27376_Atlanta%20Public%20Schools%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>FC Schalke 04 turns data into decisions 3x faster with Microsoft Fabric &amp; Azure Databricks</title>
       <link>https://www.microsoft.com/en/customers/story/27275-fc-schalke-04-microsoft-fabric</link>
       <description>FC Schalke 04 football club used Microsoft Fabric to build a scalable foundation to integrate new data sources and support faster, deeper analysis.</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27275-fc-schalke-04-microsoft-fabric</guid>
-      <pubDate>Tue, 22 Sep 2026 12:00:00 +0000</pubDate>
+      <pubDate>Tue, 22 Sep 2026 11:59:59 +0000</pubDate>
       <category>Telecommunications and Media</category>
       <category>Microsoft Fabric</category>
       <category>Azure Databricks</category>
@@ -46,7 +72,7 @@
       <link>https://www.microsoft.com/en/customers/story/27280-get-ai-microsoft-365-copilot</link>
       <description>GET AI uses Microsoft Copilot Studio agents across its business, proving AI in production before guiding customers—accelerating intake, boosting productivity, and strengthening governance.</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27280-get-ai-microsoft-365-copilot</guid>
-      <pubDate>Tue, 22 Sep 2026 11:59:59 +0000</pubDate>
+      <pubDate>Tue, 22 Sep 2026 11:59:58 +0000</pubDate>
       <category>Professional and Business Services</category>
       <category>Microsoft 365 Copilot</category>
       <category>Microsoft Copilot Studio</category>
@@ -58,7 +84,7 @@
       <link>https://www.microsoft.com/en/customers/story/27356-rio-tinto-power-bi</link>
       <description>Rio Tinto automated month-end finance close using Microsoft Power Platform, achieving its fastest close in history for its largest product group.</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27356-rio-tinto-power-bi</guid>
-      <pubDate>Tue, 22 Sep 2026 11:59:58 +0000</pubDate>
+      <pubDate>Tue, 22 Sep 2026 11:59:57 +0000</pubDate>
       <category>Energy and Resources</category>
       <category>Power BI</category>
       <category>Microsoft Power Platform</category>
@@ -72,7 +98,7 @@
       <link>https://www.microsoft.com/en/customers/story/27363-microsoft-azure-kubernetes-service</link>
       <description>Microsoft 365 uses Azure Kubernetes Service (AKS) to scale platform expertise and focus engineering capacity on customer innovation.</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27363-microsoft-azure-kubernetes-service</guid>
-      <pubDate>Tue, 22 Sep 2026 11:59:57 +0000</pubDate>
+      <pubDate>Tue, 22 Sep 2026 11:59:56 +0000</pubDate>
       <category>Software, Data and Platforms</category>
       <category>Azure Kubernetes Service</category>
       <category>Azure Kubernetes Fleet Manager</category>
@@ -131,7 +157,7 @@
       <link>https://www.microsoft.com/en/customers/story/27321-alzheimers-society-microsoft-copilot</link>
       <description>Alzheimer's Society harnesses Microsoft Copilot to reduce manual tasks, identify income opportunities, and advance its fight against dementia.</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27321-alzheimers-society-microsoft-copilot</guid>
-      <pubDate>Tue, 22 Sep 2026 11:59:56 +0000</pubDate>
+      <pubDate>Tue, 22 Sep 2026 11:59:55 +0000</pubDate>
       <category>Nonprofit and IGO</category>
       <category>Microsoft Copilot</category>
       <category>Microsoft Copilot Studio</category>
@@ -532,34 +558,6 @@
       <category>Microsoft Purview</category>
       <category>Visual Studio Code</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27050_Black%20and%20Veatch%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title> Black &amp;amp; Veatch Achieves 98% Microsoft Copilot Adoption Through AI Change Management 
-</title>
-      <link>https://www.microsoft.com/en/customers/story/27049-black-and-veatch-microsoft-365-copilot</link>
-      <description>Engineering and construction leader Black &amp; Veatch takes a highly effective, cohort-based approach to learning and achieves 98% adoption of Copilot.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27049-black-and-veatch-microsoft-365-copilot</guid>
-      <pubDate>Tue, 08 Sep 2026 11:59:57 +0000</pubDate>
-      <category>Professional and Business Services</category>
-      <category>Microsoft 365 Copilot</category>
-      <category>Microsoft Copilot Studio</category>
-      <category>GitHub Copilot</category>
-      <category>Azure OpenAI in Foundry Models</category>
-      <category>Microsoft Viva Engage</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27049_Black%20and%20Veatch%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Vanderlande saves time and money with Power Platform and Copilot Studio</title>
-      <link>https://www.microsoft.com/en/customers/story/27170-vanderlande-microsoft-power-platform</link>
-      <description>Vanderlande transformed spreadsheet-driven processes into low-code applications and AI agents, empowering more than 1,142 makers across its global logistics operation.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27170-vanderlande-microsoft-power-platform</guid>
-      <pubDate>Fri, 04 Sep 2026 12:00:00 +0000</pubDate>
-      <category>Automotive, Mobility, and Transportation</category>
-      <category>Microsoft Power Platform</category>
-      <category>Microsoft Copilot Studio</category>
-      <category>Microsoft 365 Copilot</category>
-      <category>Power Apps</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27170_Vanderlande%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
