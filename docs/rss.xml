@@ -262,6 +262,17 @@
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27299_Docusign%20Header%20Image" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>Microsoft 365 Copilot enhances process and motivation at National Personnel Authority</title>
+      <link>https://www.microsoft.com/en/customers/story/27286-national-personnel-authority-microsoft-365-copilot</link>
+      <description>The National Personnel Authority is transforming the way it works with Microsoft 365 Copilot. As generative AI adoption expands across government, it is reducing management dependency on individuals in knowledge sharing and improving operational efficiency.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27286-national-personnel-authority-microsoft-365-copilot</guid>
+      <pubDate>Thu, 24 Sep 2026 12:00:00 +0000</pubDate>
+      <category>Government</category>
+      <category>Microsoft 365 Copilot</category>
+      <category>Microsoft 365</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27286_National%20Personnel%20Authority%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Mercedes-AMG PETRONAS F1 Team turns race-day pressure into speed with Microsoft Azure</title>
       <link>https://www.microsoft.com/en/customers/story/27253-mercedes-amg-petronas-f1-team-azure-kubernetes-service</link>
       <description>The Mercedes-AMG PETRONAS F1 Team uses Azure to scale race-day simulations and model sensor data in software.</description>
@@ -541,23 +552,6 @@
       <category>Azure Logic Apps</category>
       <category>Azure DevOps</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27135_OYAK%20ANKER%20Bank%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Black &amp; Veatch scales Microsoft AI enterprise-wide to deliver greater client value</title>
-      <link>https://www.microsoft.com/en/customers/story/27050-black-and-veatch-microsoft-365-copilot</link>
-      <description>Leading engineering and construction company Black &amp; Veatch uses Microsoft AI solutions to meet rising demand, delivering faster and higher-quality work.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27050-black-and-veatch-microsoft-365-copilot</guid>
-      <pubDate>Tue, 08 Sep 2026 11:59:58 +0000</pubDate>
-      <category>Professional and Business Services</category>
-      <category>Microsoft 365 Copilot</category>
-      <category>Microsoft Foundry</category>
-      <category>GitHub Copilot</category>
-      <category>Azure</category>
-      <category>Microsoft Fabric</category>
-      <category>Microsoft Security Copilot</category>
-      <category>Microsoft Purview</category>
-      <category>Visual Studio Code</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27050_Black%20and%20Veatch%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
