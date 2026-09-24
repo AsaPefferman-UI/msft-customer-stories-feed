@@ -106,6 +106,18 @@
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27363_Microsoft%20Header%20Image" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>BNY upskills 100% of staff on Eliza, powered by Microsoft AI, to innovate faster</title>
+      <link>https://www.microsoft.com/en/customers/story/27320-bny-microsoft-foundry</link>
+      <description>Through a tiered upskilling program, BNY taught nearly 50,000 employees AI-literacy and reached 100% adoption of its AI platform, Eliza.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27320-bny-microsoft-foundry</guid>
+      <pubDate>Thu, 24 Sep 2026 12:00:00 +0000</pubDate>
+      <category>Financial Services</category>
+      <category>Microsoft Foundry</category>
+      <category>Microsoft 365 Copilot</category>
+      <category>Azure</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27320_BNY%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>NNE unifies its data estate with Microsoft Fabric to scale delivery</title>
       <link>https://www.microsoft.com/en/customers/story/27303-nne-microsoft-fabric</link>
       <description>NNE uses Microsoft Fabric to unify data engineering, analytics, and reporting, helping teams reuse trusted data faster.</description>
@@ -266,7 +278,7 @@
       <link>https://www.microsoft.com/en/customers/story/27286-national-personnel-authority-microsoft-365-copilot</link>
       <description>The National Personnel Authority is transforming the way it works with Microsoft 365 Copilot. As generative AI adoption expands across government, it is reducing management dependency on individuals in knowledge sharing and improving operational efficiency.</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27286-national-personnel-authority-microsoft-365-copilot</guid>
-      <pubDate>Thu, 24 Sep 2026 12:00:00 +0000</pubDate>
+      <pubDate>Thu, 24 Sep 2026 11:59:59 +0000</pubDate>
       <category>Government</category>
       <category>Microsoft 365 Copilot</category>
       <category>Microsoft 365</category>
@@ -532,26 +544,6 @@
       <category>Healthcare</category>
       <category>Azure</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27197_PREMERA%20BLUE%20CROSS%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title> OYAK ANKER Bank transforms operations on Microsoft Azure </title>
-      <link>https://www.microsoft.com/en/customers/story/27135-oyak-anker-bank-microsoft-365-apps-for-enterprise</link>
-      <description>OYAK ANKER Bank migrated to Azure, enabling 80% faster product launches on a resilient, future-ready banking platform.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27135-oyak-anker-bank-microsoft-365-apps-for-enterprise</guid>
-      <pubDate>Mon, 21 Sep 2026 11:59:58 +0000</pubDate>
-      <category>Financial Services</category>
-      <category>Microsoft 365 Apps for enterprise</category>
-      <category>Microsoft 365</category>
-      <category>Microsoft Teams</category>
-      <category>Microsoft Power Platform</category>
-      <category>Azure</category>
-      <category>Azure API Management</category>
-      <category>Azure SQL</category>
-      <category>Azure App Service</category>
-      <category>Azure Functions</category>
-      <category>Azure Logic Apps</category>
-      <category>Azure DevOps</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27135_OYAK%20ANKER%20Bank%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
