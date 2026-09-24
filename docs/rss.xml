@@ -44,6 +44,20 @@
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27014_Childrens%20Cancer%20Institute%20Australia%20Header%20Image" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>Frontier Firm BNY resolves client inquires 80% faster with Microsoft AI powered Eliza</title>
+      <link>https://www.microsoft.com/en/customers/story/27322-bny-microsoft-365-copilot</link>
+      <description>BNY is rethinking how financial systems work, accelerating AI-driven innovation in the financial services industry and building trust with clients.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27322-bny-microsoft-365-copilot</guid>
+      <pubDate>Thu, 24 Sep 2026 12:00:00 +0000</pubDate>
+      <category>Financial Services</category>
+      <category>Microsoft 365 Copilot</category>
+      <category>Microsoft Foundry</category>
+      <category>GitHub Copilot</category>
+      <category>Azure</category>
+      <category>Microsoft Graph</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27322_BNY%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Atlanta Public Schools scales Power Platform to 56 apps across the district</title>
       <link>https://www.microsoft.com/en/customers/story/27376-atlanta-public-schools-microsoft-power-platform</link>
       <description>Atlanta Public Schools built 56 in-house Power Platform apps, streamlining psychological services, transcripts, transportation, and procurement.</description>
@@ -110,7 +124,7 @@
       <link>https://www.microsoft.com/en/customers/story/27320-bny-microsoft-foundry</link>
       <description>Through a tiered upskilling program, BNY taught nearly 50,000 employees AI-literacy and reached 100% adoption of its AI platform, Eliza.</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27320-bny-microsoft-foundry</guid>
-      <pubDate>Thu, 24 Sep 2026 12:00:00 +0000</pubDate>
+      <pubDate>Thu, 24 Sep 2026 11:59:59 +0000</pubDate>
       <category>Financial Services</category>
       <category>Microsoft Foundry</category>
       <category>Microsoft 365 Copilot</category>
@@ -278,7 +292,7 @@
       <link>https://www.microsoft.com/en/customers/story/27286-national-personnel-authority-microsoft-365-copilot</link>
       <description>The National Personnel Authority is transforming the way it works with Microsoft 365 Copilot. As generative AI adoption expands across government, it is reducing management dependency on individuals in knowledge sharing and improving operational efficiency.</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27286-national-personnel-authority-microsoft-365-copilot</guid>
-      <pubDate>Thu, 24 Sep 2026 11:59:59 +0000</pubDate>
+      <pubDate>Thu, 24 Sep 2026 11:59:58 +0000</pubDate>
       <category>Government</category>
       <category>Microsoft 365 Copilot</category>
       <category>Microsoft 365</category>
@@ -534,16 +548,6 @@
       <category>Azure Kubernetes Service</category>
       <category>GitHub</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27168_JetBlue%20Airways%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>How Premera Blue Cross strengthened the heartbeat of its business with Microsoft Azure</title>
-      <link>https://www.microsoft.com/en/customers/story/27197-premera-blue-cross-azure</link>
-      <description>Premera Blue Cross modernized its mission-critical FACETS platform on Microsoft Azure, improving performance and building a foundation for future innovation.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27197-premera-blue-cross-azure</guid>
-      <pubDate>Tue, 08 Sep 2026 11:59:59 +0000</pubDate>
-      <category>Healthcare</category>
-      <category>Azure</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27197_PREMERA%20BLUE%20CROSS%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
