@@ -7,6 +7,18 @@
     <language>en</language>
     <atom:link rel="self" href="" type="application/rss+xml" />
     <item>
+      <title>Accelleron turbocharges IT support requests with Microsoft Copilot Studio and Power Platform</title>
+      <link>https://www.microsoft.com/en/customers/story/27391-accelleron-microsoft-power-platform</link>
+      <description>The AI-supported system is used by 3,500 people across the company for both self-help solutions and service ticket submissions.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27391-accelleron-microsoft-power-platform</guid>
+      <pubDate>Thu, 24 Sep 2026 12:00:00 +0000</pubDate>
+      <category>Industrials and Manufacturing</category>
+      <category>Microsoft Power Platform</category>
+      <category>Power Apps</category>
+      <category>Microsoft Copilot Studio</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27391_Accelleron%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>ZS strengthens AI-powered security operations with Microsoft Security Copilot.</title>
       <link>https://www.microsoft.com/en/customers/story/27375-z-s-associates-inc-microsoft-security-copilot</link>
       <description>ZS scaled its global security operations by empowering analysts with Microsoft Security Copilot to respond to threats with greater speed and precision.</description>
@@ -48,7 +60,7 @@
       <link>https://www.microsoft.com/en/customers/story/27322-bny-microsoft-365-copilot</link>
       <description>BNY is rethinking how financial systems work, accelerating AI-driven innovation in the financial services industry and building trust with clients.</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27322-bny-microsoft-365-copilot</guid>
-      <pubDate>Thu, 24 Sep 2026 12:00:00 +0000</pubDate>
+      <pubDate>Thu, 24 Sep 2026 11:59:59 +0000</pubDate>
       <category>Financial Services</category>
       <category>Microsoft 365 Copilot</category>
       <category>Microsoft Foundry</category>
@@ -124,7 +136,7 @@
       <link>https://www.microsoft.com/en/customers/story/27320-bny-microsoft-foundry</link>
       <description>Through a tiered upskilling program, BNY taught nearly 50,000 employees AI-literacy and reached 100% adoption of its AI platform, Eliza.</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27320-bny-microsoft-foundry</guid>
-      <pubDate>Thu, 24 Sep 2026 11:59:59 +0000</pubDate>
+      <pubDate>Thu, 24 Sep 2026 11:59:58 +0000</pubDate>
       <category>Financial Services</category>
       <category>Microsoft Foundry</category>
       <category>Microsoft 365 Copilot</category>
@@ -292,7 +304,7 @@
       <link>https://www.microsoft.com/en/customers/story/27286-national-personnel-authority-microsoft-365-copilot</link>
       <description>The National Personnel Authority is transforming the way it works with Microsoft 365 Copilot. As generative AI adoption expands across government, it is reducing management dependency on individuals in knowledge sharing and improving operational efficiency.</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27286-national-personnel-authority-microsoft-365-copilot</guid>
-      <pubDate>Thu, 24 Sep 2026 11:59:58 +0000</pubDate>
+      <pubDate>Thu, 24 Sep 2026 11:59:57 +0000</pubDate>
       <category>Government</category>
       <category>Microsoft 365 Copilot</category>
       <category>Microsoft 365</category>
@@ -535,19 +547,6 @@
       <category>Microsoft 365 Copilot</category>
       <category>Outlook</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27209_Williams%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>JetBlue modernizes cloud security at scale with Azure Firewall</title>
-      <link>https://www.microsoft.com/en/customers/story/27168-jetblue-airways-azure-firewall</link>
-      <description>JetBlue scales cloud security with Azure Firewall.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27168-jetblue-airways-azure-firewall</guid>
-      <pubDate>Tue, 08 Sep 2026 12:00:00 +0000</pubDate>
-      <category>Automotive, Mobility, and Transportation</category>
-      <category>Azure Firewall</category>
-      <category>Azure</category>
-      <category>Azure Kubernetes Service</category>
-      <category>GitHub</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27168_JetBlue%20Airways%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
