@@ -7,11 +7,30 @@
     <language>en</language>
     <atom:link rel="self" href="" type="application/rss+xml" />
     <item>
+      <title>Aon uses Azure AI to speed insurance certificate handling and improve accuracy</title>
+      <link>https://www.microsoft.com/en/customers/story/27292-aon-microsoft-foundry</link>
+      <description>Aon uses Azure AI to reduce certificate handling time from about 40 minutes to about 12 minutes, reaching nearly 90% extraction accuracy.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27292-aon-microsoft-foundry</guid>
+      <pubDate>Mon, 28 Sep 2026 12:00:00 +0000</pubDate>
+      <category>Financial Services</category>
+      <category>Microsoft Foundry</category>
+      <category>Azure OpenAI in Foundry Models</category>
+      <category>Azure Document Intelligence in Foundry Tools</category>
+      <category>Azure Content Understanding in Foundry Tools</category>
+      <category>Azure AI Search</category>
+      <category>Azure Functions</category>
+      <category>Azure Kubernetes Service</category>
+      <category>Azure Cosmos DB</category>
+      <category>Azure App Service</category>
+      <category>Azure</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27292_Aon%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Kantar turns advertising intelligence into action with Microsoft AI</title>
       <link>https://www.microsoft.com/en/customers/story/27379-kantar-azure</link>
       <description>Kantar creates a new business model with Microsoft Azure, helping marketers evaluate, optimize, and generate better content at scale.</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27379-kantar-azure</guid>
-      <pubDate>Mon, 28 Sep 2026 12:00:00 +0000</pubDate>
+      <pubDate>Mon, 28 Sep 2026 11:59:59 +0000</pubDate>
       <category>Telecommunications and Media</category>
       <category>Azure</category>
       <category>Microsoft Foundry</category>
@@ -68,7 +87,7 @@
       <link>https://www.microsoft.com/en/customers/story/27382-sap-azure-sql-database</link>
       <description>SAP Commerce Cloud is empowering clients with 99.99% uptime and the ability to process 11,000 orders per minute with Azure SQL Database Hyperscale.</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27382-sap-azure-sql-database</guid>
-      <pubDate>Mon, 28 Sep 2026 11:59:59 +0000</pubDate>
+      <pubDate>Mon, 28 Sep 2026 11:59:58 +0000</pubDate>
       <category>Software, Data and Platforms</category>
       <category>Azure SQL Database</category>
       <category>Azure Kubernetes Service</category>
@@ -543,19 +562,6 @@
       <category>SharePoint</category>
       <category>Azure Integration</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27232_VCAT%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Hancock Iron Ore scales Azure AI to extend rail lifespan 10%</title>
-      <link>https://www.microsoft.com/en/customers/story/27229-hancock-iron-ore-microsoft-foundry</link>
-      <description>Hancock Iron Ore became a frontier firm for mining, scaling Azure AI apps and agents across operations, maintenance, and corporate functions.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27229-hancock-iron-ore-microsoft-foundry</guid>
-      <pubDate>Thu, 10 Sep 2026 12:00:00 +0000</pubDate>
-      <category>Energy and Resources</category>
-      <category>Microsoft Foundry</category>
-      <category>Microsoft Fabric</category>
-      <category>Azure Databricks</category>
-      <category>Microsoft 365 Copilot</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27229_Hancock%20Iron%20Ore%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
