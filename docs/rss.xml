@@ -7,6 +7,21 @@
     <language>en</language>
     <atom:link rel="self" href="" type="application/rss+xml" />
     <item>
+      <title>Íslandsbanki simplifies business and regulatory complexity with Microsoft 365 Copilot</title>
+      <link>https://www.microsoft.com/en/customers/story/27378-islandsbanki-microsoft-365-copilot</link>
+      <description>Íslandsbanki used Microsoft 365 Copilot to simplify processes, streamline compliance, improve productivity, and accelerate innovation across the bank.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27378-islandsbanki-microsoft-365-copilot</guid>
+      <pubDate>Tue, 29 Sep 2026 12:00:00 +0000</pubDate>
+      <category>Financial Services</category>
+      <category>Microsoft 365 Copilot</category>
+      <category>GitHub Copilot</category>
+      <category>Azure</category>
+      <category>Microsoft Copilot Studio</category>
+      <category>Microsoft Foundry</category>
+      <category>Microsoft 365 Enterprise</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27378_Islandsbanki%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Aon uses Azure AI to speed insurance certificate handling and improve accuracy</title>
       <link>https://www.microsoft.com/en/customers/story/27292-aon-microsoft-foundry</link>
       <description>Aon uses Azure AI to reduce certificate handling time from about 40 minutes to about 12 minutes, reaching nearly 90% extraction accuracy.</description>
@@ -546,22 +561,6 @@
       <category>Azure Blob Storage</category>
       <category>Azure Container Registry</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27245_Scatter%20Lab%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>VCAT uses Dynamics 365 to resolve 70% of rental dispute matters early</title>
-      <link>https://www.microsoft.com/en/customers/story/27232-vcat-dynamics-365</link>
-      <description>VCAT has built a digital case management platform on Dynamics 365 to move from paper files to faster, more accessible dispute resolution for Victorians.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27232-vcat-dynamics-365</guid>
-      <pubDate>Tue, 15 Sep 2026 11:59:53 +0000</pubDate>
-      <category>Government</category>
-      <category>Dynamics 365</category>
-      <category>Dynamics 365 Customer Service</category>
-      <category>Dynamics 365 Contact Center</category>
-      <category>Power Pages</category>
-      <category>Microsoft Fabric</category>
-      <category>SharePoint</category>
-      <category>Azure Integration</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27232_VCAT%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
