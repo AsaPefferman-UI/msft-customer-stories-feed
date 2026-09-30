@@ -7,6 +7,20 @@
     <language>en</language>
     <atom:link rel="self" href="" type="application/rss+xml" />
     <item>
+      <title>UWV builds a CRM with Dynamics 365 to better serve 18 million citizens</title>
+      <link>https://www.microsoft.com/en/customers/story/27400-uwv-dynamics-365-contact-center</link>
+      <description>UWV uses Microsoft Dynamics 365 to build a new CRM, helping better serve millions of citizens and boosting productivity by over 20%.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27400-uwv-dynamics-365-contact-center</guid>
+      <pubDate>Wed, 30 Sep 2026 12:00:00 +0000</pubDate>
+      <category>Government</category>
+      <category>Dynamics 365 Contact Center</category>
+      <category>Dynamics 365</category>
+      <category>Microsoft Fabric</category>
+      <category>Microsoft Copilot</category>
+      <category>Azure</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27400_UWV%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Íslandsbanki simplifies business and regulatory complexity with Microsoft 365 Copilot</title>
       <link>https://www.microsoft.com/en/customers/story/27378-islandsbanki-microsoft-365-copilot</link>
       <description>Íslandsbanki used Microsoft 365 Copilot to simplify processes, streamline compliance, improve productivity, and accelerate innovation across the bank.</description>
@@ -548,19 +562,6 @@
       <category>Healthcare</category>
       <category>Microsoft Copilot Studio</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27273_Jack%20Fertility%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Scatter Lab Pioneers the AI Entertainment Industry with Azure-Based AI Infrastructure</title>
-      <link>https://www.microsoft.com/en/customers/story/27245-scatter-lab-azure-kubernetes-service</link>
-      <description>Scatter Lab built a scalable Azure-based AI infrastructure for its zeta platform, reducing LLM infrastructure costs by 20% and incident response resources by 50% while supporting its global expansion in AI entertainment.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27245-scatter-lab-azure-kubernetes-service</guid>
-      <pubDate>Fri, 18 Sep 2026 11:59:58 +0000</pubDate>
-      <category>Commercial Other Industries</category>
-      <category>Azure Kubernetes Service</category>
-      <category>Azure</category>
-      <category>Azure Blob Storage</category>
-      <category>Azure Container Registry</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27245_Scatter%20Lab%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
