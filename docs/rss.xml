@@ -7,6 +7,19 @@
     <language>en</language>
     <atom:link rel="self" href="" type="application/rss+xml" />
     <item>
+      <title>Bright Horizons shines a brighter light on family support and customer engagement with Dynamics 365</title>
+      <link>https://www.microsoft.com/en/customers/story/27319-bright-horizons-family-solutions-dynamics-365-sales</link>
+      <description>Bright Horizons modernized customer engagement with Dynamics 365 and Power Platform, unifying data and workflows to improve visibility, personalize family support, and build a foundation for AI.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27319-bright-horizons-family-solutions-dynamics-365-sales</guid>
+      <pubDate>Thu, 01 Oct 2026 12:00:00 +0000</pubDate>
+      <category>Education</category>
+      <category>Dynamics 365 Sales</category>
+      <category>Dynamics 365 Customer Service</category>
+      <category>Dynamics 365 Customer Insights</category>
+      <category>Microsoft Power Platform</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27319_Bright%20Horizons%20Family%20Solutions%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>UWV builds a CRM with Dynamics 365 to better serve 18 million citizens</title>
       <link>https://www.microsoft.com/en/customers/story/27400-uwv-dynamics-365-contact-center</link>
       <description>UWV uses Microsoft Dynamics 365 to build a new CRM, helping better serve millions of citizens and boosting productivity by over 20%.</description>
@@ -552,16 +565,6 @@
       <category>Power BI</category>
       <category>Power Apps</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27252_Dunea%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Jack Fertility accelerates trusted fertility guidance with agents in Microsoft Copilot Studio</title>
-      <link>https://www.microsoft.com/en/customers/story/27273-jack-fertility-microsoft-copilot-studio</link>
-      <description>Jack Fertility uses Microsoft Copilot Studio to provide private, trusted fertility guidance while accelerating agent development from weeks to days.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27273-jack-fertility-microsoft-copilot-studio</guid>
-      <pubDate>Tue, 15 Sep 2026 11:59:54 +0000</pubDate>
-      <category>Healthcare</category>
-      <category>Microsoft Copilot Studio</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27273_Jack%20Fertility%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
