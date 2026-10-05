@@ -7,11 +7,59 @@
     <language>en</language>
     <atom:link rel="self" href="" type="application/rss+xml" />
     <item>
+      <title>Bristol Myers Squibb accelerates life-changing scientific pursuits with Microsoft AI</title>
+      <link>https://www.microsoft.com/en/customers/story/27424-bristol-myers-squibb-microsoft-365-copilot</link>
+      <description>Bristol Myers Squibb partnered with Microsoft to accelerate its AI transformation and help it get life-changing treatments to more patients, faster.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27424-bristol-myers-squibb-microsoft-365-copilot</guid>
+      <pubDate>Mon, 05 Oct 2026 12:00:00 +0000</pubDate>
+      <category>Healthcare</category>
+      <category>Microsoft 365 Copilot</category>
+      <category>Microsoft Copilot Studio</category>
+      <category>Microsoft Viva Engage</category>
+      <category>Microsoft Viva Insights</category>
+      <category>Agents</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27424_Bristol%20Myers%20Squibb%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Thompson Rivers University speeds threat review &amp; prepares for AI with Microsoft 365</title>
+      <link>https://www.microsoft.com/en/customers/story/27423-thompson-rivers-university-microsoft-365-a5</link>
+      <description>TRU connects security with Microsoft 365 A5, reduces daily threat-review effort, and builds a governed foundation for AI.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27423-thompson-rivers-university-microsoft-365-a5</guid>
+      <pubDate>Mon, 05 Oct 2026 11:59:59 +0000</pubDate>
+      <category>Education</category>
+      <category>Microsoft 365 A5</category>
+      <category>Microsoft Sentinel</category>
+      <category>Microsoft Defender XDR</category>
+      <category>Microsoft Purview</category>
+      <category>Microsoft Entra</category>
+      <category>Microsoft 365 Copilot</category>
+      <category>Microsoft Copilot Studio</category>
+      <category>Microsoft Teams</category>
+      <category>Microsoft Authenticator App</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27423_Thompson%20Rivers%20University%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Canadian Tire Corporation migrates 4,300 VMs with Azure VMware Solution, achieving significant cost avoidance</title>
+      <link>https://www.microsoft.com/en/customers/story/27440-canadian-tire-corp-azure</link>
+      <description>Canadian Tire Corporation executed the largest Azure VMware Solution migration in Canada, moving 4,300 VMs in eight months, achieving significant cost avoidance, and establishing a cloud foundation designed to support long-term modernization and innovation.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27440-canadian-tire-corp-azure</guid>
+      <pubDate>Tue, 06 Oct 2026 12:00:00 +0000</pubDate>
+      <category>Automotive, Mobility, and Transportation</category>
+      <category>Azure</category>
+      <category>Azure Virtual Desktop</category>
+      <category>Azure VMware Solution</category>
+      <category>Azure NetApp Files</category>
+      <category>Azure Policy</category>
+      <category>Azure Monitor</category>
+      <category>Azure DevOps</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27440_Canadian%20Tire%20Corp%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title> EssilorLuxottica streamlines connected eye care 15% using Azure and GitHub Enterprise </title>
       <link>https://www.microsoft.com/en/customers/story/27439-essilorluxottica-azure</link>
       <description>EssilorLuxottica IT Eyecare Systems advances global eye care on Azure, GitHub Enterprise, and GitHub Copilot, improving speed, quality, and scale.</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27439-essilorluxottica-azure</guid>
-      <pubDate>Mon, 05 Oct 2026 12:00:00 +0000</pubDate>
+      <pubDate>Mon, 05 Oct 2026 11:59:58 +0000</pubDate>
       <category>Retail and Consumer Goods</category>
       <category>Azure</category>
       <category>GitHub Enterprise</category>
@@ -44,7 +92,7 @@
       <link>https://www.microsoft.com/en/customers/story/27409-cz-zorgverzekeringen-dynamics-365-contact-center</link>
       <description>CZ unifies service, contact center, and marketing on Dynamics 365 to accelerate innovation and personalize customer engagement.</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27409-cz-zorgverzekeringen-dynamics-365-contact-center</guid>
-      <pubDate>Mon, 05 Oct 2026 11:59:59 +0000</pubDate>
+      <pubDate>Mon, 05 Oct 2026 11:59:57 +0000</pubDate>
       <category>Financial Services</category>
       <category>Dynamics 365 Contact Center</category>
       <category>Dynamics 365 Customer Service</category>
@@ -528,49 +576,6 @@
       <category>Microsoft Purview</category>
       <category>Microsoft Entra</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27288_Arvind%20Limited%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>flatexDEGIRO uses Microsoft Fabric to reduce recurring HR reporting preparation effort by 38% and enable daily workforce insights</title>
-      <link>https://www.microsoft.com/en/customers/story/27123-flatexdegiro-se-microsoft-fabric</link>
-      <description>flatexDEGIRO modernized HR reporting with Microsoft Fabric, reducing recurring preparation effort by 38%, enabling daily refreshed workforce insights, and releasing 106 working hours annually for higher-value analysis.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27123-flatexdegiro-se-microsoft-fabric</guid>
-      <pubDate>Sat, 12 Sep 2026 12:00:00 +0000</pubDate>
-      <category>Financial Services</category>
-      <category>Microsoft Fabric</category>
-      <category>Power BI</category>
-      <category>Azure</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27123_flatexDEGIRO%20SE%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>St. Helena Hospice builds capacity for compassionate care with Dynamics 365</title>
-      <link>https://www.microsoft.com/en/customers/story/27146-st-helena-hospice-dynamics-365-business-central</link>
-      <description>St. Helena Hospice uses Dynamics 365 Business Central to gain and act on financial insights and Customer Insights to deepen stakeholder relationships.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27146-st-helena-hospice-dynamics-365-business-central</guid>
-      <pubDate>Tue, 15 Sep 2026 11:59:58 +0000</pubDate>
-      <category>Nonprofit and IGO</category>
-      <category>Dynamics 365 Business Central</category>
-      <category>Dynamics 365 Customer Insights</category>
-      <category>Dynamics 365 Sales</category>
-      <category>Dataverse</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27146_St%20Helena%20Hospice%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Kentucky CHFS modernizes its integration hub on Azure, cutting cost and complexity</title>
-      <link>https://www.microsoft.com/en/customers/story/27144-kentucky-cabinet-of-health-and-family-services-azure-integration-services</link>
-      <description>Kentucky Cabinet for Health and Family Services completes a major enterprise cloud modernization of its State Integration Hub.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27144-kentucky-cabinet-of-health-and-family-services-azure-integration-services</guid>
-      <pubDate>Tue, 15 Sep 2026 11:59:57 +0000</pubDate>
-      <category>Government</category>
-      <category>Azure Integration Services</category>
-      <category>Azure</category>
-      <category>Azure Key Vault</category>
-      <category>Azure Application Gateway</category>
-      <category>Azure API Management</category>
-      <category>Azure Monitor</category>
-      <category>Azure DevOps</category>
-      <category>Azure Functions</category>
-      <category>Azure Logic Apps</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27144_Cabinet%20of%20Health%20and%20Family%20Services%20Government%20of%20the%20Commonwealth%20of%20Kentucky%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
