@@ -7,6 +7,25 @@
     <language>en</language>
     <atom:link rel="self" href="" type="application/rss+xml" />
     <item>
+      <title> EssilorLuxottica streamlines connected eye care 15% using Azure and GitHub Enterprise </title>
+      <link>https://www.microsoft.com/en/customers/story/27439-essilorluxottica-azure</link>
+      <description>EssilorLuxottica IT Eyecare Systems advances global eye care on Azure, GitHub Enterprise, and GitHub Copilot, improving speed, quality, and scale.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27439-essilorluxottica-azure</guid>
+      <pubDate>Mon, 05 Oct 2026 12:00:00 +0000</pubDate>
+      <category>Retail and Consumer Goods</category>
+      <category>Azure</category>
+      <category>GitHub Enterprise</category>
+      <category>Azure SQL Database</category>
+      <category>Azure Kubernetes Service</category>
+      <category>Azure Health Data Services</category>
+      <category>Azure Cache for Redis</category>
+      <category>Azure Communication Services</category>
+      <category>Azure SignalR Service</category>
+      <category>GitHub Copilot</category>
+      <category>Azure Storage</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27439_EssilorLuxottica%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Bright Horizons shines a brighter light on family support and customer engagement with Dynamics 365</title>
       <link>https://www.microsoft.com/en/customers/story/27319-bright-horizons-family-solutions-dynamics-365-sales</link>
       <description>Bright Horizons modernized customer engagement with Dynamics 365 and Power Platform, unifying data and workflows to improve visibility, personalize family support, and build a foundation for AI.</description>
@@ -18,6 +37,21 @@
       <category>Dynamics 365 Customer Insights</category>
       <category>Microsoft Power Platform</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27319_Bright%20Horizons%20Family%20Solutions%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title> CZ accelerates customer engagement innovation with Microsoft Dynamic 365 
+</title>
+      <link>https://www.microsoft.com/en/customers/story/27409-cz-zorgverzekeringen-dynamics-365-contact-center</link>
+      <description>CZ unifies service, contact center, and marketing on Dynamics 365 to accelerate innovation and personalize customer engagement.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27409-cz-zorgverzekeringen-dynamics-365-contact-center</guid>
+      <pubDate>Mon, 05 Oct 2026 11:59:59 +0000</pubDate>
+      <category>Financial Services</category>
+      <category>Dynamics 365 Contact Center</category>
+      <category>Dynamics 365 Customer Service</category>
+      <category>Dynamics 365 Customer Insights</category>
+      <category>Microsoft Power Platform</category>
+      <category>Microsoft Teams Phone</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27409_CZ%20Zorgverzekeringen%20Header%20Image" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>UWV builds a CRM with Dynamics 365 to better serve 18 million citizens</title>
@@ -537,34 +571,6 @@
       <category>Azure Functions</category>
       <category>Azure Logic Apps</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27144_Cabinet%20of%20Health%20and%20Family%20Services%20Government%20of%20the%20Commonwealth%20of%20Kentucky%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>24 Hour Fitness reinvents member support with Flex, an agent built on Microsoft Copilot Studio</title>
-      <link>https://www.microsoft.com/en/customers/story/27274-24-hour-fitness-dynamics-365-sales</link>
-      <description>24 Hour Fitness built Flex with Microsoft Copilot Studio to give 2 million members instant support and streamlined human assistance.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27274-24-hour-fitness-dynamics-365-sales</guid>
-      <pubDate>Tue, 15 Sep 2026 11:59:56 +0000</pubDate>
-      <category>Healthcare</category>
-      <category>Dynamics 365 Sales</category>
-      <category>Dynamics 365 Customer Service</category>
-      <category>Microsoft Copilot Studio</category>
-      <category>Dataverse</category>
-      <category>Power BI</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27274_24%20HOUR%20FITNESS%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Dunea taps into efficiency, productivity, and better service with Dynamics 365</title>
-      <link>https://www.microsoft.com/en/customers/story/27252-dunea-dynamics-365-customer-service</link>
-      <description>Dunea boosts operational efficiency and service quality through integrated Dynamics 365 and Power Platform modernization.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27252-dunea-dynamics-365-customer-service</guid>
-      <pubDate>Tue, 15 Sep 2026 11:59:55 +0000</pubDate>
-      <category>Commercial Other Industries</category>
-      <category>Dynamics 365 Customer Service</category>
-      <category>Dynamics 365 Field Service</category>
-      <category>Dynamics 365 Supply Chain Management</category>
-      <category>Power BI</category>
-      <category>Power Apps</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27252_Dunea%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
