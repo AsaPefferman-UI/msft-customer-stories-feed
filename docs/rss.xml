@@ -99,6 +99,19 @@
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27319_Bright%20Horizons%20Family%20Solutions%20Header%20Image" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>From Plain English to Passing Tests: Momentic on Microsoft Foundry with Claude</title>
+      <link>https://www.microsoft.com/en/customers/story/27404-momentic-foundry-models</link>
+      <description>Momentic AI uses Claude models in Microsoft Foundry to power an AI-native testing platform that runs more than 200 million test steps a month at 99.2% reliability.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27404-momentic-foundry-models</guid>
+      <pubDate>Wed, 07 Oct 2026 12:00:00 +0000</pubDate>
+      <category>Software, Data and Platforms</category>
+      <category>Foundry Models</category>
+      <category>GitHub Copilot</category>
+      <category>Azure</category>
+      <category>Microsoft Foundry</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27404_Momentic%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title> CZ accelerates customer engagement innovation with Microsoft Dynamic 365 
 </title>
       <link>https://www.microsoft.com/en/customers/story/27409-cz-zorgverzekeringen-dynamics-365-contact-center</link>
@@ -562,18 +575,6 @@
       <category>Industrials and Manufacturing</category>
       <category>Microsoft Fabric</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27230_Axalta%20Coating%20Systems%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>OneSchool Global transforms curriculum quality at scale with Microsoft Copilot Studio</title>
-      <link>https://www.microsoft.com/en/customers/story/27278-oneschool-global-microsoft-copilot-studio</link>
-      <description>OneSchool Global uses a Copilot Studio agent to cut Assignment review time from 60 to 15 minutes, returning 375 days to teachers annually.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27278-oneschool-global-microsoft-copilot-studio</guid>
-      <pubDate>Tue, 15 Sep 2026 11:59:59 +0000</pubDate>
-      <category>Education</category>
-      <category>Microsoft Copilot Studio</category>
-      <category>Microsoft 365 Copilot</category>
-      <category>SharePoint</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27278_OneSchool%20Global%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
