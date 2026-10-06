@@ -7,6 +7,18 @@
     <language>en</language>
     <atom:link rel="self" href="" type="application/rss+xml" />
     <item>
+      <title>MITA relieves workload pressures and saves hundreds of hours with Copilot</title>
+      <link>https://www.microsoft.com/en/customers/story/27442-malta-information-technology-agency-microsoft-copilot</link>
+      <description>MITA used Microsoft Copilot to cut task completion time from hours to minutes across government departments while improving output quality.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27442-malta-information-technology-agency-microsoft-copilot</guid>
+      <pubDate>Tue, 06 Oct 2026 12:00:00 +0000</pubDate>
+      <category>Government</category>
+      <category>Microsoft Copilot</category>
+      <category>Microsoft Security Copilot</category>
+      <category>GitHub Copilot</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27442_Malta%20Information%20Technology%20Agency%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Bristol Myers Squibb accelerates life-changing scientific pursuits with Microsoft AI</title>
       <link>https://www.microsoft.com/en/customers/story/27424-bristol-myers-squibb-microsoft-365-copilot</link>
       <description>Bristol Myers Squibb partnered with Microsoft to accelerate its AI transformation and help it get life-changing treatments to more patients, faster.</description>
@@ -43,7 +55,7 @@
       <link>https://www.microsoft.com/en/customers/story/27440-canadian-tire-corp-azure</link>
       <description>Canadian Tire Corporation executed the largest Azure VMware Solution migration in Canada, moving 4,300 VMs in eight months, achieving significant cost avoidance, and establishing a cloud foundation designed to support long-term modernization and innovation.</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27440-canadian-tire-corp-azure</guid>
-      <pubDate>Tue, 06 Oct 2026 12:00:00 +0000</pubDate>
+      <pubDate>Tue, 06 Oct 2026 11:59:59 +0000</pubDate>
       <category>Automotive, Mobility, and Transportation</category>
       <category>Azure</category>
       <category>Azure Virtual Desktop</category>
@@ -106,7 +118,7 @@
       <link>https://www.microsoft.com/en/customers/story/27408-daiichi-life-insurance-azure-openai-in-foundry-models</link>
       <description>Digital Buddy automates meeting notes and internal searches, reducing staff workloads and giving Total Life Plan Designers more time with customers.</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27408-daiichi-life-insurance-azure-openai-in-foundry-models</guid>
-      <pubDate>Tue, 06 Oct 2026 11:59:59 +0000</pubDate>
+      <pubDate>Tue, 06 Oct 2026 11:59:58 +0000</pubDate>
       <category>Financial Services</category>
       <category>Azure OpenAI in Foundry Models</category>
       <category>Azure AI Search</category>
@@ -562,16 +574,6 @@
       <category>Microsoft 365 Copilot</category>
       <category>SharePoint</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27278_OneSchool%20Global%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Muleshoe Area Medical Center streamlines documentation with Microsoft Dragon Copilot</title>
-      <link>https://www.microsoft.com/en/customers/story/27016-muleshoe-area-medical-center-microsoft-dragon-copilot</link>
-      <description>Muleshoe Area Medical Center uses Microsoft Dragon Copilot embedded within their TruBridge EHR to reduce clinical documentation time.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27016-muleshoe-area-medical-center-microsoft-dragon-copilot</guid>
-      <pubDate>Thu, 17 Sep 2026 11:59:59 +0000</pubDate>
-      <category>Healthcare</category>
-      <category>Microsoft Dragon Copilot</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27016_Muleshoe%20Area%20Medical%20Center%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
