@@ -102,6 +102,19 @@
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27409_CZ%20Zorgverzekeringen%20Header%20Image" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>Daiichi Life transforms how Total Life Plan Designers work with Azure-based AI</title>
+      <link>https://www.microsoft.com/en/customers/story/27408-daiichi-life-insurance-azure-openai-in-foundry-models</link>
+      <description>Digital Buddy automates meeting notes and internal searches, reducing staff workloads and giving Total Life Plan Designers more time with customers.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27408-daiichi-life-insurance-azure-openai-in-foundry-models</guid>
+      <pubDate>Tue, 06 Oct 2026 11:59:59 +0000</pubDate>
+      <category>Financial Services</category>
+      <category>Azure OpenAI in Foundry Models</category>
+      <category>Azure AI Search</category>
+      <category>Azure Speech in Foundry Tools</category>
+      <category>Azure Storage</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27408_Daiichi%20Life%20Insurance%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>UWV builds a CRM with Dynamics 365 to better serve 18 million citizens</title>
       <link>https://www.microsoft.com/en/customers/story/27400-uwv-dynamics-365-contact-center</link>
       <description>UWV uses Microsoft Dynamics 365 to build a new CRM, helping better serve millions of citizens and boosting productivity by over 20%.</description>
@@ -559,23 +572,6 @@
       <category>Healthcare</category>
       <category>Microsoft Dragon Copilot</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27016_Muleshoe%20Area%20Medical%20Center%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title> Arvind Group builds an AI-ready data foundation with Microsoft Fabric 
-</title>
-      <link>https://www.microsoft.com/en/customers/story/27288-arvind-limited-microsoft-fabric</link>
-      <description>Arvind Group uses Microsoft Fabric to unify analytics, strengthen executive decision-making, and build an AI-ready foundation for future innovation.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27288-arvind-limited-microsoft-fabric</guid>
-      <pubDate>Wed, 16 Sep 2026 11:59:56 +0000</pubDate>
-      <category>Industrials and Manufacturing</category>
-      <category>Microsoft Fabric</category>
-      <category>Real-Time Intelligence</category>
-      <category>OneLake</category>
-      <category>Power BI</category>
-      <category>Azure Data Factory</category>
-      <category>Microsoft Purview</category>
-      <category>Microsoft Entra</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27288_Arvind%20Limited%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
