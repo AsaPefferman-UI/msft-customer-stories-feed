@@ -19,6 +19,20 @@
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27442_Malta%20Information%20Technology%20Agency%20Header%20Image" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title> Safety21 boosts data processing performance by 80% with Microsoft Fabric </title>
+      <link>https://www.microsoft.com/en/customers/story/27412-safety21-microsoft-fabric</link>
+      <description>Safety21 unified traffic data from municipalities across Italy on Microsoft Fabric, lifting data processing performance by around 80%.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27412-safety21-microsoft-fabric</guid>
+      <pubDate>Wed, 07 Oct 2026 12:00:00 +0000</pubDate>
+      <category>Automotive, Mobility, and Transportation</category>
+      <category>Microsoft Fabric</category>
+      <category>Azure</category>
+      <category>Power BI</category>
+      <category>Microsoft Defender for Cloud</category>
+      <category>Microsoft Defender XDR</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27412_Safety21%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Bristol Myers Squibb accelerates life-changing scientific pursuits with Microsoft AI</title>
       <link>https://www.microsoft.com/en/customers/story/27424-bristol-myers-squibb-microsoft-365-copilot</link>
       <description>Bristol Myers Squibb partnered with Microsoft to accelerate its AI transformation and help it get life-changing treatments to more patients, faster.</description>
@@ -103,7 +117,7 @@
       <link>https://www.microsoft.com/en/customers/story/27404-momentic-foundry-models</link>
       <description>Momentic AI uses Claude models in Microsoft Foundry to power an AI-native testing platform that runs more than 200 million test steps a month at 99.2% reliability.</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27404-momentic-foundry-models</guid>
-      <pubDate>Wed, 07 Oct 2026 12:00:00 +0000</pubDate>
+      <pubDate>Wed, 07 Oct 2026 11:59:59 +0000</pubDate>
       <category>Software, Data and Platforms</category>
       <category>Foundry Models</category>
       <category>GitHub Copilot</category>
@@ -565,16 +579,6 @@
       <category>Microsoft 365</category>
       <category>Azure</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27253_Mercedes%20AMG%20PETRONAS%20F1%20Team%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Axalta cuts data reloads 87% and streamlines analytics with Microsoft Fabric</title>
-      <link>https://www.microsoft.com/en/customers/story/27230-axalta-coating-systems-microsoft-fabric</link>
-      <description>Axalta built a unified data foundation on Microsoft Fabric to power enterprise analytics and cut data reloads 87%.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27230-axalta-coating-systems-microsoft-fabric</guid>
-      <pubDate>Wed, 16 Sep 2026 11:59:57 +0000</pubDate>
-      <category>Industrials and Manufacturing</category>
-      <category>Microsoft Fabric</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27230_Axalta%20Coating%20Systems%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
