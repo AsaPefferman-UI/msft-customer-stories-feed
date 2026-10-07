@@ -7,6 +7,34 @@
     <language>en</language>
     <atom:link rel="self" href="" type="application/rss+xml" />
     <item>
+      <title> GW RhythmX Brings Real-Time Precision Care Insights to Microsoft Dragon Copilot </title>
+      <link>https://www.microsoft.com/en/customers/story/27017-gw-rhythmx-microsoft-marketplace</link>
+      <description>GW RhythmX helps clinicians transform documentation signals to support personalized patient decisions.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27017-gw-rhythmx-microsoft-marketplace</guid>
+      <pubDate>Thu, 08 Oct 2026 12:00:00 +0000</pubDate>
+      <category>Healthcare</category>
+      <category>Microsoft Marketplace</category>
+      <category>Microsoft Dragon Copilot</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27017_GW%20RhythmX%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>NFP shifts from AI that assists to AI that executes with Microsoft Copilot Cowork</title>
+      <link>https://www.microsoft.com/en/customers/story/27422-nfp-power-automate</link>
+      <description>NFP uses Microsoft Copilot Cowork to move from AI that assists AI that executes, automating document-heavy insurance work under strong governance.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27422-nfp-power-automate</guid>
+      <pubDate>Thu, 08 Oct 2026 11:59:59 +0000</pubDate>
+      <category>Financial Services</category>
+      <category>Power Automate</category>
+      <category>GitHub Copilot</category>
+      <category>Power BI</category>
+      <category>Microsoft 365 Copilot</category>
+      <category>Microsoft 365 Copilot Chat</category>
+      <category>Microsoft Copilot Studio</category>
+      <category>Microsoft Power Platform</category>
+      <category>Microsoft Fabric</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27422_NFP%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>MITA relieves workload pressures and saves hundreds of hours with Copilot</title>
       <link>https://www.microsoft.com/en/customers/story/27442-malta-information-technology-agency-microsoft-copilot</link>
       <description>MITA used Microsoft Copilot to cut task completion time from hours to minutes across government departments while improving output quality.</description>
@@ -552,33 +580,6 @@
       <category>Azure Database for PostgreSQL</category>
       <category>Azure</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27299_Docusign%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Microsoft 365 Copilot enhances process and motivation at National Personnel Authority</title>
-      <link>https://www.microsoft.com/en/customers/story/27286-national-personnel-authority-microsoft-365-copilot</link>
-      <description>The National Personnel Authority is transforming the way it works with Microsoft 365 Copilot. As generative AI adoption expands across government, it is reducing management dependency on individuals in knowledge sharing and improving operational efficiency.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27286-national-personnel-authority-microsoft-365-copilot</guid>
-      <pubDate>Thu, 24 Sep 2026 11:59:57 +0000</pubDate>
-      <category>Government</category>
-      <category>Microsoft 365 Copilot</category>
-      <category>Microsoft 365</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27286_National%20Personnel%20Authority%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Mercedes-AMG PETRONAS F1 Team turns race-day pressure into speed with Microsoft Azure</title>
-      <link>https://www.microsoft.com/en/customers/story/27253-mercedes-amg-petronas-f1-team-azure-kubernetes-service</link>
-      <description>The Mercedes-AMG PETRONAS F1 Team uses Azure to scale race-day simulations and model sensor data in software.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27253-mercedes-amg-petronas-f1-team-azure-kubernetes-service</guid>
-      <pubDate>Wed, 16 Sep 2026 11:59:58 +0000</pubDate>
-      <category>Telecommunications and Media</category>
-      <category>Azure Kubernetes Service</category>
-      <category>Azure Batch</category>
-      <category>GitHub Copilot</category>
-      <category>SQL Server</category>
-      <category>Power BI</category>
-      <category>Microsoft 365</category>
-      <category>Azure</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27253_Mercedes%20AMG%20PETRONAS%20F1%20Team%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
