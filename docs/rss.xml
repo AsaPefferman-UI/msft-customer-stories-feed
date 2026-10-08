@@ -7,11 +7,35 @@
     <language>en</language>
     <atom:link rel="self" href="" type="application/rss+xml" />
     <item>
+      <title>Make-A-Wish Foundation cuts costs 40% using Clerk Chat and Microsoft Teams</title>
+      <link>https://www.microsoft.com/en/customers/story/27211-make-a-wish-foundation-of-america-microsoft-teams</link>
+      <description>Make-A-Wish Foundation cuts recurring telecommunication costs up to 40% monthly by site using Clerk Chat unified communications and Microsoft Teams.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27211-make-a-wish-foundation-of-america-microsoft-teams</guid>
+      <pubDate>Thu, 08 Oct 2026 12:00:00 +0000</pubDate>
+      <category>Nonprofit and IGO</category>
+      <category>Microsoft Teams</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27211_Make%20a%20Wish%20Foundation%20of%20America%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Asurion gets invoice automation back on track with Microsoft Copilot Studio</title>
+      <link>https://www.microsoft.com/en/customers/story/27456-asurion-insurance-services-microsoft-copilot-studio</link>
+      <description>Asurion uses Copilot Studio agents to increase touchless invoice processing and build confidence in finance automation.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27456-asurion-insurance-services-microsoft-copilot-studio</guid>
+      <pubDate>Thu, 08 Oct 2026 11:59:59 +0000</pubDate>
+      <category>Professional and Business Services</category>
+      <category>Microsoft Copilot Studio</category>
+      <category>Dynamics 365 Finance</category>
+      <category>Power Automate</category>
+      <category>Microsoft Power Platform</category>
+      <category>Dataverse</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27456_Asurion%20Insurance%20Services%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title> GW RhythmX Brings Real-Time Precision Care Insights to Microsoft Dragon Copilot </title>
       <link>https://www.microsoft.com/en/customers/story/27017-gw-rhythmx-microsoft-marketplace</link>
       <description>GW RhythmX helps clinicians transform documentation signals to support personalized patient decisions.</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27017-gw-rhythmx-microsoft-marketplace</guid>
-      <pubDate>Thu, 08 Oct 2026 12:00:00 +0000</pubDate>
+      <pubDate>Thu, 08 Oct 2026 11:59:58 +0000</pubDate>
       <category>Healthcare</category>
       <category>Microsoft Marketplace</category>
       <category>Microsoft Dragon Copilot</category>
@@ -22,7 +46,7 @@
       <link>https://www.microsoft.com/en/customers/story/27422-nfp-power-automate</link>
       <description>NFP uses Microsoft Copilot Cowork to move from AI that assists AI that executes, automating document-heavy insurance work under strong governance.</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27422-nfp-power-automate</guid>
-      <pubDate>Thu, 08 Oct 2026 11:59:59 +0000</pubDate>
+      <pubDate>Thu, 08 Oct 2026 11:59:57 +0000</pubDate>
       <category>Financial Services</category>
       <category>Power Automate</category>
       <category>GitHub Copilot</category>
@@ -65,7 +89,7 @@
       <link>https://www.microsoft.com/en/customers/story/27424-bristol-myers-squibb-microsoft-365-copilot</link>
       <description>Bristol Myers Squibb partnered with Microsoft to accelerate its AI transformation and help it get life-changing treatments to more patients, faster.</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27424-bristol-myers-squibb-microsoft-365-copilot</guid>
-      <pubDate>Mon, 05 Oct 2026 12:00:00 +0000</pubDate>
+      <pubDate>Thu, 08 Oct 2026 11:59:56 +0000</pubDate>
       <category>Healthcare</category>
       <category>Microsoft 365 Copilot</category>
       <category>Microsoft Copilot Studio</category>
@@ -79,7 +103,7 @@
       <link>https://www.microsoft.com/en/customers/story/27423-thompson-rivers-university-microsoft-365-a5</link>
       <description>TRU connects security with Microsoft 365 A5, reduces daily threat-review effort, and builds a governed foundation for AI.</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27423-thompson-rivers-university-microsoft-365-a5</guid>
-      <pubDate>Mon, 05 Oct 2026 11:59:59 +0000</pubDate>
+      <pubDate>Mon, 05 Oct 2026 12:00:00 +0000</pubDate>
       <category>Education</category>
       <category>Microsoft 365 A5</category>
       <category>Microsoft Sentinel</category>
@@ -113,7 +137,7 @@
       <link>https://www.microsoft.com/en/customers/story/27439-essilorluxottica-azure</link>
       <description>EssilorLuxottica IT Eyecare Systems advances global eye care on Azure, GitHub Enterprise, and GitHub Copilot, improving speed, quality, and scale.</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27439-essilorluxottica-azure</guid>
-      <pubDate>Mon, 05 Oct 2026 11:59:58 +0000</pubDate>
+      <pubDate>Mon, 05 Oct 2026 11:59:59 +0000</pubDate>
       <category>Retail and Consumer Goods</category>
       <category>Azure</category>
       <category>GitHub Enterprise</category>
@@ -159,7 +183,7 @@
       <link>https://www.microsoft.com/en/customers/story/27409-cz-zorgverzekeringen-dynamics-365-contact-center</link>
       <description>CZ unifies service, contact center, and marketing on Dynamics 365 to accelerate innovation and personalize customer engagement.</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27409-cz-zorgverzekeringen-dynamics-365-contact-center</guid>
-      <pubDate>Mon, 05 Oct 2026 11:59:57 +0000</pubDate>
+      <pubDate>Mon, 05 Oct 2026 11:59:58 +0000</pubDate>
       <category>Financial Services</category>
       <category>Dynamics 365 Contact Center</category>
       <category>Dynamics 365 Customer Service</category>
@@ -548,38 +572,6 @@
       <category>Azure OpenAI in Foundry Models</category>
       <category>Microsoft Foundry</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27291_BNY%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Inspiro achieves 85% audit accuracy with Celebal Technologies' call-monitoring system, built on Azure AI</title>
-      <link>https://www.microsoft.com/en/customers/story/27231-inspiro-relia-power-bi</link>
-      <description>Inspiro cuts manual audit effort by up to 45% and ensures 100% data masking across multilingual calls</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27231-inspiro-relia-power-bi</guid>
-      <pubDate>Wed, 16 Sep 2026 11:59:59 +0000</pubDate>
-      <category>Professional and Business Services</category>
-      <category>Power BI</category>
-      <category>Azure Cosmos DB</category>
-      <category>Azure OpenAI in Foundry Models</category>
-      <category>Azure AI Search</category>
-      <category>Azure Kubernetes Service</category>
-      <category>Azure Speech in Foundry Tools</category>
-      <category>Azure Communication Services</category>
-      <category>Azure</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27231_Inspiro%20Relia%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Docusign scales AI on Azure, processes 1M+ agreements daily with eightfold throughput</title>
-      <link>https://www.microsoft.com/en/customers/story/27299-docusign-microsoft-foundry</link>
-      <description>Docusign optimized AI on Azure to process over 1 million agreements daily, reduce costs 90%, and increase throughput eightfold.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27299-docusign-microsoft-foundry</guid>
-      <pubDate>Tue, 15 Sep 2026 12:00:00 +0000</pubDate>
-      <category>Software, Data and Platforms</category>
-      <category>Microsoft Foundry</category>
-      <category>Azure OpenAI in Foundry Models</category>
-      <category>Azure Kubernetes Service</category>
-      <category>Azure Cosmos DB</category>
-      <category>Azure Database for PostgreSQL</category>
-      <category>Azure</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27299_Docusign%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
