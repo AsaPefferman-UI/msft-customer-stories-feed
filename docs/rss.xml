@@ -476,6 +476,20 @@
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27303_NNE%20Header%20Image" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>Siemens transforms engineering project management with Microsoft Dynamics 365 Project Operations</title>
+      <link>https://www.microsoft.com/en/customers/story/27349-siemens-smart-infrastructure-dynamics-365-project-operations</link>
+      <description>Siemens unified global project operations with Dynamics 365, improving visibility, quality, efficiency, and risk management while creating a foundation for AI-driven innovation.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27349-siemens-smart-infrastructure-dynamics-365-project-operations</guid>
+      <pubDate>Fri, 09 Oct 2026 11:59:59 +0000</pubDate>
+      <category>Industrials and Manufacturing</category>
+      <category>Dynamics 365 Project Operations</category>
+      <category>Azure</category>
+      <category>Microsoft Power Platform</category>
+      <category>SharePoint</category>
+      <category>Power BI</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27349_Siemens%20Smart%20Infrastructure%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>World Tennis brings real-time intelligence to the Billie Jean King Cup with Azure</title>
       <link>https://www.microsoft.com/en/customers/story/27323-world-tennis-azure</link>
       <description>World Tennis uses Azure AI apps and agents to close the competitive insight gap with real-time match intelligence at the Billie Jean King Cup.</description>
@@ -553,27 +567,6 @@
       <category>Excel</category>
       <category>Word</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27289_Pamarco%20Technologies%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>KMD Brands unifies retail brands on a single Microsoft Dynamics 365 platform</title>
-      <link>https://www.microsoft.com/en/customers/story/27276-kmd-brands-dynamics-365-commerce</link>
-      <description>KMD Brands unified Kathmandu, Rip Curl, and Oboz on Microsoft Dynamics 365, enabling a lean team to deliver shared capabilities with speed and scale.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27276-kmd-brands-dynamics-365-commerce</guid>
-      <pubDate>Wed, 16 Sep 2026 12:00:00 +0000</pubDate>
-      <category>Retail and Consumer Goods</category>
-      <category>Dynamics 365 Commerce</category>
-      <category>Dynamics 365 Supply Chain Management</category>
-      <category>Power BI</category>
-      <category>Microsoft Entra ID</category>
-      <category>Dataverse</category>
-      <category>Microsoft Fabric</category>
-      <category>Microsoft Foundry</category>
-      <category>Azure</category>
-      <category>Azure Logic Apps</category>
-      <category>Azure API Management</category>
-      <category>Dynamics 365</category>
-      <category>GitHub Copilot</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27276_KMD%20Brands%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
