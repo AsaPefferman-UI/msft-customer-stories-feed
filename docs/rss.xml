@@ -71,6 +71,19 @@
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27442_Malta%20Information%20Technology%20Agency%20Header%20Image" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>Fujitsu transforms business processes with 100,000 Microsoft 365 Copilot licenses</title>
+      <link>https://www.microsoft.com/en/customers/story/27449-fujitsu-limited-microsoft-365-copilot</link>
+      <description>Establishing company-wide AI adoption and accelerating business transformation through Microsoft 365 Copilot and AI agents</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27449-fujitsu-limited-microsoft-365-copilot</guid>
+      <pubDate>Fri, 09 Oct 2026 12:00:00 +0000</pubDate>
+      <category>Industrials and Manufacturing</category>
+      <category>Microsoft 365 Copilot</category>
+      <category>Microsoft Teams</category>
+      <category>Outlook</category>
+      <category>Microsoft Copilot Studio</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27449_Fujitsu%20Limited%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title> Safety21 boosts data processing performance by 80% with Microsoft Fabric </title>
       <link>https://www.microsoft.com/en/customers/story/27412-safety21-microsoft-fabric</link>
       <description>Safety21 unified traffic data from municipalities across Italy on Microsoft Fabric, lifting data processing performance by around 80%.</description>
@@ -561,17 +574,6 @@
       <category>Dynamics 365</category>
       <category>GitHub Copilot</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27276_KMD%20Brands%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>BNY uses Azure OpenAI in Foundry Models to scale trust in accounting operations</title>
-      <link>https://www.microsoft.com/en/customers/story/27291-bny-azure-openai-in-foundry-models</link>
-      <description>Using Azure OpenAI in Foundry Models and Microsoft Foundry, BNY is exploring how AI can help clients investigate and resolve data issues at scale.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27291-bny-azure-openai-in-foundry-models</guid>
-      <pubDate>Thu, 17 Sep 2026 12:00:00 +0000</pubDate>
-      <category>Financial Services</category>
-      <category>Azure OpenAI in Foundry Models</category>
-      <category>Microsoft Foundry</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27291_BNY%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
