@@ -18,6 +18,16 @@
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27446_CNH%20Industrial%20Header%20Image" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>Intermountain Health chooses PowerScribe One to advance radiology reporting</title>
+      <link>https://www.microsoft.com/en/customers/story/27228-intermountain-healthcare-azure</link>
+      <description>Intermountain Health chose PowerScribe One to modernize radiology reporting with AI-enabled workflows and keep pace with growing demands.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27228-intermountain-healthcare-azure</guid>
+      <pubDate>Mon, 12 Oct 2026 12:00:00 +0000</pubDate>
+      <category>Healthcare</category>
+      <category>Azure</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27228_Intermountain%20Healthcare%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Make-A-Wish Foundation cuts costs 40% using Clerk Chat and Microsoft Teams</title>
       <link>https://www.microsoft.com/en/customers/story/27211-make-a-wish-foundation-of-america-microsoft-teams</link>
       <description>Make-A-Wish Foundation cuts recurring telecommunication costs up to 40% monthly by site using Clerk Chat unified communications and Microsoft Teams.</description>
@@ -546,21 +556,6 @@
       <category>Microsoft Defender XDR</category>
       <category>Microsoft Purview</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27321_Alzheimers%20Society%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Avanade cuts incident resolution time by up to 80% with Microsoft Security Copilot</title>
-      <link>https://www.microsoft.com/en/customers/story/27277-avanade-microsoft-security-copilot</link>
-      <description>Avanade used Microsoft Security Copilot with Microsoft Entra to standardize investigations, scale expertise, and reduce resolution times by up to 80%.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27277-avanade-microsoft-security-copilot</guid>
-      <pubDate>Fri, 18 Sep 2026 12:00:00 +0000</pubDate>
-      <category>Professional and Business Services</category>
-      <category>Microsoft Security Copilot</category>
-      <category>Microsoft Entra</category>
-      <category>Microsoft Sentinel</category>
-      <category>Microsoft Defender</category>
-      <category>Microsoft Purview Data Loss Prevention</category>
-      <category>Microsoft Defender XDR</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27277_Avanade%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
