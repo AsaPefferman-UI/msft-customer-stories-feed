@@ -7,6 +7,31 @@
     <language>en</language>
     <atom:link rel="self" href="" type="application/rss+xml" />
     <item>
+      <title>MSCI cuts data onboarding from days to minutes with Microsoft Fabric</title>
+      <link>https://www.microsoft.com/en/customers/story/27482-msci-microsoft-fabric</link>
+      <description>MSCI uses Mirroring in Microsoft Fabric to reduce data onboarding from 8–10 days to 30–40 minutes and deliver fresher marketing analytics.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27482-msci-microsoft-fabric</guid>
+      <pubDate>Tue, 13 Oct 2026 12:00:00 +0000</pubDate>
+      <category>Financial Services</category>
+      <category>Microsoft Fabric</category>
+      <category>Power BI</category>
+      <category>Azure Data Factory</category>
+      <category>Azure Synapse Analytics</category>
+      <category>Microsoft Foundry</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27482_MSCI%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Greek Ministry of Health uses Microsoft Azure to gain insights into 1B health records</title>
+      <link>https://www.microsoft.com/en/customers/story/27472-i-di-ka-sa-azure</link>
+      <description>The Greek Ministry of Health uses Microsoft Azure to make national health data easier for clinicians to navigate and more useful at the point of care.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27472-i-di-ka-sa-azure</guid>
+      <pubDate>Tue, 13 Oct 2026 11:59:59 +0000</pubDate>
+      <category>Government</category>
+      <category>Azure</category>
+      <category>Azure OpenAI in Foundry Models</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27472_I%20DI%20KA%20SA%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>CNH resolves factory-floor issues faster with SQUEAKS in Microsoft Teams</title>
       <link>https://www.microsoft.com/en/customers/story/27446-cnh-industrial-microsoft-teams</link>
       <description>CNH resolves factory-floor issues faster and with greater consistency with SQUEAKS in Microsoft Teams.</description>
@@ -57,7 +82,7 @@
       <link>https://www.microsoft.com/en/customers/story/27364-korea-zinc-microsoft-sentinel</link>
       <description>Korea Zinc unified security and governance with Microsoft Security to strengthen resilience and accelerate AI adoption.</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27364-korea-zinc-microsoft-sentinel</guid>
-      <pubDate>Tue, 13 Oct 2026 12:00:00 +0000</pubDate>
+      <pubDate>Tue, 13 Oct 2026 11:59:58 +0000</pubDate>
       <category>Energy and Resources</category>
       <category>Microsoft Sentinel</category>
       <category>Microsoft 365 E5</category>
@@ -531,36 +556,6 @@
       <category>Azure Data Lake Storage</category>
       <category>Azure Databricks</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27323_World%20Tennis%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Moody’s guards against risk with decision-grade intelligence live in Copilot</title>
-      <link>https://www.microsoft.com/en/customers/story/27318-moodys-microsoft-365-copilot</link>
-      <description>Moody’s brings a century of credit intelligence and analytics into Microsoft 365 Copilot through an MCP connector, delivering near-real-time insights.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27318-moodys-microsoft-365-copilot</guid>
-      <pubDate>Sat, 19 Sep 2026 12:00:00 +0000</pubDate>
-      <category>Financial Services</category>
-      <category>Microsoft 365 Copilot</category>
-      <category>Microsoft Copilot Studio</category>
-      <category>Microsoft Teams</category>
-      <category>Excel</category>
-      <category>Word</category>
-      <category>PowerPoint</category>
-      <category>SharePoint</category>
-      <category>OneDrive</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27318_Moodys%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Alzheimer’s Society accelerates the fight against dementia with Microsoft Copilot</title>
-      <link>https://www.microsoft.com/en/customers/story/27321-alzheimers-society-microsoft-copilot</link>
-      <description>Alzheimer's Society harnesses Microsoft Copilot to reduce manual tasks, identify income opportunities, and advance its fight against dementia.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27321-alzheimers-society-microsoft-copilot</guid>
-      <pubDate>Tue, 22 Sep 2026 11:59:55 +0000</pubDate>
-      <category>Nonprofit and IGO</category>
-      <category>Microsoft Copilot</category>
-      <category>Microsoft Copilot Studio</category>
-      <category>Microsoft Defender XDR</category>
-      <category>Microsoft Purview</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27321_Alzheimers%20Society%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
