@@ -18,16 +18,6 @@
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27446_CNH%20Industrial%20Header%20Image" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Intermountain Health chooses PowerScribe One to advance radiology reporting</title>
-      <link>https://www.microsoft.com/en/customers/story/27228-intermountain-healthcare-azure</link>
-      <description>Intermountain Health chose PowerScribe One to modernize radiology reporting with AI-enabled workflows and keep pace with growing demands.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27228-intermountain-healthcare-azure</guid>
-      <pubDate>Mon, 12 Oct 2026 12:00:00 +0000</pubDate>
-      <category>Healthcare</category>
-      <category>Azure</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27228_Intermountain%20Healthcare%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
       <title>Make-A-Wish Foundation cuts costs 40% using Clerk Chat and Microsoft Teams</title>
       <link>https://www.microsoft.com/en/customers/story/27211-make-a-wish-foundation-of-america-microsoft-teams</link>
       <description>Make-A-Wish Foundation cuts recurring telecommunication costs up to 40% monthly by site using Clerk Chat unified communications and Microsoft Teams.</description>
@@ -61,6 +51,21 @@
       <category>Microsoft Marketplace</category>
       <category>Microsoft Dragon Copilot</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27017_GW%20RhythmX%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Korea Zinc improves operational efficiency by 50% with Microsoft Security</title>
+      <link>https://www.microsoft.com/en/customers/story/27364-korea-zinc-microsoft-sentinel</link>
+      <description>Korea Zinc unified security and governance with Microsoft Security to strengthen resilience and accelerate AI adoption.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27364-korea-zinc-microsoft-sentinel</guid>
+      <pubDate>Tue, 13 Oct 2026 12:00:00 +0000</pubDate>
+      <category>Energy and Resources</category>
+      <category>Microsoft Sentinel</category>
+      <category>Microsoft 365 E5</category>
+      <category>Microsoft Defender</category>
+      <category>Microsoft Purview</category>
+      <category>Microsoft Entra ID</category>
+      <category>Microsoft Security Copilot</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27364_Korea%20Zinc%20Header%20Image" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>NFP shifts from AI that assists to AI that executes with Microsoft Copilot Cowork</title>
