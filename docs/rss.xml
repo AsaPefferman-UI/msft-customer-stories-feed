@@ -216,6 +216,19 @@
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27439_EssilorLuxottica%20Header%20Image" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title> The University of Tokyo adopted Windows 365 Flex shared mode in its ICT refresh </title>
+      <link>https://www.microsoft.com/en/customers/story/27441-the-university-of-tokyo-microsoft-intune</link>
+      <description>With Windows 365 Flex, Windows security updates are automatically managed in the cloud, reducing IT operational overhead.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27441-the-university-of-tokyo-microsoft-intune</guid>
+      <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
+      <category>Education</category>
+      <category>Windows 365</category>
+      <category>Microsoft Entra ID</category>
+      <category>Microsoft 365</category>
+      <category>Microsoft Intune</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27441_The%20University%20of%20Tokyo%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Bright Horizons shines a brighter light on family support and customer engagement with Dynamics 365</title>
       <link>https://www.microsoft.com/en/customers/story/27319-bright-horizons-family-solutions-dynamics-365-sales</link>
       <description>Bright Horizons modernized customer engagement with Dynamics 365 and Power Platform, unifying data and workflows to improve visibility, personalize family support, and build a foundation for AI.</description>
@@ -539,23 +552,6 @@
       <category>SharePoint</category>
       <category>Power BI</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27349_Siemens%20Smart%20Infrastructure%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>World Tennis brings real-time intelligence to the Billie Jean King Cup with Azure</title>
-      <link>https://www.microsoft.com/en/customers/story/27323-world-tennis-azure</link>
-      <description>World Tennis uses Azure AI apps and agents to close the competitive insight gap with real-time match intelligence at the Billie Jean King Cup.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27323-world-tennis-azure</guid>
-      <pubDate>Mon, 21 Sep 2026 11:59:59 +0000</pubDate>
-      <category>Telecommunications and Media</category>
-      <category>Azure</category>
-      <category>Microsoft Foundry</category>
-      <category>Azure App Service</category>
-      <category>Azure SQL Database</category>
-      <category>Azure SQL</category>
-      <category>Azure OpenAI in Foundry Models</category>
-      <category>Azure Data Lake Storage</category>
-      <category>Azure Databricks</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27323_World%20Tennis%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
