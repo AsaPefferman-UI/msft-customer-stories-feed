@@ -32,6 +32,18 @@
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27472_I%20DI%20KA%20SA%20Header%20Image" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>Odense Kommune drives AI-powered modernization with Microsoft 365 Copilot</title>
+      <link>https://www.microsoft.com/en/customers/story/27475-odense-kommune-microsoft-copilot</link>
+      <description>Odense Kommune streamlines operations using Microsoft 365 Copilot, freeing staff to stay focused on elevating citizen services.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27475-odense-kommune-microsoft-copilot</guid>
+      <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
+      <category>Government</category>
+      <category>Microsoft Copilot</category>
+      <category>Microsoft 365 Copilot Chat</category>
+      <category>Microsoft 365 E5</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27475_Odense%20Kommune%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>CNH resolves factory-floor issues faster with SQUEAKS in Microsoft Teams</title>
       <link>https://www.microsoft.com/en/customers/story/27446-cnh-industrial-microsoft-teams</link>
       <description>CNH resolves factory-floor issues faster and with greater consistency with SQUEAKS in Microsoft Teams.</description>
@@ -220,7 +232,7 @@
       <link>https://www.microsoft.com/en/customers/story/27441-the-university-of-tokyo-microsoft-intune</link>
       <description>With Windows 365 Flex, Windows security updates are automatically managed in the cloud, reducing IT operational overhead.</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27441-the-university-of-tokyo-microsoft-intune</guid>
-      <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
+      <pubDate>Wed, 14 Oct 2026 11:59:59 +0000</pubDate>
       <category>Education</category>
       <category>Windows 365</category>
       <category>Microsoft Entra ID</category>
@@ -538,20 +550,6 @@
       <category>Azure Synapse Analytics</category>
       <category>Power BI</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27303_NNE%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Siemens transforms engineering project management with Microsoft Dynamics 365 Project Operations</title>
-      <link>https://www.microsoft.com/en/customers/story/27349-siemens-smart-infrastructure-dynamics-365-project-operations</link>
-      <description>Siemens unified global project operations with Dynamics 365, improving visibility, quality, efficiency, and risk management while creating a foundation for AI-driven innovation.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27349-siemens-smart-infrastructure-dynamics-365-project-operations</guid>
-      <pubDate>Fri, 09 Oct 2026 11:59:59 +0000</pubDate>
-      <category>Industrials and Manufacturing</category>
-      <category>Dynamics 365 Project Operations</category>
-      <category>Azure</category>
-      <category>Microsoft Power Platform</category>
-      <category>SharePoint</category>
-      <category>Power BI</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27349_Siemens%20Smart%20Infrastructure%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
