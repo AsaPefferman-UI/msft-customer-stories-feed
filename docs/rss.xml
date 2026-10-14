@@ -7,6 +7,17 @@
     <language>en</language>
     <atom:link rel="self" href="" type="application/rss+xml" />
     <item>
+      <title>Deutsches Hilfswerk replaces CSV exports with automated Fabric reporting</title>
+      <link>https://www.microsoft.com/en/customers/story/27483-stiftung-deutsches-hilfswerk-microsoft-fabric</link>
+      <description>The foundation behind Deutsche Fernsehlotterie moves grant reporting from CSV exports to an automated Microsoft Fabric platform.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27483-stiftung-deutsches-hilfswerk-microsoft-fabric</guid>
+      <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
+      <category>Nonprofit and IGO</category>
+      <category>Microsoft Fabric</category>
+      <category>Power BI</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27483_Stiftung%20Deutsches%20Hilfswerk%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>MSCI cuts data onboarding from days to minutes with Microsoft Fabric</title>
       <link>https://www.microsoft.com/en/customers/story/27482-msci-microsoft-fabric</link>
       <description>MSCI uses Mirroring in Microsoft Fabric to reduce data onboarding from 8–10 days to 30–40 minutes and deliver fresher marketing analytics.</description>
@@ -36,7 +47,7 @@
       <link>https://www.microsoft.com/en/customers/story/27475-odense-kommune-microsoft-copilot</link>
       <description>Odense Kommune streamlines operations using Microsoft 365 Copilot, freeing staff to stay focused on elevating citizen services.</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27475-odense-kommune-microsoft-copilot</guid>
-      <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
+      <pubDate>Wed, 14 Oct 2026 11:59:59 +0000</pubDate>
       <category>Government</category>
       <category>Microsoft Copilot</category>
       <category>Microsoft 365 Copilot Chat</category>
@@ -232,7 +243,7 @@
       <link>https://www.microsoft.com/en/customers/story/27441-the-university-of-tokyo-microsoft-intune</link>
       <description>With Windows 365 Flex, Windows security updates are automatically managed in the cloud, reducing IT operational overhead.</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27441-the-university-of-tokyo-microsoft-intune</guid>
-      <pubDate>Wed, 14 Oct 2026 11:59:59 +0000</pubDate>
+      <pubDate>Wed, 14 Oct 2026 11:59:58 +0000</pubDate>
       <category>Education</category>
       <category>Windows 365</category>
       <category>Microsoft Entra ID</category>
@@ -537,19 +548,6 @@
       <category>Microsoft 365 Copilot</category>
       <category>Azure</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27320_BNY%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>NNE unifies its data estate with Microsoft Fabric to scale delivery</title>
-      <link>https://www.microsoft.com/en/customers/story/27303-nne-microsoft-fabric</link>
-      <description>NNE uses Microsoft Fabric to unify data engineering, analytics, and reporting, helping teams reuse trusted data faster.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27303-nne-microsoft-fabric</guid>
-      <pubDate>Mon, 21 Sep 2026 12:00:00 +0000</pubDate>
-      <category>Professional and Business Services</category>
-      <category>Microsoft Fabric</category>
-      <category>OneLake</category>
-      <category>Azure Synapse Analytics</category>
-      <category>Power BI</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27303_NNE%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
