@@ -7,6 +7,19 @@
     <language>en</language>
     <atom:link rel="self" href="" type="application/rss+xml" />
     <item>
+      <title>Microsoft AI powers AMA to transform marketing and delivers $14M in value</title>
+      <link>https://www.microsoft.com/en/customers/story/27496-microsoft-azure-openai-in-foundry-models</link>
+      <description>Reshaping marketing workflows with always-on customer intelligence: AMA uses the Microsoft AI ecosystem to translate customer voice into precise, relevant messaging.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27496-microsoft-azure-openai-in-foundry-models</guid>
+      <pubDate>Mon, 19 Oct 2026 12:00:00 +0000</pubDate>
+      <category>Software, Data and Platforms</category>
+      <category>Azure OpenAI in Foundry Models</category>
+      <category>Microsoft Fabric</category>
+      <category>Azure SQL</category>
+      <category>Foundry IQ</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27496_Microsoft%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Deutsches Hilfswerk replaces CSV exports with automated Fabric reporting</title>
       <link>https://www.microsoft.com/en/customers/story/27483-stiftung-deutsches-hilfswerk-microsoft-fabric</link>
       <description>The foundation behind Deutsche Fernsehlotterie moves grant reporting from CSV exports to an automated Microsoft Fabric platform.</description>
@@ -537,18 +550,6 @@
       <category>Power Automate</category>
       <category>Microsoft 365 Copilot</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27356_Rio%20Tinto%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Microsoft 365 scales engineering expertise with Azure Kubernetes Service (AKS)</title>
-      <link>https://www.microsoft.com/en/customers/story/27363-microsoft-azure-kubernetes-service</link>
-      <description>Microsoft 365 uses Azure Kubernetes Service (AKS) to scale platform expertise and focus engineering capacity on customer innovation.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27363-microsoft-azure-kubernetes-service</guid>
-      <pubDate>Tue, 22 Sep 2026 11:59:56 +0000</pubDate>
-      <category>Software, Data and Platforms</category>
-      <category>Azure Kubernetes Service</category>
-      <category>Azure Kubernetes Fleet Manager</category>
-      <category>Azure</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27363_Microsoft%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
