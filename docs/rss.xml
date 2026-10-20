@@ -213,6 +213,19 @@
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27424_Bristol%20Myers%20Squibb%20Header%20Image" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>Global health nonprofit PATH elevates its security and protects private data with Microsoft Defender XDR</title>
+      <link>https://www.microsoft.com/en/customers/story/27198-path-company-microsoft-defender-xdr</link>
+      <description>PATH repels cyberattacks, protects sensitive data, builds security capacity, and stewards funds with Microsoft Defender XDR and Defender Experts.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27198-path-company-microsoft-defender-xdr</guid>
+      <pubDate>Tue, 20 Oct 2026 12:00:00 +0000</pubDate>
+      <category>Nonprofit and IGO</category>
+      <category>Microsoft Defender XDR</category>
+      <category>Microsoft 365</category>
+      <category>Azure</category>
+      <category>Microsoft Teams</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27198_PATH%20Company%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Thompson Rivers University speeds threat review &amp; prepares for AI with Microsoft 365</title>
       <link>https://www.microsoft.com/en/customers/story/27423-thompson-rivers-university-microsoft-365-a5</link>
       <description>TRU connects security with Microsoft 365 A5, reduces daily threat-review effort, and builds a governed foundation for AI.</description>
@@ -536,20 +549,6 @@
       <category>Microsoft Copilot Studio</category>
       <category>GitHub Copilot</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27280_Get%20AI%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Rio Tinto transforms month-end finance operations with Microsoft Power Platform</title>
-      <link>https://www.microsoft.com/en/customers/story/27356-rio-tinto-power-bi</link>
-      <description>Rio Tinto automated month-end finance close using Microsoft Power Platform, achieving its fastest close in history for its largest product group.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27356-rio-tinto-power-bi</guid>
-      <pubDate>Tue, 22 Sep 2026 11:59:57 +0000</pubDate>
-      <category>Energy and Resources</category>
-      <category>Power BI</category>
-      <category>Microsoft Power Platform</category>
-      <category>Power Apps</category>
-      <category>Power Automate</category>
-      <category>Microsoft 365 Copilot</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27356_Rio%20Tinto%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
