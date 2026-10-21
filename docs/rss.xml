@@ -7,6 +7,20 @@
     <language>en</language>
     <atom:link rel="self" href="" type="application/rss+xml" />
     <item>
+      <title>Q2 moves to Azure for 27%+ faster lifecycle, 50% cost reduction, new AI capabilities</title>
+      <link>https://www.microsoft.com/en/customers/story/27462-q2-software-azure</link>
+      <description>Q2 replatformed its Centrix suite on Microsoft Azure to speed innovation, cut operational costs, and prepare for AI-powered fraud prevention.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27462-q2-software-azure</guid>
+      <pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
+      <category>Financial Services</category>
+      <category>Azure</category>
+      <category>Microsoft Foundry</category>
+      <category>Azure Batch</category>
+      <category>Azure Monitor</category>
+      <category>Azure DevOps</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27462_Q2%20Software%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Microsoft AI powers AMA to transform marketing and delivers $14M in value</title>
       <link>https://www.microsoft.com/en/customers/story/27496-microsoft-azure-openai-in-foundry-models</link>
       <description>Reshaping marketing workflows with always-on customer intelligence: AMA uses the Microsoft AI ecosystem to translate customer voice into precise, relevant messaging.</description>
@@ -537,18 +551,6 @@
       <category>Microsoft Fabric</category>
       <category>Azure Databricks</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27275_FC%20Schalke%2004%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>GET AI runs its business on agents built with Microsoft Copilot Studio</title>
-      <link>https://www.microsoft.com/en/customers/story/27280-get-ai-microsoft-365-copilot</link>
-      <description>GET AI uses Microsoft Copilot Studio agents across its business, proving AI in production before guiding customers—accelerating intake, boosting productivity, and strengthening governance.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27280-get-ai-microsoft-365-copilot</guid>
-      <pubDate>Tue, 22 Sep 2026 11:59:58 +0000</pubDate>
-      <category>Professional and Business Services</category>
-      <category>Microsoft 365 Copilot</category>
-      <category>Microsoft Copilot Studio</category>
-      <category>GitHub Copilot</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27280_Get%20AI%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
