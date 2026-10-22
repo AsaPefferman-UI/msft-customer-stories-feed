@@ -7,6 +7,20 @@
     <language>en</language>
     <atom:link rel="self" href="" type="application/rss+xml" />
     <item>
+      <title>From weeks to a day: Everstar on Microsoft Foundry with Claude</title>
+      <link>https://www.microsoft.com/en/customers/story/27410-everstar-foundry-models</link>
+      <description>Everstar built Gordian on Claude in Foundry Models, cutting nuclear permitting timelines 80–96% and completing 4–6 weeks of work in one day.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27410-everstar-foundry-models</guid>
+      <pubDate>Fri, 23 Oct 2026 12:00:00 +0000</pubDate>
+      <category>Energy and Resources</category>
+      <category>Foundry Models</category>
+      <category>Microsoft Foundry</category>
+      <category>Azure Kubernetes Service</category>
+      <category>Azure Functions</category>
+      <category>Azure</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27410_Everstar%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Prosper Global connects AI innovation to humanitarian impact with Microsoft Elevate</title>
       <link>https://www.microsoft.com/en/customers/story/27497-prosper-global-microsoft-copilot</link>
       <description>Prosper Global is building a responsible path for its best AI ideas to grow, so teams can better support communities in crisis.</description>
@@ -546,20 +560,6 @@
       <category>Power BI</category>
       <category>Microsoft Purview</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27383_ABN%20AMRO%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Children’s Cancer Institute speeds genomic data analysis with Azure and AI, giving hope for children with cancer</title>
-      <link>https://www.microsoft.com/en/customers/story/27014-childrens-cancer-institute-australia-azure-database-for-mysql</link>
-      <description>When a life-threatening brain tumor threatened Scout Bradstreet's future, genomic analysis powered by Microsoft Azure helped researchers identify a personalized treatment that changed the course of her life.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27014-childrens-cancer-institute-australia-azure-database-for-mysql</guid>
-      <pubDate>Wed, 23 Sep 2026 11:59:58 +0000</pubDate>
-      <category>Nonprofit and IGO</category>
-      <category>Azure Database for MySQL</category>
-      <category>Azure Kubernetes Service</category>
-      <category>Azure</category>
-      <category>Azure Databricks</category>
-      <category>Microsoft Entra ID</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27014_Childrens%20Cancer%20Institute%20Australia%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
