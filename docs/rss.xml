@@ -7,6 +7,32 @@
     <language>en</language>
     <atom:link rel="self" href="" type="application/rss+xml" />
     <item>
+      <title>Prosper Global connects AI innovation to humanitarian impact with Microsoft Elevate</title>
+      <link>https://www.microsoft.com/en/customers/story/27497-prosper-global-microsoft-copilot</link>
+      <description>Prosper Global is building a responsible path for its best AI ideas to grow, so teams can better support communities in crisis.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27497-prosper-global-microsoft-copilot</guid>
+      <pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
+      <category>Nonprofit and IGO</category>
+      <category>Microsoft Copilot</category>
+      <category>Microsoft Power Platform</category>
+      <category>Power BI</category>
+      <category>Azure</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27497_Prosper%20Global%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Welsh Water pilots ORAI to support 1,800+ alarms with Microsoft Foundry and Fabric</title>
+      <link>https://www.microsoft.com/en/customers/story/27504-welsh-water-microsoft-foundry</link>
+      <description>Welsh Water is piloting ORAI with Microsoft Foundry and Fabric to support governed, human-led alarm triage in critical infrastructure.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27504-welsh-water-microsoft-foundry</guid>
+      <pubDate>Thu, 22 Oct 2026 11:59:59 +0000</pubDate>
+      <category>Energy and Resources</category>
+      <category>Microsoft Foundry</category>
+      <category>Microsoft Fabric</category>
+      <category>Azure</category>
+      <category>Microsoft Teams</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27504_Welsh%20Water%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Q2 moves to Azure for 27%+ faster lifecycle, 50% cost reduction, new AI capabilities</title>
       <link>https://www.microsoft.com/en/customers/story/27462-q2-software-azure</link>
       <description>Q2 replatformed its Centrix suite on Microsoft Azure to speed innovation, cut operational costs, and prepare for AI-powered fraud prevention.</description>
@@ -528,30 +554,6 @@
       <category>Azure</category>
       <category>Microsoft Graph</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27322_BNY%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Atlanta Public Schools scales Power Platform to 56 apps across the district</title>
-      <link>https://www.microsoft.com/en/customers/story/27376-atlanta-public-schools-microsoft-power-platform</link>
-      <description>Atlanta Public Schools built 56 in-house Power Platform apps, streamlining psychological services, transcripts, transportation, and procurement.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27376-atlanta-public-schools-microsoft-power-platform</guid>
-      <pubDate>Tue, 22 Sep 2026 12:00:00 +0000</pubDate>
-      <category>Education</category>
-      <category>Microsoft Power Platform</category>
-      <category>Power Pages</category>
-      <category>Dataverse</category>
-      <category>Power Apps</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27376_Atlanta%20Public%20Schools%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>FC Schalke 04 turns data into decisions 3x faster with Microsoft Fabric &amp; Azure Databricks</title>
-      <link>https://www.microsoft.com/en/customers/story/27275-fc-schalke-04-microsoft-fabric</link>
-      <description>FC Schalke 04 football club used Microsoft Fabric to build a scalable foundation to integrate new data sources and support faster, deeper analysis.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27275-fc-schalke-04-microsoft-fabric</guid>
-      <pubDate>Tue, 22 Sep 2026 11:59:59 +0000</pubDate>
-      <category>Telecommunications and Media</category>
-      <category>Microsoft Fabric</category>
-      <category>Azure Databricks</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27275_FC%20Schalke%2004%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
