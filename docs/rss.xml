@@ -74,6 +74,24 @@
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27496_Microsoft%20Header%20Image" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>E4E Relief provides emergency grants faster with Dynamics 365 and Microsoft Power Platform</title>
+      <link>https://www.microsoft.com/en/customers/story/27473-e4e-relief-azure-data-lake-analytics</link>
+      <description>E4E Relief provides employer-sponsored emergency cash grants to individuals faster and more securely with Dynamics 365 and Power Pages portals.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27473-e4e-relief-azure-data-lake-analytics</guid>
+      <pubDate>Fri, 23 Oct 2026 11:59:59 +0000</pubDate>
+      <category>Nonprofit and IGO</category>
+      <category>Azure Data Lake Analytics</category>
+      <category>Microsoft Fabric</category>
+      <category>Power Pages</category>
+      <category>Microsoft Power Platform</category>
+      <category>Power BI</category>
+      <category>Dynamics 365 Customer Voice</category>
+      <category>Dynamics 365 Customer Service</category>
+      <category>Microsoft 365</category>
+      <category>Azure</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27473_E4E%20Relief%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Deutsches Hilfswerk replaces CSV exports with automated Fabric reporting</title>
       <link>https://www.microsoft.com/en/customers/story/27483-stiftung-deutsches-hilfswerk-microsoft-fabric</link>
       <description>The foundation behind Deutsche Fernsehlotterie moves grant reporting from CSV exports to an automated Microsoft Fabric platform.</description>
@@ -547,19 +565,6 @@
       <category>Professional and Business Services</category>
       <category>Microsoft Security Copilot</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27375_Z%20S%20Associates%20Inc%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>ABN AMRO cuts financial crime query time by 90% with Fabric</title>
-      <link>https://www.microsoft.com/en/customers/story/27383-abn-amro-microsoft-fabric</link>
-      <description>ABN AMRO’s DFC department unified trusted, near-real-time analytics on Fabric so financial crime analysts could act faster at scale.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27383-abn-amro-microsoft-fabric</guid>
-      <pubDate>Wed, 23 Sep 2026 11:59:59 +0000</pubDate>
-      <category>Financial Services</category>
-      <category>Microsoft Fabric</category>
-      <category>Real-Time Intelligence</category>
-      <category>Power BI</category>
-      <category>Microsoft Purview</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27383_ABN%20AMRO%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
