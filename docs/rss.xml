@@ -21,6 +21,21 @@
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27410_Everstar%20Header%20Image" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>mobilezone redefines productivity with Microsoft Copilot Studio agents</title>
+      <link>https://www.microsoft.com/en/customers/story/27511-mobilezone-microsoft-copilot-studio</link>
+      <description>mobilezone built three Microsoft Copilot Studio agents to streamline store support and B2B operations.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27511-mobilezone-microsoft-copilot-studio</guid>
+      <pubDate>Mon, 26 Oct 2026 12:00:00 +0000</pubDate>
+      <category>Professional and Business Services</category>
+      <category>Microsoft Copilot Studio</category>
+      <category>Dynamics 365 Commerce</category>
+      <category>Dynamics 365 Finance</category>
+      <category>Azure</category>
+      <category>Microsoft Teams</category>
+      <category>Azure Monitor</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27511_mobilezone%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Prosper Global connects AI innovation to humanitarian impact with Microsoft Elevate</title>
       <link>https://www.microsoft.com/en/customers/story/27497-prosper-global-microsoft-copilot</link>
       <description>Prosper Global is building a responsible path for its best AI ideas to grow, so teams can better support communities in crisis.</description>
@@ -555,16 +570,6 @@
       <category>Azure Key Vault</category>
       <category>Azure Blob Storage</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27382_SAP%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>ZS strengthens AI-powered security operations with Microsoft Security Copilot.</title>
-      <link>https://www.microsoft.com/en/customers/story/27375-z-s-associates-inc-microsoft-security-copilot</link>
-      <description>ZS scaled its global security operations by empowering analysts with Microsoft Security Copilot to respond to threats with greater speed and precision.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27375-z-s-associates-inc-microsoft-security-copilot</guid>
-      <pubDate>Wed, 23 Sep 2026 12:00:00 +0000</pubDate>
-      <category>Professional and Business Services</category>
-      <category>Microsoft Security Copilot</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27375_Z%20S%20Associates%20Inc%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
