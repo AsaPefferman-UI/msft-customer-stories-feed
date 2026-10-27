@@ -7,6 +7,20 @@
     <language>en</language>
     <atom:link rel="self" href="" type="application/rss+xml" />
     <item>
+      <title> ADNEC Group gains real-time insights into 100+ events and 1.9M+ visitors with Pulses on Microsoft Azure </title>
+      <link>https://www.microsoft.com/en/customers/story/27519-adnec-group-azure-kubernetes-service</link>
+      <description>Computer vision technology provides unique visitor counts, audience demographics, and more.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27519-adnec-group-azure-kubernetes-service</guid>
+      <pubDate>Tue, 27 Oct 2026 12:00:00 +0000</pubDate>
+      <category>Commercial Other Industries</category>
+      <category>Azure Kubernetes Service</category>
+      <category>Microsoft Marketplace</category>
+      <category>Azure Service Bus</category>
+      <category>Azure</category>
+      <category>Azure Key Vault</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27519_ADNEC%20Group%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>From weeks to a day: Everstar on Microsoft Foundry with Claude</title>
       <link>https://www.microsoft.com/en/customers/story/27410-everstar-foundry-models</link>
       <description>Everstar built Gordian on Claude in Foundry Models, cutting nuclear permitting timelines 80–96% and completing 4–6 weeks of work in one day.</description>
@@ -558,19 +572,6 @@
       <category>Power Apps</category>
       <category>Microsoft Copilot Studio</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27391_Accelleron%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>SAP Commerce Cloud processes $17.8 billion in merchandise during peak shopping day with Azure SQL Database Hyperscale</title>
-      <link>https://www.microsoft.com/en/customers/story/27382-sap-azure-sql-database</link>
-      <description>SAP Commerce Cloud is empowering clients with 99.99% uptime and the ability to process 11,000 orders per minute with Azure SQL Database Hyperscale.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27382-sap-azure-sql-database</guid>
-      <pubDate>Mon, 28 Sep 2026 11:59:58 +0000</pubDate>
-      <category>Software, Data and Platforms</category>
-      <category>Azure SQL Database</category>
-      <category>Azure Kubernetes Service</category>
-      <category>Azure Key Vault</category>
-      <category>Azure Blob Storage</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27382_SAP%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
