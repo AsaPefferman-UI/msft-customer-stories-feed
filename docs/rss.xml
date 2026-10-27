@@ -7,11 +7,23 @@
     <language>en</language>
     <atom:link rel="self" href="" type="application/rss+xml" />
     <item>
+      <title>ISS connects 169,000 frontline workers with Microsoft Entra ID</title>
+      <link>https://www.microsoft.com/en/customers/story/27527-iss-microsoft-entra-id</link>
+      <description>ISS uses Microsoft Entra ID to provide 169,000 frontline employees with a scalable foundation for secure digital access.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27527-iss-microsoft-entra-id</guid>
+      <pubDate>Tue, 27 Oct 2026 12:00:00 +0000</pubDate>
+      <category>Professional and Business Services</category>
+      <category>Microsoft Entra ID</category>
+      <category>Microsoft Teams</category>
+      <category>Microsoft 365 Copilot</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27527_ISS%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title> ADNEC Group gains real-time insights into 100+ events and 1.9M+ visitors with Pulses on Microsoft Azure </title>
       <link>https://www.microsoft.com/en/customers/story/27519-adnec-group-azure-kubernetes-service</link>
       <description>Computer vision technology provides unique visitor counts, audience demographics, and more.</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27519-adnec-group-azure-kubernetes-service</guid>
-      <pubDate>Tue, 27 Oct 2026 12:00:00 +0000</pubDate>
+      <pubDate>Tue, 27 Oct 2026 11:59:59 +0000</pubDate>
       <category>Commercial Other Industries</category>
       <category>Azure Kubernetes Service</category>
       <category>Microsoft Marketplace</category>
@@ -19,6 +31,46 @@
       <category>Azure</category>
       <category>Azure Key Vault</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27519_ADNEC%20Group%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Canada Goose transforms global finance and builds an agentic future with Dynamics 365 and Microsoft Copilot Studio</title>
+      <link>https://www.microsoft.com/en/customers/story/27526-canada-goose-dynamics-365-finance</link>
+      <description>Canada Goose cuts its monthly close by 37% and deploys AI agents to modernize finance with Dynamics 365.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27526-canada-goose-dynamics-365-finance</guid>
+      <pubDate>Tue, 27 Oct 2026 11:59:58 +0000</pubDate>
+      <category>Retail and Consumer Goods</category>
+      <category>Dynamics 365 Finance</category>
+      <category>Microsoft Power Platform</category>
+      <category>Microsoft Fabric</category>
+      <category>Power BI</category>
+      <category>Microsoft Copilot Studio</category>
+      <category>Microsoft 365 Copilot Chat</category>
+      <category>Microsoft 365 Copilot</category>
+      <category>Power Automate</category>
+      <category>Microsoft Teams</category>
+      <category>SharePoint</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27526_Canada%20Goose%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title> Tahaluf drives trust and 900%+ Copilot ROI in 13 months </title>
+      <link>https://www.microsoft.com/en/customers/story/27500-tahaluf-al-emarat-technical-solutions-microsoft-viva-insights</link>
+      <description>Tahaluf Al Emarat Technical Solutions achieved a 900%+ return on investment with Copilot while driving secure AI operations with Defender for Cloud.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27500-tahaluf-al-emarat-technical-solutions-microsoft-viva-insights</guid>
+      <pubDate>Tue, 27 Oct 2026 11:59:57 +0000</pubDate>
+      <category>Professional and Business Services</category>
+      <category>Microsoft Viva Insights</category>
+      <category>Microsoft Teams</category>
+      <category>Outlook</category>
+      <category>Word</category>
+      <category>Excel</category>
+      <category>PowerPoint</category>
+      <category>Microsoft 365 Copilot</category>
+      <category>Microsoft Intune</category>
+      <category>Microsoft Defender for Cloud</category>
+      <category>GitHub Enterprise</category>
+      <category>Azure</category>
+      <category>GitHub Copilot</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27500_Tahaluf%20Al%20Emarat%20Technical%20Solutions%20Header%20Image" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>From weeks to a day: Everstar on Microsoft Foundry with Claude</title>
@@ -531,47 +583,6 @@
       <category>Azure Cosmos DB</category>
       <category>Azure Database for PostgreSQL</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27379_Kantar%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title> Canlak Coatings cuts forecast cycles from four weeks to one with Fabric Planning </title>
-      <link>https://www.microsoft.com/en/customers/story/27388-canlak-coatings-microsoft-fabric</link>
-      <description>Canlak Coatings adds product-level rolling forecasting on Fabric Planning in under four weeks, cutting forecast cycles to about a week.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27388-canlak-coatings-microsoft-fabric</guid>
-      <pubDate>Fri, 25 Sep 2026 12:00:00 +0000</pubDate>
-      <category>Industrials and Manufacturing</category>
-      <category>Industrials and Manufacturing</category>
-      <category>Industrials and Manufacturing</category>
-      <category>Microsoft Fabric</category>
-      <category>Power BI</category>
-      <category>OneLake</category>
-      <category>Fabric IQ</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27388_Canlak%20Coatings%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>SoCura boosts data performance by up to 80% with Microsoft Fabric</title>
-      <link>https://www.microsoft.com/en/customers/story/27387-socura-ggmbh-microsoft-fabric</link>
-      <description>SoCura modernizes its enterprise BI landscape with Microsoft Fabric and accelerates data movement by up to 80%.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27387-socura-ggmbh-microsoft-fabric</guid>
-      <pubDate>Fri, 25 Sep 2026 11:59:59 +0000</pubDate>
-      <category>Healthcare</category>
-      <category>Microsoft Fabric</category>
-      <category>Power BI</category>
-      <category>Azure Data Factory</category>
-      <category>Microsoft Purview</category>
-      <category>OneLake</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27387_SoCura%20gGmbH%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Accelleron turbocharges IT support requests with Microsoft Copilot Studio and Power Platform</title>
-      <link>https://www.microsoft.com/en/customers/story/27391-accelleron-microsoft-power-platform</link>
-      <description>The AI-supported system is used by 3,500 people across the company for both self-help solutions and service ticket submissions.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27391-accelleron-microsoft-power-platform</guid>
-      <pubDate>Thu, 24 Sep 2026 12:00:00 +0000</pubDate>
-      <category>Industrials and Manufacturing</category>
-      <category>Microsoft Power Platform</category>
-      <category>Power Apps</category>
-      <category>Microsoft Copilot Studio</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27391_Accelleron%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
