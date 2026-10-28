@@ -7,6 +7,25 @@
     <language>en</language>
     <atom:link rel="self" href="" type="application/rss+xml" />
     <item>
+      <title>Seismic scales sovereign enterprise AI globally with Linux on Azure</title>
+      <link>https://www.microsoft.com/en/customers/story/27567-seismic-linux-on-azure</link>
+      <description>Seismic scales governed, sovereign enterprise AI with Linux on Azure</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27567-seismic-linux-on-azure</guid>
+      <pubDate>Thu, 29 Oct 2026 12:00:00 +0000</pubDate>
+      <category>Professional and Business Services</category>
+      <category>Linux on Azure</category>
+      <category>Azure Kubernetes Service</category>
+      <category>Azure OpenAI in Foundry Models</category>
+      <category>Azure Document Intelligence in Foundry Tools</category>
+      <category>Azure Blob Storage</category>
+      <category>Azure Linux</category>
+      <category>Azure Virtual Machines</category>
+      <category>Azure Marketplace</category>
+      <category>Azure</category>
+      <category>Ubuntu on Azure</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27567_Seismic%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>UK Home Office drives scalable, low-code development across a complex government network with Power Platform</title>
       <link>https://www.microsoft.com/en/customers/story/26940-home-office-power-apps</link>
       <description>Power Platform solutions have generated almost £63 million in total benefits</description>
@@ -556,20 +575,6 @@
       <category>Azure Speech in Foundry Tools</category>
       <category>Azure Storage</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27408_Daiichi%20Life%20Insurance%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>UWV builds a CRM with Dynamics 365 to better serve 18 million citizens</title>
-      <link>https://www.microsoft.com/en/customers/story/27400-uwv-dynamics-365-contact-center</link>
-      <description>UWV uses Microsoft Dynamics 365 to build a new CRM, helping better serve millions of citizens and boosting productivity by over 20%.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27400-uwv-dynamics-365-contact-center</guid>
-      <pubDate>Wed, 30 Sep 2026 12:00:00 +0000</pubDate>
-      <category>Government</category>
-      <category>Dynamics 365 Contact Center</category>
-      <category>Dynamics 365</category>
-      <category>Microsoft Fabric</category>
-      <category>Microsoft Copilot</category>
-      <category>Azure</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27400_UWV%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
