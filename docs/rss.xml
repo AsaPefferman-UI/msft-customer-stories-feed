@@ -41,6 +41,26 @@
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26940_Home%20Office%20Header%20Image" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>WTW and Azure deliver AI insights for leading global insurers</title>
+      <link>https://www.microsoft.com/en/customers/story/27492-willis-towers-watson-azure</link>
+      <description>Built on Microsoft Azure, WTW’s Radar Vision uses AI to turn insurance data into actionable insights that drive faster, smarter decisions.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27492-willis-towers-watson-azure</guid>
+      <pubDate>Thu, 29 Oct 2026 11:59:59 +0000</pubDate>
+      <category>Financial Services</category>
+      <category>Azure</category>
+      <category>Microsoft Foundry</category>
+      <category>Azure OpenAI in Foundry Models</category>
+      <category>Azure Cosmos DB</category>
+      <category>Azure Event Hubs</category>
+      <category>Azure Functions</category>
+      <category>Azure Data Lake Storage</category>
+      <category>Azure Container Apps</category>
+      <category>Azure API Management</category>
+      <category>Azure Front Door</category>
+      <category>Azure Service Bus</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27492_Willis%20Towers%20Watson%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>InEight cuts incident investigation effort 60% with Azure SRE Agent</title>
       <link>https://www.microsoft.com/en/customers/story/27531-ineight-technology-azure</link>
       <description>Learn how a project controls software company uses Azure SRE Agent to cut incident investigation effort 60% across a global Azure estate.</description>
@@ -562,19 +582,6 @@
       <category>Microsoft Power Platform</category>
       <category>Microsoft Teams Phone</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27409_CZ%20Zorgverzekeringen%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Daiichi Life transforms how Total Life Plan Designers work with Azure-based AI</title>
-      <link>https://www.microsoft.com/en/customers/story/27408-daiichi-life-insurance-azure-openai-in-foundry-models</link>
-      <description>Digital Buddy automates meeting notes and internal searches, reducing staff workloads and giving Total Life Plan Designers more time with customers.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27408-daiichi-life-insurance-azure-openai-in-foundry-models</guid>
-      <pubDate>Tue, 06 Oct 2026 11:59:58 +0000</pubDate>
-      <category>Financial Services</category>
-      <category>Azure OpenAI in Foundry Models</category>
-      <category>Azure AI Search</category>
-      <category>Azure Speech in Foundry Tools</category>
-      <category>Azure Storage</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27408_Daiichi%20Life%20Insurance%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
