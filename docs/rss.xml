@@ -7,11 +7,25 @@
     <language>en</language>
     <atom:link rel="self" href="" type="application/rss+xml" />
     <item>
+      <title>Insight Enterprises puts Security Copilot to work on 1,700-plus monthly triages</title>
+      <link>https://www.microsoft.com/en/customers/story/27530-insight-enterprises-microsoft-security-copilot</link>
+      <description>Insight Enterprises uses Microsoft Security to govern AI agents at scale and help regulated organizations adopt AI securely.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27530-insight-enterprises-microsoft-security-copilot</guid>
+      <pubDate>Thu, 29 Oct 2026 12:00:00 +0000</pubDate>
+      <category>Professional and Business Services</category>
+      <category>Microsoft Security Copilot</category>
+      <category>Microsoft Sentinel</category>
+      <category>Microsoft Entra</category>
+      <category>Microsoft Purview</category>
+      <category>Microsoft Defender</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27530_Insight%20Enterprises%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Seismic scales sovereign enterprise AI globally with Linux on Azure</title>
       <link>https://www.microsoft.com/en/customers/story/27567-seismic-linux-on-azure</link>
       <description>Seismic scales governed, sovereign enterprise AI with Linux on Azure</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27567-seismic-linux-on-azure</guid>
-      <pubDate>Thu, 29 Oct 2026 12:00:00 +0000</pubDate>
+      <pubDate>Thu, 29 Oct 2026 11:59:59 +0000</pubDate>
       <category>Professional and Business Services</category>
       <category>Linux on Azure</category>
       <category>Azure Kubernetes Service</category>
@@ -45,7 +59,7 @@
       <link>https://www.microsoft.com/en/customers/story/27492-willis-towers-watson-azure</link>
       <description>Built on Microsoft Azure, WTW’s Radar Vision uses AI to turn insurance data into actionable insights that drive faster, smarter decisions.</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27492-willis-towers-watson-azure</guid>
-      <pubDate>Thu, 29 Oct 2026 11:59:59 +0000</pubDate>
+      <pubDate>Thu, 29 Oct 2026 11:59:58 +0000</pubDate>
       <category>Financial Services</category>
       <category>Azure</category>
       <category>Microsoft Foundry</category>
@@ -312,16 +326,6 @@
       <category>SQL Server</category>
       <category>Microsoft 365</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27239_Aldermore%20Bank%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Intermountain Health chooses PowerScribe One to advance radiology reporting</title>
-      <link>https://www.microsoft.com/en/customers/story/27228-intermountain-healthcare-azure</link>
-      <description>Intermountain Health chose PowerScribe One to modernize radiology reporting with AI-enabled workflows and keep pace with growing demands.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27228-intermountain-healthcare-azure</guid>
-      <pubDate>Mon, 12 Oct 2026 12:00:00 +0000</pubDate>
-      <category>Healthcare</category>
-      <category>Azure</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27228_Intermountain%20Healthcare%20Header%20Image" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Make-A-Wish Foundation cuts costs 40% using Clerk Chat and Microsoft Teams</title>
