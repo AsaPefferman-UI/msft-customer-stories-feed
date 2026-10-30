@@ -7,6 +7,20 @@
     <language>en</language>
     <atom:link rel="self" href="" type="application/rss+xml" />
     <item>
+      <title>Hotels VIVA &amp; Resorts centralizes hotel analytics on Microsoft Fabric</title>
+      <link>https://www.microsoft.com/en/customers/story/27553-hotels-viva-and-resorts-microsoft-fabric</link>
+      <description>Hotels VIVA &amp; Resorts centralizes ERP and Azure SQL data on a Microsoft Fabric Lakehouse, automating preparation for booking and occupancy analysis.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27553-hotels-viva-and-resorts-microsoft-fabric</guid>
+      <pubDate>Fri, 30 Oct 2026 12:00:00 +0000</pubDate>
+      <category>Commercial Other Industries</category>
+      <category>Microsoft Fabric</category>
+      <category>OneLake</category>
+      <category>Power BI</category>
+      <category>Azure Data Factory</category>
+      <category>Azure SQL Database</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27553_Hotels%20VIVA%20and%20Resorts%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Insight Enterprises puts Security Copilot to work on 1,700-plus monthly triages</title>
       <link>https://www.microsoft.com/en/customers/story/27530-insight-enterprises-microsoft-security-copilot</link>
       <description>Insight Enterprises uses Microsoft Security to govern AI agents at scale and help regulated organizations adopt AI securely.</description>
@@ -572,19 +586,6 @@
       <category>Dynamics 365 Customer Insights</category>
       <category>Microsoft Power Platform</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27319_Bright%20Horizons%20Family%20Solutions%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>From Plain English to Passing Tests: Momentic on Microsoft Foundry with Claude</title>
-      <link>https://www.microsoft.com/en/customers/story/27404-momentic-foundry-models</link>
-      <description>Momentic AI uses Claude models in Microsoft Foundry to power an AI-native testing platform that runs more than 200 million test steps a month at 99.2% reliability.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27404-momentic-foundry-models</guid>
-      <pubDate>Wed, 07 Oct 2026 11:59:59 +0000</pubDate>
-      <category>Software, Data and Platforms</category>
-      <category>Foundry Models</category>
-      <category>GitHub Copilot</category>
-      <category>Azure</category>
-      <category>Microsoft Foundry</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27404_Momentic%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
