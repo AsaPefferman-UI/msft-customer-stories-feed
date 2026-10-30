@@ -160,6 +160,21 @@
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27526_Canada%20Goose%20Header%20Image" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>Noventiq scales an AI-first workforce with Microsoft 365 Copilot and NOVA</title>
+      <link>https://www.microsoft.com/en/customers/story/27501-noventiq-holdings-microsoft-copilot</link>
+      <description>Noventiq combined Microsoft 365 Copilot, Customer Zero, and NOVA, an employee AI ideas program to accelerate workforce transformation.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27501-noventiq-holdings-microsoft-copilot</guid>
+      <pubDate>Fri, 30 Oct 2026 11:59:59 +0000</pubDate>
+      <category>Commercial Other Industries</category>
+      <category>Microsoft Copilot</category>
+      <category>Microsoft 365 Copilot</category>
+      <category>SharePoint</category>
+      <category>Microsoft Entra ID</category>
+      <category>Microsoft Purview Extension</category>
+      <category>Microsoft Copilot Studio</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27501_Noventiq%20Holdings%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title> Tahaluf drives trust and 900%+ Copilot ROI in 13 months </title>
       <link>https://www.microsoft.com/en/customers/story/27500-tahaluf-al-emarat-technical-solutions-microsoft-viva-insights</link>
       <description>Tahaluf Al Emarat Technical Solutions achieved a 900%+ return on investment with Copilot while driving secure AI operations with Defender for Cloud.</description>
@@ -573,19 +588,6 @@
       <category>Microsoft 365</category>
       <category>Microsoft Intune</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27441_The%20University%20of%20Tokyo%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Bright Horizons shines a brighter light on family support and customer engagement with Dynamics 365</title>
-      <link>https://www.microsoft.com/en/customers/story/27319-bright-horizons-family-solutions-dynamics-365-sales</link>
-      <description>Bright Horizons modernized customer engagement with Dynamics 365 and Power Platform, unifying data and workflows to improve visibility, personalize family support, and build a foundation for AI.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27319-bright-horizons-family-solutions-dynamics-365-sales</guid>
-      <pubDate>Thu, 01 Oct 2026 12:00:00 +0000</pubDate>
-      <category>Education</category>
-      <category>Dynamics 365 Sales</category>
-      <category>Dynamics 365 Customer Service</category>
-      <category>Dynamics 365 Customer Insights</category>
-      <category>Microsoft Power Platform</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27319_Bright%20Horizons%20Family%20Solutions%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
