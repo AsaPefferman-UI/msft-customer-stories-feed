@@ -69,6 +69,19 @@
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26940_Home%20Office%20Header%20Image" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>University of Nottingham Malaysia boosts capacity by 48% with Microsoft Fabric</title>
+      <link>https://www.microsoft.com/en/customers/story/27566-university-of-nottingham-malaysia-microsoft-fabric</link>
+      <description>University of Nottingham Malaysia unifies its data estate on Microsoft Fabric, reclaiming 48% of analytics capacity and enabling near-daily insights.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27566-university-of-nottingham-malaysia-microsoft-fabric</guid>
+      <pubDate>Sat, 31 Oct 2026 12:00:00 +0000</pubDate>
+      <category>Education</category>
+      <category>Microsoft Fabric</category>
+      <category>OneLake</category>
+      <category>Power BI</category>
+      <category>Azure Data Factory</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27566_University%20of%20Nottingham%20Malaysia%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>WTW and Azure deliver AI insights for leading global insurers</title>
       <link>https://www.microsoft.com/en/customers/story/27492-willis-towers-watson-azure</link>
       <description>Built on Microsoft Azure, WTW’s Radar Vision uses AI to turn insurance data into actionable insights that drive faster, smarter decisions.</description>
@@ -575,19 +588,6 @@
       <category>GitHub Copilot</category>
       <category>Azure Storage</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27439_EssilorLuxottica%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title> The University of Tokyo adopted Windows 365 Flex shared mode in its ICT refresh </title>
-      <link>https://www.microsoft.com/en/customers/story/27441-the-university-of-tokyo-microsoft-intune</link>
-      <description>With Windows 365 Flex, Windows security updates are automatically managed in the cloud, reducing IT operational overhead.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27441-the-university-of-tokyo-microsoft-intune</guid>
-      <pubDate>Wed, 14 Oct 2026 11:59:58 +0000</pubDate>
-      <category>Education</category>
-      <category>Windows 365</category>
-      <category>Microsoft Entra ID</category>
-      <category>Microsoft 365</category>
-      <category>Microsoft Intune</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27441_The%20University%20of%20Tokyo%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
