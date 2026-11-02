@@ -69,6 +69,25 @@
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26940_Home%20Office%20Header%20Image" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>WeChange.AI helps save public sector staff 2-5 hours per week with Microsoft Azure services</title>
+      <link>https://www.microsoft.com/en/customers/story/27535-wechange-ai-microsoft-365-copilot</link>
+      <description>WeChange.AI uses Microsoft Azure and Power BI to help public sector staff save up to 5 hours a week and close accessibility gaps.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27535-wechange-ai-microsoft-365-copilot</guid>
+      <pubDate>Mon, 02 Nov 2026 12:00:00 +0000</pubDate>
+      <category>Professional and Business Services</category>
+      <category>Microsoft 365 Copilot</category>
+      <category>Microsoft Fabric</category>
+      <category>Power BI</category>
+      <category>Agents</category>
+      <category>Azure</category>
+      <category>Azure Functions</category>
+      <category>Azure SQL</category>
+      <category>Azure Storage</category>
+      <category>Microsoft Entra ID</category>
+      <category>OneLake</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27535_WECHANGE%20AI%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>University of Nottingham Malaysia boosts capacity by 48% with Microsoft Fabric</title>
       <link>https://www.microsoft.com/en/customers/story/27566-university-of-nottingham-malaysia-microsoft-fabric</link>
       <description>University of Nottingham Malaysia unifies its data estate on Microsoft Fabric, reclaiming 48% of analytics capacity and enabling near-daily insights.</description>
@@ -80,6 +99,19 @@
       <category>Power BI</category>
       <category>Azure Data Factory</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27566_University%20of%20Nottingham%20Malaysia%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Fraport AG cuts new device setup from hours to 20 minutes with Windows 365</title>
+      <link>https://www.microsoft.com/en/customers/story/27549-fraport-ag-windows-365-cloud-pc</link>
+      <description>Fraport AG cut device provisioning from hours to 20 minutes with Windows 365 Cloud PCs and Intune, modernizing the Frankfurt Airport workplace.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27549-fraport-ag-windows-365-cloud-pc</guid>
+      <pubDate>Mon, 02 Nov 2026 11:59:59 +0000</pubDate>
+      <category>Automotive, Mobility, and Transportation</category>
+      <category>Windows 365 Cloud PC</category>
+      <category>Microsoft Intune Suite</category>
+      <category>Windows 365 Link</category>
+      <category>Microsoft 365</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27549_Fraport%20AG%20Header%20Image" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>WTW and Azure deliver AI insights for leading global insurers</title>
@@ -553,41 +585,6 @@
       <category>Microsoft Teams</category>
       <category>Microsoft Authenticator App</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27423_Thompson%20Rivers%20University%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Canadian Tire Corporation migrates 4,300 VMs with Azure VMware Solution, achieving significant cost avoidance</title>
-      <link>https://www.microsoft.com/en/customers/story/27440-canadian-tire-corp-azure</link>
-      <description>Canadian Tire Corporation executed the largest Azure VMware Solution migration in Canada, moving 4,300 VMs in eight months, achieving significant cost avoidance, and establishing a cloud foundation designed to support long-term modernization and innovation.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27440-canadian-tire-corp-azure</guid>
-      <pubDate>Tue, 06 Oct 2026 11:59:59 +0000</pubDate>
-      <category>Automotive, Mobility, and Transportation</category>
-      <category>Azure</category>
-      <category>Azure Virtual Desktop</category>
-      <category>Azure VMware Solution</category>
-      <category>Azure NetApp Files</category>
-      <category>Azure Policy</category>
-      <category>Azure Monitor</category>
-      <category>Azure DevOps</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27440_Canadian%20Tire%20Corp%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title> EssilorLuxottica streamlines connected eye care 15% using Azure and GitHub Enterprise </title>
-      <link>https://www.microsoft.com/en/customers/story/27439-essilorluxottica-azure</link>
-      <description>EssilorLuxottica IT Eyecare Systems advances global eye care on Azure, GitHub Enterprise, and GitHub Copilot, improving speed, quality, and scale.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27439-essilorluxottica-azure</guid>
-      <pubDate>Mon, 05 Oct 2026 11:59:59 +0000</pubDate>
-      <category>Retail and Consumer Goods</category>
-      <category>Azure</category>
-      <category>GitHub Enterprise</category>
-      <category>Azure SQL Database</category>
-      <category>Azure Kubernetes Service</category>
-      <category>Azure Health Data Services</category>
-      <category>Azure Cache for Redis</category>
-      <category>Azure Communication Services</category>
-      <category>Azure SignalR Service</category>
-      <category>GitHub Copilot</category>
-      <category>Azure Storage</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27439_EssilorLuxottica%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
