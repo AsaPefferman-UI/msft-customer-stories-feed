@@ -7,6 +7,19 @@
     <language>en</language>
     <atom:link rel="self" href="" type="application/rss+xml" />
     <item>
+      <title>Canterbury College teachers advance AI skills and confidence with Elevate for Educators</title>
+      <link>https://www.microsoft.com/en/customers/story/27495-canterbury-college-microsoft-copilot</link>
+      <description>Guided by its principal’s vision, Canterbury College is helping teachers and students gain skills in AI through Microsoft Elevate for Educators.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27495-canterbury-college-microsoft-copilot</guid>
+      <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
+      <category>Education</category>
+      <category>Microsoft Copilot</category>
+      <category>Microsoft Teams</category>
+      <category>Microsoft 365</category>
+      <category>Surface</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27495_Canterbury%20College%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>ANDRITZ turns employee feedback into action with Viva Glint and Microsoft 365 Copilot</title>
       <link>https://www.microsoft.com/en/customers/story/27573-andritz-microsoft-viva-glint</link>
       <description>ANDRITZ uses Viva Glint and Microsoft 365 Copilot to turn global employee feedback into targeted action and communication.</description>
@@ -565,19 +578,6 @@
       <category>Microsoft Viva Insights</category>
       <category>Agents</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27424_Bristol%20Myers%20Squibb%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Global health nonprofit PATH elevates its security and protects private data with Microsoft Defender XDR</title>
-      <link>https://www.microsoft.com/en/customers/story/27198-path-company-microsoft-defender-xdr</link>
-      <description>PATH repels cyberattacks, protects sensitive data, builds security capacity, and stewards funds with Microsoft Defender XDR and Defender Experts.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27198-path-company-microsoft-defender-xdr</guid>
-      <pubDate>Tue, 20 Oct 2026 12:00:00 +0000</pubDate>
-      <category>Nonprofit and IGO</category>
-      <category>Microsoft Defender XDR</category>
-      <category>Microsoft 365</category>
-      <category>Azure</category>
-      <category>Microsoft Teams</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27198_PATH%20Company%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
