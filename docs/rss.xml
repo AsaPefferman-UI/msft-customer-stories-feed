@@ -7,6 +7,30 @@
     <language>en</language>
     <atom:link rel="self" href="" type="application/rss+xml" />
     <item>
+      <title>ANDRITZ turns employee feedback into action with Viva Glint and Microsoft 365 Copilot</title>
+      <link>https://www.microsoft.com/en/customers/story/27573-andritz-microsoft-viva-glint</link>
+      <description>ANDRITZ uses Viva Glint and Microsoft 365 Copilot to turn global employee feedback into targeted action and communication.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27573-andritz-microsoft-viva-glint</guid>
+      <pubDate>Mon, 02 Nov 2026 12:00:00 +0000</pubDate>
+      <category>Industrials and Manufacturing</category>
+      <category>Microsoft Viva Glint</category>
+      <category>Microsoft 365 Copilot</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27573_ANDRITZ%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Huron puts 1,000+ agents to work with Microsoft 365 Copilot and Agent 365</title>
+      <link>https://www.microsoft.com/en/customers/story/27571-huron-microsoft-365-copilot</link>
+      <description>Huron scaled Microsoft 365 Copilot by leading with value over ROI and now brings that experience to the clients it advises.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27571-huron-microsoft-365-copilot</guid>
+      <pubDate>Tue, 03 Nov 2026 12:00:00 +0000</pubDate>
+      <category>Professional and Business Services</category>
+      <category>Microsoft 365 Copilot</category>
+      <category>Microsoft 365</category>
+      <category>Microsoft Copilot Studio</category>
+      <category>Microsoft Power Platform</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27571_Huron%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Hotels VIVA &amp; Resorts centralizes hotel analytics on Microsoft Fabric</title>
       <link>https://www.microsoft.com/en/customers/story/27553-hotels-viva-and-resorts-microsoft-fabric</link>
       <description>Hotels VIVA &amp; Resorts centralizes ERP and Azure SQL data on a Microsoft Fabric Lakehouse, automating preparation for booking and occupancy analysis.</description>
@@ -73,7 +97,7 @@
       <link>https://www.microsoft.com/en/customers/story/27535-wechange-ai-microsoft-365-copilot</link>
       <description>WeChange.AI uses Microsoft Azure and Power BI to help public sector staff save up to 5 hours a week and close accessibility gaps.</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27535-wechange-ai-microsoft-365-copilot</guid>
-      <pubDate>Mon, 02 Nov 2026 12:00:00 +0000</pubDate>
+      <pubDate>Mon, 02 Nov 2026 11:59:59 +0000</pubDate>
       <category>Professional and Business Services</category>
       <category>Microsoft 365 Copilot</category>
       <category>Microsoft Fabric</category>
@@ -105,7 +129,7 @@
       <link>https://www.microsoft.com/en/customers/story/27549-fraport-ag-windows-365-cloud-pc</link>
       <description>Fraport AG cut device provisioning from hours to 20 minutes with Windows 365 Cloud PCs and Intune, modernizing the Frankfurt Airport workplace.</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27549-fraport-ag-windows-365-cloud-pc</guid>
-      <pubDate>Mon, 02 Nov 2026 11:59:59 +0000</pubDate>
+      <pubDate>Mon, 02 Nov 2026 11:59:58 +0000</pubDate>
       <category>Automotive, Mobility, and Transportation</category>
       <category>Windows 365 Cloud PC</category>
       <category>Microsoft Intune Suite</category>
@@ -554,37 +578,6 @@
       <category>Microsoft Viva Insights</category>
       <category>Agents</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27424_Bristol%20Myers%20Squibb%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Global health nonprofit PATH elevates its security and protects private data with Microsoft Defender XDR</title>
-      <link>https://www.microsoft.com/en/customers/story/27198-path-company-microsoft-defender-xdr</link>
-      <description>PATH repels cyberattacks, protects sensitive data, builds security capacity, and stewards funds with Microsoft Defender XDR and Defender Experts.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27198-path-company-microsoft-defender-xdr</guid>
-      <pubDate>Tue, 20 Oct 2026 12:00:00 +0000</pubDate>
-      <category>Nonprofit and IGO</category>
-      <category>Microsoft Defender XDR</category>
-      <category>Microsoft 365</category>
-      <category>Azure</category>
-      <category>Microsoft Teams</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27198_PATH%20Company%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Thompson Rivers University speeds threat review &amp; prepares for AI with Microsoft 365</title>
-      <link>https://www.microsoft.com/en/customers/story/27423-thompson-rivers-university-microsoft-365-a5</link>
-      <description>TRU connects security with Microsoft 365 A5, reduces daily threat-review effort, and builds a governed foundation for AI.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27423-thompson-rivers-university-microsoft-365-a5</guid>
-      <pubDate>Mon, 05 Oct 2026 12:00:00 +0000</pubDate>
-      <category>Education</category>
-      <category>Microsoft 365 A5</category>
-      <category>Microsoft Sentinel</category>
-      <category>Microsoft Defender XDR</category>
-      <category>Microsoft Purview</category>
-      <category>Microsoft Entra</category>
-      <category>Microsoft 365 Copilot</category>
-      <category>Microsoft Copilot Studio</category>
-      <category>Microsoft Teams</category>
-      <category>Microsoft Authenticator App</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27423_Thompson%20Rivers%20University%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
