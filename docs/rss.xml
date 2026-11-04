@@ -7,17 +7,57 @@
     <language>en</language>
     <atom:link rel="self" href="" type="application/rss+xml" />
     <item>
+      <title>Lifeline Loddon Mallee scales crisis support in rural communities with a united Microsoft platform</title>
+      <link>https://www.microsoft.com/en/customers/story/27522-lifeline-australia-microsoft-365</link>
+      <description>Lifeline Loddon Mallee expands to securely improve mental health in Australia through Microsoft 365, Microsoft Copilot, and Microsoft Entra.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27522-lifeline-australia-microsoft-365</guid>
+      <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
+      <category>Nonprofit and IGO</category>
+      <category>Microsoft 365</category>
+      <category>Microsoft Copilot</category>
+      <category>Power BI</category>
+      <category>Microsoft Entra</category>
+      <category>Microsoft Intune</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27522_Lifeline%20Australia%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Vylor builds a governed agentic AI knowledge framework on Microsoft Foundry in 6 months</title>
+      <link>https://www.microsoft.com/en/customers/story/27512-vylor-microsoft-foundry</link>
+      <description>Fortune 500 global agriscience business deploys governed, responsible AI framework to contain AI sprawl and accelerate innovation.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27512-vylor-microsoft-foundry</guid>
+      <pubDate>Wed, 04 Nov 2026 11:59:59 +0000</pubDate>
+      <category>Industrials and Manufacturing</category>
+      <category>Microsoft Foundry</category>
+      <category>Azure</category>
+      <category>Azure Blob Storage</category>
+      <category>SharePoint</category>
+      <category>Microsoft Entra</category>
+      <category>Power BI</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27512_Vylor%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Canterbury College teachers advance AI skills and confidence with Elevate for Educators</title>
       <link>https://www.microsoft.com/en/customers/story/27495-canterbury-college-microsoft-copilot</link>
       <description>Guided by its principal’s vision, Canterbury College is helping teachers and students gain skills in AI through Microsoft Elevate for Educators.</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27495-canterbury-college-microsoft-copilot</guid>
-      <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
+      <pubDate>Wed, 04 Nov 2026 11:59:58 +0000</pubDate>
       <category>Education</category>
       <category>Microsoft Copilot</category>
       <category>Microsoft Teams</category>
       <category>Microsoft 365</category>
       <category>Surface</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27495_Canterbury%20College%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Sitecore migrates ~1,000 databases live on Azure Managed Redis, sees significant savings</title>
+      <link>https://www.microsoft.com/en/customers/story/27572-sitecore-azure-kubernetes-service</link>
+      <description>Sitecore migrated from a Redis environment to Azure Managed Redis, reducing complexity, strengthening security, and improving availability.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27572-sitecore-azure-kubernetes-service</guid>
+      <pubDate>Wed, 04 Nov 2026 11:59:57 +0000</pubDate>
+      <category>Software, Data and Platforms</category>
+      <category>Azure Kubernetes Service</category>
+      <category>Azure Managed Redis</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27572_Sitecore%20Header%20Image" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>ANDRITZ turns employee feedback into action with Viva Glint and Microsoft 365 Copilot</title>
@@ -537,47 +577,6 @@
       <category>Microsoft Security Copilot</category>
       <category>GitHub Copilot</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27442_Malta%20Information%20Technology%20Agency%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Fujitsu transforms business processes with 100,000 Microsoft 365 Copilot licenses</title>
-      <link>https://www.microsoft.com/en/customers/story/27449-fujitsu-limited-microsoft-365-copilot</link>
-      <description>Establishing company-wide AI adoption and accelerating business transformation through Microsoft 365 Copilot and AI agents</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27449-fujitsu-limited-microsoft-365-copilot</guid>
-      <pubDate>Fri, 09 Oct 2026 12:00:00 +0000</pubDate>
-      <category>Industrials and Manufacturing</category>
-      <category>Microsoft 365 Copilot</category>
-      <category>Microsoft Teams</category>
-      <category>Outlook</category>
-      <category>Microsoft Copilot Studio</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27449_Fujitsu%20Limited%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title> Safety21 boosts data processing performance by 80% with Microsoft Fabric </title>
-      <link>https://www.microsoft.com/en/customers/story/27412-safety21-microsoft-fabric</link>
-      <description>Safety21 unified traffic data from municipalities across Italy on Microsoft Fabric, lifting data processing performance by around 80%.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27412-safety21-microsoft-fabric</guid>
-      <pubDate>Wed, 07 Oct 2026 12:00:00 +0000</pubDate>
-      <category>Automotive, Mobility, and Transportation</category>
-      <category>Microsoft Fabric</category>
-      <category>Azure</category>
-      <category>Power BI</category>
-      <category>Microsoft Defender for Cloud</category>
-      <category>Microsoft Defender XDR</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27412_Safety21%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Bristol Myers Squibb accelerates life-changing scientific pursuits with Microsoft AI</title>
-      <link>https://www.microsoft.com/en/customers/story/27424-bristol-myers-squibb-microsoft-365-copilot</link>
-      <description>Bristol Myers Squibb partnered with Microsoft to accelerate its AI transformation and help it get life-changing treatments to more patients, faster.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27424-bristol-myers-squibb-microsoft-365-copilot</guid>
-      <pubDate>Thu, 08 Oct 2026 11:59:56 +0000</pubDate>
-      <category>Healthcare</category>
-      <category>Microsoft 365 Copilot</category>
-      <category>Microsoft Copilot Studio</category>
-      <category>Microsoft Viva Engage</category>
-      <category>Microsoft Viva Insights</category>
-      <category>Agents</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27424_Bristol%20Myers%20Squibb%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
