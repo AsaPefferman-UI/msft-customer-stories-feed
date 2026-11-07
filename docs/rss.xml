@@ -26,11 +26,39 @@
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27604_Forefront%20Dermatology%20Header%20Image" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>WTW builds an agent platform on Microsoft Agent Framework, saving tens of thousands of hours</title>
+      <link>https://www.microsoft.com/en/customers/story/27598-willis-towers-watson-microsoft-foundry</link>
+      <description>WTW built an agent platform on Microsoft Foundry and Microsoft Agent Framework that automates workflows and keeps humans in the lead, saving tens of thousands of hours.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27598-willis-towers-watson-microsoft-foundry</guid>
+      <pubDate>Thu, 05 Nov 2026 12:00:00 +0000</pubDate>
+      <category>Financial Services</category>
+      <category>Microsoft Foundry</category>
+      <category>Foundry Agent Service</category>
+      <category>Azure Container Apps</category>
+      <category>Azure Container Registry</category>
+      <category>Azure Service Bus</category>
+      <category>Azure Cosmos DB</category>
+      <category>Azure Key Vault</category>
+      <category>Microsoft Teams</category>
+      <category>Microsoft Entra ID</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27598_Willis%20Towers%20Watson%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Docusign modernizes its eSignature data platform and builds an AI-ready future with Azure SQL</title>
+      <link>https://www.microsoft.com/en/customers/story/27599-docusign-azure-sql-database</link>
+      <description>Docusign modernized its core eSignature databases with Microsoft Azure SQL to speed up transactions and scale on demand for over a billion users.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27599-docusign-azure-sql-database</guid>
+      <pubDate>Fri, 06 Nov 2026 11:59:59 +0000</pubDate>
+      <category>Software, Data and Platforms</category>
+      <category>Azure SQL Database</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27599_Docusign%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Vylor cuts AI use-case setup from weeks to under 4 hours with Microsoft Foundry</title>
       <link>https://www.microsoft.com/en/customers/story/27513-vylor-microsoft-foundry</link>
       <description>Fortune 500 global agriscience business deploys governed AI framework to contain AI sprawl and accelerate innovation.</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27513-vylor-microsoft-foundry</guid>
-      <pubDate>Thu, 05 Nov 2026 12:00:00 +0000</pubDate>
+      <pubDate>Thu, 05 Nov 2026 11:59:59 +0000</pubDate>
       <category>Industrials and Manufacturing</category>
       <category>Microsoft Foundry</category>
       <category>Azure</category>
@@ -83,7 +111,7 @@
       <link>https://www.microsoft.com/en/customers/story/27580-opella-microsoft-foundry</link>
       <description>Opella is scaling credible health content with Microsoft Foundry and Azure. Its AI-supported content operation has increased production 30-fold, while Lumen’s 14 specialized agents help experts review content and retain final approval.</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27580-opella-microsoft-foundry</guid>
-      <pubDate>Thu, 05 Nov 2026 11:59:59 +0000</pubDate>
+      <pubDate>Thu, 05 Nov 2026 11:59:58 +0000</pubDate>
       <category>Healthcare</category>
       <category>Microsoft Foundry</category>
       <category>Azure OpenAI in Foundry Models</category>
@@ -556,32 +584,6 @@
       <category>Microsoft Power Platform</category>
       <category>Dataverse</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27456_Asurion%20Insurance%20Services%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title> GW RhythmX Brings Real-Time Precision Care Insights to Microsoft Dragon Copilot </title>
-      <link>https://www.microsoft.com/en/customers/story/27017-gw-rhythmx-microsoft-marketplace</link>
-      <description>GW RhythmX helps clinicians transform documentation signals to support personalized patient decisions.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27017-gw-rhythmx-microsoft-marketplace</guid>
-      <pubDate>Thu, 08 Oct 2026 11:59:58 +0000</pubDate>
-      <category>Healthcare</category>
-      <category>Microsoft Marketplace</category>
-      <category>Microsoft Dragon Copilot</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27017_GW%20RhythmX%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Korea Zinc improves operational efficiency by 50% with Microsoft Security</title>
-      <link>https://www.microsoft.com/en/customers/story/27364-korea-zinc-microsoft-sentinel</link>
-      <description>Korea Zinc unified security and governance with Microsoft Security to strengthen resilience and accelerate AI adoption.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27364-korea-zinc-microsoft-sentinel</guid>
-      <pubDate>Tue, 13 Oct 2026 11:59:58 +0000</pubDate>
-      <category>Energy and Resources</category>
-      <category>Microsoft Sentinel</category>
-      <category>Microsoft 365 E5</category>
-      <category>Microsoft Defender</category>
-      <category>Microsoft Purview</category>
-      <category>Microsoft Entra ID</category>
-      <category>Microsoft Security Copilot</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27364_Korea%20Zinc%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
