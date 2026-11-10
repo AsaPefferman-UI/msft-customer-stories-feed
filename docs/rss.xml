@@ -7,6 +7,17 @@
     <language>en</language>
     <atom:link rel="self" href="" type="application/rss+xml" />
     <item>
+      <title>Parks and Resorts grows data adoption fivefold at flat cost with Microsoft Fabric</title>
+      <link>https://www.microsoft.com/en/customers/story/27617-parks-and-resorts-power-bi</link>
+      <description>Parks and Resorts grows report users fivefold on Microsoft Fabric at flat cost, bringing data to its seasonal park workforce.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27617-parks-and-resorts-power-bi</guid>
+      <pubDate>Tue, 10 Nov 2026 12:00:00 +0000</pubDate>
+      <category>Government</category>
+      <category>Power BI</category>
+      <category>Microsoft Fabric</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27617_Parks%20and%20Resorts%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Forefront Dermatology cuts manual reporting 85% with Microsoft Fabric and Formula5</title>
       <link>https://www.microsoft.com/en/customers/story/27604-forefront-dermatology-microsoft-fabric</link>
       <description>A 300-clinic dermatology network cut manual reporting 85% and built an AI-ready foundation on Microsoft Fabric with Formula5.</description>
@@ -44,16 +55,6 @@
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27598_Willis%20Towers%20Watson%20Header%20Image" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Docusign modernizes its eSignature data platform and builds an AI-ready future with Azure SQL</title>
-      <link>https://www.microsoft.com/en/customers/story/27599-docusign-azure-sql-database</link>
-      <description>Docusign modernized its core eSignature databases with Microsoft Azure SQL to speed up transactions and scale on demand for over a billion users.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27599-docusign-azure-sql-database</guid>
-      <pubDate>Fri, 06 Nov 2026 11:59:59 +0000</pubDate>
-      <category>Software, Data and Platforms</category>
-      <category>Azure SQL Database</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27599_Docusign%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
       <title>Vylor cuts AI use-case setup from weeks to under 4 hours with Microsoft Foundry</title>
       <link>https://www.microsoft.com/en/customers/story/27513-vylor-microsoft-foundry</link>
       <description>Fortune 500 global agriscience business deploys governed AI framework to contain AI sprawl and accelerate innovation.</description>
@@ -78,7 +79,7 @@
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27513_Vylor%20Header%20Image" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Lifeline Loddon Mallee scales crisis support in rural communities with a united Microsoft platform</title>
+      <title> Lifeline Loddon Mallee scales crisis support in rural communities with a united Microsoft platform </title>
       <link>https://www.microsoft.com/en/customers/story/27522-lifeline-australia-microsoft-365</link>
       <description>Lifeline Loddon Mallee expands to securely improve mental health in Australia through Microsoft 365, Microsoft Copilot, and Microsoft Entra.</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27522-lifeline-australia-microsoft-365</guid>
