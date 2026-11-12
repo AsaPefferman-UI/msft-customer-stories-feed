@@ -7,6 +7,21 @@
     <language>en</language>
     <atom:link rel="self" href="" type="application/rss+xml" />
     <item>
+      <title>ORTEC uses Microsoft 365 Copilot to turn logistics expertise into faster, trusted decisions</title>
+      <link>https://www.microsoft.com/en/customers/story/27574-ortec-excel</link>
+      <description>ORTEC uses Microsoft 365 Copilot and GitHub Copilot to move from information to faster, trusted decisions, with people in control.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27574-ortec-excel</guid>
+      <pubDate>Thu, 12 Nov 2026 12:00:00 +0000</pubDate>
+      <category>Software, Data and Platforms</category>
+      <category>Excel</category>
+      <category>Microsoft 365 Copilot</category>
+      <category>GitHub</category>
+      <category>Azure</category>
+      <category>Microsoft Teams</category>
+      <category>Microsoft 365 E3</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27574_Ortec%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Microsoft provides faster answers to complex licensing questions using Azure AI Services and Microsoft Copilot Studio</title>
       <link>https://www.microsoft.com/en/customers/story/27634-microsoft-azure-ai-search</link>
       <description>Agent answers over 1,000 questions a week, enabling employees to draft customer-ready responses almost 90% faster.</description>
@@ -235,6 +250,21 @@
       <category>Azure Data Factory</category>
       <category>Azure SQL Database</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27553_Hotels%20VIVA%20and%20Resorts%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title> NTT DATA develops MVPs with Microsoft Copilot Studio in Japan’s first CAD program 
+</title>
+      <link>https://www.microsoft.com/en/customers/story/27558-ntt-data-group-corporation-microsoft-365-copilot</link>
+      <description>NTT DATA Group adopted Japan’s first CAD program to quickly build practical AI agent development skills when introducing Microsoft 365 Copilot.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27558-ntt-data-group-corporation-microsoft-365-copilot</guid>
+      <pubDate>Thu, 12 Nov 2026 11:59:59 +0000</pubDate>
+      <category>Professional and Business Services</category>
+      <category>Microsoft 365 Copilot</category>
+      <category>Microsoft Copilot Studio</category>
+      <category>Microsoft Power Platform</category>
+      <category>Dataverse</category>
+      <category>Microsoft 365</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27558_NTT%20DATA%20Group%20Corporation%20Header%20Image" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Insight Enterprises puts Security Copilot to work on 1,700-plus monthly triages</title>
@@ -581,30 +611,6 @@
       <category>Azure Synapse Analytics</category>
       <category>Microsoft Foundry</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27482_MSCI%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title> Greek Ministry of Health uses Microsoft Azure to gain insights into 1B health records 
-</title>
-      <link>https://www.microsoft.com/en/customers/story/27472-i-di-ka-sa-azure</link>
-      <description>The Greek Ministry of Health uses Microsoft Azure to make national health data easier for clinicians to navigate and more useful at the point of care.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27472-i-di-ka-sa-azure</guid>
-      <pubDate>Tue, 13 Oct 2026 11:59:59 +0000</pubDate>
-      <category>Government</category>
-      <category>Azure</category>
-      <category>Azure OpenAI in Foundry Models</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27472_I%20DI%20KA%20SA%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Odense Kommune drives AI-powered modernization with Microsoft 365 Copilot</title>
-      <link>https://www.microsoft.com/en/customers/story/27475-odense-kommune-microsoft-copilot</link>
-      <description>Odense Kommune streamlines operations using Microsoft 365 Copilot, freeing staff to stay focused on elevating citizen services.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27475-odense-kommune-microsoft-copilot</guid>
-      <pubDate>Wed, 14 Oct 2026 11:59:59 +0000</pubDate>
-      <category>Government</category>
-      <category>Microsoft Copilot</category>
-      <category>Microsoft 365 Copilot Chat</category>
-      <category>Microsoft 365 E5</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27475_Odense%20Kommune%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
