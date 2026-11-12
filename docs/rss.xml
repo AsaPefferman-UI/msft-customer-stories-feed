@@ -7,11 +7,42 @@
     <language>en</language>
     <atom:link rel="self" href="" type="application/rss+xml" />
     <item>
+      <title>Microsoft Research + Insights speeds campaign reporting 5 times with Fabric</title>
+      <link>https://www.microsoft.com/en/customers/story/27589-microsoft-microsoft-fabric</link>
+      <description>Microsoft Research + Insights uses Microsoft Fabric and Azure Databricks to gain market intelligence, cutting campaign reporting from weeks to days.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27589-microsoft-microsoft-fabric</guid>
+      <pubDate>Thu, 12 Nov 2026 12:00:00 +0000</pubDate>
+      <category>Professional and Business Services</category>
+      <category>Microsoft Fabric</category>
+      <category>Azure Databricks</category>
+      <category>OneLake</category>
+      <category>Microsoft Entra ID</category>
+      <category>Azure Data Factory</category>
+      <category>Azure Data Lake Storage</category>
+      <category>Power BI</category>
+      <category>Excel</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27589_Microsoft%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Zensai nearly doubles revenue with Microsoft Fabric</title>
+      <link>https://www.microsoft.com/en/customers/story/27629-zensai-microsoft-fabric</link>
+      <description>Zensai unified fragmented data on Microsoft Fabric, growing revenue and customer retention without growing headcount.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27629-zensai-microsoft-fabric</guid>
+      <pubDate>Thu, 12 Nov 2026 11:59:59 +0000</pubDate>
+      <category>Software, Data and Platforms</category>
+      <category>Microsoft Fabric</category>
+      <category>Azure OpenAI in Foundry Models</category>
+      <category>Microsoft 365</category>
+      <category>Azure Synapse Analytics</category>
+      <category>Microsoft Teams</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27629_Zensai%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>ORTEC uses Microsoft 365 Copilot to turn logistics expertise into faster, trusted decisions</title>
       <link>https://www.microsoft.com/en/customers/story/27574-ortec-excel</link>
       <description>ORTEC uses Microsoft 365 Copilot and GitHub Copilot to move from information to faster, trusted decisions, with people in control.</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27574-ortec-excel</guid>
-      <pubDate>Thu, 12 Nov 2026 12:00:00 +0000</pubDate>
+      <pubDate>Thu, 12 Nov 2026 11:59:58 +0000</pubDate>
       <category>Software, Data and Platforms</category>
       <category>Excel</category>
       <category>Microsoft 365 Copilot</category>
@@ -36,6 +67,31 @@
       <category>Microsoft Foundry</category>
       <category>Azure Document Intelligence in Foundry Tools</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27634_Microsoft%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Fashable takes brands from trend to supplier in weeks using Foundry Agent Service</title>
+      <link>https://www.microsoft.com/en/customers/story/27637-fashable-foundry-agent-service</link>
+      <description>Fashable coordinates seven agents on Foundry Agent Service, carrying fashion brands from trend research to supplier negotiation in weeks, not months.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27637-fashable-foundry-agent-service</guid>
+      <pubDate>Thu, 12 Nov 2026 11:59:57 +0000</pubDate>
+      <category>Professional and Business Services</category>
+      <category>Foundry Agent Service</category>
+      <category>Foundry IQ</category>
+      <category>Microsoft Foundry</category>
+      <category>Azure OpenAI in Foundry Models</category>
+      <category>Azure Document Intelligence in Foundry Tools</category>
+      <category>Azure Vision in Foundry Tools</category>
+      <category>Azure Functions</category>
+      <category>Azure Cosmos DB</category>
+      <category>Azure Blob Storage</category>
+      <category>Azure Monitor</category>
+      <category>Microsoft Teams</category>
+      <category>Microsoft Copilot</category>
+      <category>Azure</category>
+      <category>Azure Machine Learning</category>
+      <category>Microsoft 365</category>
+      <category>Azure Marketplace</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27637_Fashable%20Header%20Image" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Carrier delivers consistent, human-centered employee support with Microsoft 365 Copilot</title>
@@ -257,7 +313,7 @@
       <link>https://www.microsoft.com/en/customers/story/27558-ntt-data-group-corporation-microsoft-365-copilot</link>
       <description>NTT DATA Group adopted Japan’s first CAD program to quickly build practical AI agent development skills when introducing Microsoft 365 Copilot.</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27558-ntt-data-group-corporation-microsoft-365-copilot</guid>
-      <pubDate>Thu, 12 Nov 2026 11:59:59 +0000</pubDate>
+      <pubDate>Thu, 12 Nov 2026 11:59:56 +0000</pubDate>
       <category>Professional and Business Services</category>
       <category>Microsoft 365 Copilot</category>
       <category>Microsoft Copilot Studio</category>
@@ -568,49 +624,6 @@
       <category>Azure SQL</category>
       <category>Foundry IQ</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27496_Microsoft%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>E4E Relief provides emergency grants faster with Dynamics 365 and Microsoft Power Platform</title>
-      <link>https://www.microsoft.com/en/customers/story/27473-e4e-relief-azure-data-lake-analytics</link>
-      <description>E4E Relief provides employer-sponsored emergency cash grants to individuals faster and more securely with Dynamics 365 and Power Pages portals.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27473-e4e-relief-azure-data-lake-analytics</guid>
-      <pubDate>Fri, 23 Oct 2026 11:59:59 +0000</pubDate>
-      <category>Nonprofit and IGO</category>
-      <category>Azure Data Lake Analytics</category>
-      <category>Microsoft Fabric</category>
-      <category>Power Pages</category>
-      <category>Microsoft Power Platform</category>
-      <category>Power BI</category>
-      <category>Dynamics 365 Customer Voice</category>
-      <category>Dynamics 365 Customer Service</category>
-      <category>Microsoft 365</category>
-      <category>Azure</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27473_E4E%20Relief%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Deutsches Hilfswerk replaces CSV exports with automated Fabric reporting</title>
-      <link>https://www.microsoft.com/en/customers/story/27483-stiftung-deutsches-hilfswerk-microsoft-fabric</link>
-      <description>The foundation behind Deutsche Fernsehlotterie moves grant reporting from CSV exports to an automated Microsoft Fabric platform.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27483-stiftung-deutsches-hilfswerk-microsoft-fabric</guid>
-      <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
-      <category>Nonprofit and IGO</category>
-      <category>Microsoft Fabric</category>
-      <category>Power BI</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27483_Stiftung%20Deutsches%20Hilfswerk%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>MSCI cuts data onboarding from days to minutes with Microsoft Fabric</title>
-      <link>https://www.microsoft.com/en/customers/story/27482-msci-microsoft-fabric</link>
-      <description>MSCI uses Mirroring in Microsoft Fabric to reduce data onboarding from 8–10 days to 30–40 minutes and deliver fresher marketing analytics.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27482-msci-microsoft-fabric</guid>
-      <pubDate>Tue, 13 Oct 2026 12:00:00 +0000</pubDate>
-      <category>Financial Services</category>
-      <category>Microsoft Fabric</category>
-      <category>Power BI</category>
-      <category>Azure Data Factory</category>
-      <category>Azure Synapse Analytics</category>
-      <category>Microsoft Foundry</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27482_MSCI%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
