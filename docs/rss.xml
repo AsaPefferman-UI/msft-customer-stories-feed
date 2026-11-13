@@ -7,6 +7,24 @@
     <language>en</language>
     <atom:link rel="self" href="" type="application/rss+xml" />
     <item>
+      <title>Telefónica Deutschland cuts operating costs by over 90% with Windows 365 Cloud Apps</title>
+      <link>https://www.microsoft.com/en/customers/story/27626-telefonica-deutschland-windows-365</link>
+      <description>Telefónica Deutschland provides controlled retail application access for 13,000 users on unmanaged devices with Windows 365 Cloud Apps.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27626-telefonica-deutschland-windows-365</guid>
+      <pubDate>Fri, 13 Nov 2026 12:00:00 +0000</pubDate>
+      <category>Telecommunications and Media</category>
+      <category>Windows 365</category>
+      <category>Microsoft Edge</category>
+      <category>Microsoft Entra ID</category>
+      <category>Microsoft Entra</category>
+      <category>Microsoft Purview Data Loss Prevention</category>
+      <category>Microsoft Purview</category>
+      <category>Microsoft Intune</category>
+      <category>Microsoft 365 F3</category>
+      <category>Windows 365 Cloud PC</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27626_Telefonica%20Deutschland%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Microsoft Research + Insights speeds campaign reporting 5 times with Fabric</title>
       <link>https://www.microsoft.com/en/customers/story/27589-microsoft-microsoft-fabric</link>
       <description>Microsoft Research + Insights uses Microsoft Fabric and Azure Databricks to gain market intelligence, cutting campaign reporting from weeks to days.</description>
@@ -195,6 +213,16 @@
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27598_Willis%20Towers%20Watson%20Header%20Image" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>Docusign modernizes its eSignature data platform and builds an AI-ready future with Azure SQL</title>
+      <link>https://www.microsoft.com/en/customers/story/27599-docusign-azure-sql-database</link>
+      <description>Docusign modernized its core eSignature databases with Microsoft Azure SQL to speed up transactions and scale on demand for over a billion users.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27599-docusign-azure-sql-database</guid>
+      <pubDate>Thu, 12 Nov 2026 11:59:56 +0000</pubDate>
+      <category>Software, Data and Platforms</category>
+      <category>Azure SQL Database</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27599_Docusign%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Vylor cuts AI use-case setup from weeks to under 4 hours with Microsoft Foundry</title>
       <link>https://www.microsoft.com/en/customers/story/27513-vylor-microsoft-foundry</link>
       <description>Fortune 500 global agriscience business deploys governed AI framework to contain AI sprawl and accelerate innovation.</description>
@@ -313,7 +341,7 @@
       <link>https://www.microsoft.com/en/customers/story/27558-ntt-data-group-corporation-microsoft-365-copilot</link>
       <description>NTT DATA Group adopted Japan’s first CAD program to quickly build practical AI agent development skills when introducing Microsoft 365 Copilot.</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27558-ntt-data-group-corporation-microsoft-365-copilot</guid>
-      <pubDate>Thu, 12 Nov 2026 11:59:56 +0000</pubDate>
+      <pubDate>Thu, 12 Nov 2026 11:59:55 +0000</pubDate>
       <category>Professional and Business Services</category>
       <category>Microsoft 365 Copilot</category>
       <category>Microsoft Copilot Studio</category>
@@ -597,33 +625,6 @@
       <category>Azure</category>
       <category>Microsoft Teams</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27504_Welsh%20Water%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Q2 moves to Azure for 27%+ faster lifecycle, 50% cost reduction, new AI capabilities</title>
-      <link>https://www.microsoft.com/en/customers/story/27462-q2-software-azure</link>
-      <description>Q2 replatformed its Centrix suite on Microsoft Azure to speed innovation, cut operational costs, and prepare for AI-powered fraud prevention.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27462-q2-software-azure</guid>
-      <pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
-      <category>Financial Services</category>
-      <category>Azure</category>
-      <category>Microsoft Foundry</category>
-      <category>Azure Batch</category>
-      <category>Azure Monitor</category>
-      <category>Azure DevOps</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27462_Q2%20Software%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Microsoft AI powers AMA to transform marketing and delivers $14M in value</title>
-      <link>https://www.microsoft.com/en/customers/story/27496-microsoft-azure-openai-in-foundry-models</link>
-      <description>Reshaping marketing workflows with always-on customer intelligence: AMA uses the Microsoft AI ecosystem to translate customer voice into precise, relevant messaging.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27496-microsoft-azure-openai-in-foundry-models</guid>
-      <pubDate>Mon, 19 Oct 2026 12:00:00 +0000</pubDate>
-      <category>Software, Data and Platforms</category>
-      <category>Azure OpenAI in Foundry Models</category>
-      <category>Microsoft Fabric</category>
-      <category>Azure SQL</category>
-      <category>Foundry IQ</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27496_Microsoft%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
