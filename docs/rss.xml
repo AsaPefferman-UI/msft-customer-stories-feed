@@ -7,11 +7,38 @@
     <language>en</language>
     <atom:link rel="self" href="" type="application/rss+xml" />
     <item>
+      <title>Rockwell Automation cuts factory defects 35% as AI spreads across its workforce</title>
+      <link>https://www.microsoft.com/en/customers/story/27644-rockwell-automation-azure</link>
+      <description>Rockwell Automation proves AI on its own plant floors and gives employees across the company the tools to build their own AI solutions.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27644-rockwell-automation-azure</guid>
+      <pubDate>Sat, 14 Nov 2026 12:00:00 +0000</pubDate>
+      <category>Industrials and Manufacturing</category>
+      <category>Azure</category>
+      <category>Foundry IQ</category>
+      <category>Microsoft Foundry</category>
+      <category>Microsoft 365 Copilot</category>
+      <category>GitHub Copilot</category>
+      <category>Microsoft Copilot Studio</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27644_Rockwell%20Automation%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Ecopetrol standardizes industrial data across 100+ energy assets with Azure IoT Operations and Microsoft Fabric</title>
+      <link>https://www.microsoft.com/en/customers/story/27653-ecopetrol-sa-iot-operations</link>
+      <description>Ecopetrol unifies industrial data from edge to cloud</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27653-ecopetrol-sa-iot-operations</guid>
+      <pubDate>Fri, 13 Nov 2026 12:00:00 +0000</pubDate>
+      <category>Energy and Resources</category>
+      <category>IoT Operations</category>
+      <category>Microsoft Fabric</category>
+      <category>Real-Time Intelligence</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27653_Ecopetrol%20SA%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Telefónica Deutschland cuts operating costs by over 90% with Windows 365 Cloud Apps</title>
       <link>https://www.microsoft.com/en/customers/story/27626-telefonica-deutschland-windows-365</link>
       <description>Telefónica Deutschland provides controlled retail application access for 13,000 users on unmanaged devices with Windows 365 Cloud Apps.</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27626-telefonica-deutschland-windows-365</guid>
-      <pubDate>Fri, 13 Nov 2026 12:00:00 +0000</pubDate>
+      <pubDate>Fri, 13 Nov 2026 11:59:59 +0000</pubDate>
       <category>Telecommunications and Media</category>
       <category>Windows 365</category>
       <category>Microsoft Edge</category>
@@ -599,32 +626,6 @@
       <category>Microsoft Teams</category>
       <category>Azure Monitor</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27511_mobilezone%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Prosper Global connects AI innovation to humanitarian impact with Microsoft Elevate</title>
-      <link>https://www.microsoft.com/en/customers/story/27497-prosper-global-microsoft-copilot</link>
-      <description>Prosper Global is building a responsible path for its best AI ideas to grow, so teams can better support communities in crisis.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27497-prosper-global-microsoft-copilot</guid>
-      <pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
-      <category>Nonprofit and IGO</category>
-      <category>Microsoft Copilot</category>
-      <category>Microsoft Power Platform</category>
-      <category>Power BI</category>
-      <category>Azure</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27497_Prosper%20Global%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Welsh Water pilots ORAI to support 1,800+ alarms with Microsoft Foundry and Fabric</title>
-      <link>https://www.microsoft.com/en/customers/story/27504-welsh-water-microsoft-foundry</link>
-      <description>Welsh Water is piloting ORAI with Microsoft Foundry and Fabric to support governed, human-led alarm triage in critical infrastructure.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27504-welsh-water-microsoft-foundry</guid>
-      <pubDate>Thu, 22 Oct 2026 11:59:59 +0000</pubDate>
-      <category>Energy and Resources</category>
-      <category>Microsoft Foundry</category>
-      <category>Microsoft Fabric</category>
-      <category>Azure</category>
-      <category>Microsoft Teams</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27504_Welsh%20Water%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
