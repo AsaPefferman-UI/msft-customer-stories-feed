@@ -34,6 +34,22 @@
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27653_Ecopetrol%20SA%20Header%20Image" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>Flagstar Bank brings hybrid AI and mobile banking to life with Microsoft Surface</title>
+      <link>https://www.microsoft.com/en/customers/story/27655-flagstar-bank-surface</link>
+      <description>With Microsoft Surface, Flagstar Bank powers local AI, faster setup, and better employee experiences across its unified Microsoft environment.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27655-flagstar-bank-surface</guid>
+      <pubDate>Mon, 16 Nov 2026 12:00:00 +0000</pubDate>
+      <category>Financial Services</category>
+      <category>Surface</category>
+      <category>Windows 11</category>
+      <category>Microsoft 365</category>
+      <category>Microsoft Intune</category>
+      <category>Windows Hello for Business</category>
+      <category>Microsoft Entra</category>
+      <category>Windows Autopilot</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27655_Flagstar%20Bank%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Telefónica Deutschland cuts operating costs by over 90% with Windows 365 Cloud Apps</title>
       <link>https://www.microsoft.com/en/customers/story/27626-telefonica-deutschland-windows-365</link>
       <description>Telefónica Deutschland provides controlled retail application access for 13,000 users on unmanaged devices with Windows 365 Cloud Apps.</description>
@@ -50,6 +66,37 @@
       <category>Microsoft 365 F3</category>
       <category>Windows 365 Cloud PC</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27626_Telefonica%20Deutschland%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Flagstar Bank builds a secure, manageable foundation for AI with Windows 11</title>
+      <link>https://www.microsoft.com/en/customers/story/27654-flagstar-bank-windows-11</link>
+      <description>Flagstar Bank uses Windows 11 to simplify device management, accelerate provisioning, and build a secure foundation for local AI</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27654-flagstar-bank-windows-11</guid>
+      <pubDate>Mon, 16 Nov 2026 11:59:59 +0000</pubDate>
+      <category>Financial Services</category>
+      <category>Windows 11</category>
+      <category>Microsoft Intune</category>
+      <category>Microsoft Entra</category>
+      <category>Windows Autopilot</category>
+      <category>Windows Hello for Business</category>
+      <category>Surface</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27654_Flagstar%20Bank%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Zurich reaches 93% Copilot adoption to better serve customers with Microsoft AI</title>
+      <link>https://www.microsoft.com/en/customers/story/27588-zurich-microsoft-365-copilot</link>
+      <description>Zurich’s 10,000+ North America employees use Microsoft Copilot with 93% adoption, 1 million+ monthly prompts, and 20% fewer Service Desk tickets.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27588-zurich-microsoft-365-copilot</guid>
+      <pubDate>Mon, 16 Nov 2026 11:59:58 +0000</pubDate>
+      <category>Financial Services</category>
+      <category>Microsoft 365 Copilot</category>
+      <category>Microsoft Copilot Studio</category>
+      <category>Microsoft 365</category>
+      <category>Outlook</category>
+      <category>Word</category>
+      <category>Excel</category>
+      <category>Microsoft Purview</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27588_Zurich%20Header%20Image" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Microsoft Research + Insights speeds campaign reporting 5 times with Fabric</title>
@@ -96,6 +143,23 @@
       <category>Microsoft Teams</category>
       <category>Microsoft 365 E3</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27574_Ortec%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>SAP Modernizes 100,000+ endpoints with Windows 11 and Microsoft Intune</title>
+      <link>https://www.microsoft.com/en/customers/story/27633-sap-se-windows-11</link>
+      <description>SAP modernized Windows management with Intune and Windows 11, boosting security, avoiding costs, and improving reliability.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27633-sap-se-windows-11</guid>
+      <pubDate>Mon, 16 Nov 2026 11:59:57 +0000</pubDate>
+      <category>Software, Data and Platforms</category>
+      <category>Windows 11</category>
+      <category>Microsoft Intune</category>
+      <category>Hotpatching</category>
+      <category>Microsoft Entra</category>
+      <category>Windows Update</category>
+      <category>Windows Hello</category>
+      <category>Microsoft Copilot</category>
+      <category>Microsoft Intune Suite</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27633_SAP%20SE%20Header%20Image" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Microsoft provides faster answers to complex licensing questions using Azure AI Services and Microsoft Copilot Studio</title>
@@ -560,72 +624,6 @@
       <category>Microsoft Teams</category>
       <category>SharePoint</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27526_Canada%20Goose%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Noventiq scales an AI-first workforce with Microsoft 365 Copilot and NOVA</title>
-      <link>https://www.microsoft.com/en/customers/story/27501-noventiq-holdings-microsoft-copilot</link>
-      <description>Noventiq combined Microsoft 365 Copilot, Customer Zero, and NOVA, an employee AI ideas program to accelerate workforce transformation.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27501-noventiq-holdings-microsoft-copilot</guid>
-      <pubDate>Fri, 30 Oct 2026 11:59:59 +0000</pubDate>
-      <category>Commercial Other Industries</category>
-      <category>Microsoft Copilot</category>
-      <category>Microsoft 365 Copilot</category>
-      <category>SharePoint</category>
-      <category>Microsoft Entra ID</category>
-      <category>Microsoft Purview Extension</category>
-      <category>Microsoft Copilot Studio</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27501_Noventiq%20Holdings%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title> Tahaluf drives trust and 900%+ Copilot ROI in 13 months </title>
-      <link>https://www.microsoft.com/en/customers/story/27500-tahaluf-al-emarat-technical-solutions-microsoft-viva-insights</link>
-      <description>Tahaluf Al Emarat Technical Solutions achieved a 900%+ return on investment with Copilot while driving secure AI operations with Defender for Cloud.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27500-tahaluf-al-emarat-technical-solutions-microsoft-viva-insights</guid>
-      <pubDate>Tue, 27 Oct 2026 11:59:57 +0000</pubDate>
-      <category>Professional and Business Services</category>
-      <category>Microsoft Viva Insights</category>
-      <category>Microsoft Teams</category>
-      <category>Outlook</category>
-      <category>Word</category>
-      <category>Excel</category>
-      <category>PowerPoint</category>
-      <category>Microsoft 365 Copilot</category>
-      <category>Microsoft Intune</category>
-      <category>Microsoft Defender for Cloud</category>
-      <category>GitHub Enterprise</category>
-      <category>Azure</category>
-      <category>GitHub Copilot</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27500_Tahaluf%20Al%20Emarat%20Technical%20Solutions%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>From weeks to a day: Everstar on Microsoft Foundry with Claude</title>
-      <link>https://www.microsoft.com/en/customers/story/27410-everstar-foundry-models</link>
-      <description>Everstar built Gordian on Claude in Foundry Models, cutting nuclear permitting timelines 80–96% and completing 4–6 weeks of work in one day.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27410-everstar-foundry-models</guid>
-      <pubDate>Fri, 23 Oct 2026 12:00:00 +0000</pubDate>
-      <category>Energy and Resources</category>
-      <category>Foundry Models</category>
-      <category>Microsoft Foundry</category>
-      <category>Azure Kubernetes Service</category>
-      <category>Azure Functions</category>
-      <category>Azure</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27410_Everstar%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title> mobilezone redefines productivity with Microsoft Copilot Studio agents 
-</title>
-      <link>https://www.microsoft.com/en/customers/story/27511-mobilezone-microsoft-copilot-studio</link>
-      <description>mobilezone built three Microsoft Copilot Studio agents to streamline store support and B2B operations.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27511-mobilezone-microsoft-copilot-studio</guid>
-      <pubDate>Mon, 26 Oct 2026 12:00:00 +0000</pubDate>
-      <category>Professional and Business Services</category>
-      <category>Microsoft Copilot Studio</category>
-      <category>Dynamics 365 Commerce</category>
-      <category>Dynamics 365 Finance</category>
-      <category>Azure</category>
-      <category>Microsoft Teams</category>
-      <category>Azure Monitor</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27511_mobilezone%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
