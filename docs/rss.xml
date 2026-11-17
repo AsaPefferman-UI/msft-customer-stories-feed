@@ -7,6 +7,60 @@
     <language>en</language>
     <atom:link rel="self" href="" type="application/rss+xml" />
     <item>
+      <title>HPE moves from trusted AI answers to governed action with Azure</title>
+      <link>https://www.microsoft.com/en/customers/story/27658-hewlett-packard-enterprise-azure</link>
+      <description>HPE uses Azure and HPE-developed AgentOps technology to move from grounded AI answers to governed agents that support business processes.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27658-hewlett-packard-enterprise-azure</guid>
+      <pubDate>Mon, 16 Nov 2026 12:00:00 +0000</pubDate>
+      <category>Industrials and Manufacturing</category>
+      <category>Azure</category>
+      <category>Microsoft Foundry</category>
+      <category>Foundry IQ</category>
+      <category>Microsoft Copilot Studio</category>
+      <category>Microsoft Entra ID</category>
+      <category>Azure Kubernetes Service</category>
+      <category>Microsoft Defender for Cloud</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27658_Hewlett%20Packard%20Enterprise%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title> ServiceNow extends the benefits of AI to its Microsoft 365 assets with Microsoft Copilot Studio </title>
+      <link>https://www.microsoft.com/en/customers/story/27675-servicenow-microsoft-copilot-studio</link>
+      <description>Multi-agent orchestration on Copilot Studio resulted in a 26% performance improvement versus a single agent</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27675-servicenow-microsoft-copilot-studio</guid>
+      <pubDate>Mon, 16 Nov 2026 11:59:59 +0000</pubDate>
+      <category>Software, Data and Platforms</category>
+      <category>Microsoft Copilot Studio</category>
+      <category>Azure AI Search</category>
+      <category>Fabric IQ</category>
+      <category>SharePoint</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27675_ServiceNow%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title> Seconds matter: How AEMO uses Microsoft IQ to cut through the noise and keep Australia’s grid Secure </title>
+      <link>https://www.microsoft.com/en/customers/story/27668-australian-energy-market-operator-limited-microsoft-foundry</link>
+      <description>AEMO and Microsoft built an AI solution on Microsoft IQ in under 12 weeks, helping grid operators cut through alarms and make faster decisions.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27668-australian-energy-market-operator-limited-microsoft-foundry</guid>
+      <pubDate>Mon, 16 Nov 2026 11:59:58 +0000</pubDate>
+      <category>Energy and Resources</category>
+      <category>Microsoft Foundry</category>
+      <category>Foundry IQ</category>
+      <category>Fabric IQ</category>
+      <category>Azure OpenAI in Foundry Models</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27668_Australian%20Energy%20Market%20Operator%20Limited%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>PLDT improves service experience with Amdocs, Microsoft Dynamics 365, and Azure</title>
+      <link>https://www.microsoft.com/en/customers/story/27670-philippine-long-distance-telephone-company-azure</link>
+      <description>PLDT replaced its end-of-life ticketing system with the Amdocs and Microsoft platform, cutting resolution times and unifying service operations.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27670-philippine-long-distance-telephone-company-azure</guid>
+      <pubDate>Mon, 16 Nov 2026 11:59:57 +0000</pubDate>
+      <category>Telecommunications and Media</category>
+      <category>Azure</category>
+      <category>Dynamics 365 AI</category>
+      <category>Microsoft Power Platform</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27670_Philippine%20Long%20Distance%20Telephone%20Company%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Rockwell Automation cuts factory defects 35% as AI spreads across its workforce</title>
       <link>https://www.microsoft.com/en/customers/story/27644-rockwell-automation-azure</link>
       <description>Rockwell Automation proves AI on its own plant floors and gives employees across the company the tools to build their own AI solutions.</description>
@@ -20,6 +74,40 @@
       <category>GitHub Copilot</category>
       <category>Microsoft Copilot Studio</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27644_Rockwell%20Automation%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Provation boosts operations team incident resolution with Azure SRE Agent</title>
+      <link>https://www.microsoft.com/en/customers/story/27674-provation-software-azure</link>
+      <description>See how a healthcare software company uses Azure SRE Agent to investigate incidents in minutes and give engineering time back to its platform.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27674-provation-software-azure</guid>
+      <pubDate>Mon, 16 Nov 2026 11:59:56 +0000</pubDate>
+      <category>Healthcare</category>
+      <category>Azure</category>
+      <category>Azure DevOps</category>
+      <category>GitHub Copilot</category>
+      <category>Power Automate</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27674_Provation%20Software%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Omega 365 brings Azure OpenAI in Foundry Models to platform serving 300+ customers</title>
+      <link>https://www.microsoft.com/en/customers/story/27672-omega-365-azure-openai-in-foundry-models</link>
+      <description>Omega 365 embedded Azure OpenAI in Foundry Models into its platform, which serves 120,000 monthly active users.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27672-omega-365-azure-openai-in-foundry-models</guid>
+      <pubDate>Mon, 16 Nov 2026 11:59:55 +0000</pubDate>
+      <category>Professional and Business Services</category>
+      <category>Azure OpenAI in Foundry Models</category>
+      <category>Azure App Service</category>
+      <category>.NET</category>
+      <category>SQL Server</category>
+      <category>Azure Virtual Machines</category>
+      <category>Foundry Tools</category>
+      <category>Azure Vision in Foundry Tools</category>
+      <category>Azure Document Intelligence in Foundry Tools</category>
+      <category>Azure</category>
+      <category>Microsoft Defender for Cloud</category>
+      <category>Microsoft Sentinel</category>
+      <category>Azure Translator in Foundry Tools</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27672_Omega%20365%20Header%20Image" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Ecopetrol standardizes industrial data across 100+ energy assets with Azure IoT Operations and Microsoft Fabric</title>
@@ -38,7 +126,7 @@
       <link>https://www.microsoft.com/en/customers/story/27655-flagstar-bank-surface</link>
       <description>With Microsoft Surface, Flagstar Bank powers local AI, faster setup, and better employee experiences across its unified Microsoft environment.</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27655-flagstar-bank-surface</guid>
-      <pubDate>Mon, 16 Nov 2026 12:00:00 +0000</pubDate>
+      <pubDate>Mon, 16 Nov 2026 11:59:54 +0000</pubDate>
       <category>Financial Services</category>
       <category>Surface</category>
       <category>Windows 11</category>
@@ -72,7 +160,7 @@
       <link>https://www.microsoft.com/en/customers/story/27654-flagstar-bank-windows-11</link>
       <description>Flagstar Bank uses Windows 11 to simplify device management, accelerate provisioning, and build a secure foundation for local AI</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27654-flagstar-bank-windows-11</guid>
-      <pubDate>Mon, 16 Nov 2026 11:59:59 +0000</pubDate>
+      <pubDate>Mon, 16 Nov 2026 11:59:53 +0000</pubDate>
       <category>Financial Services</category>
       <category>Windows 11</category>
       <category>Microsoft Intune</category>
@@ -81,22 +169,6 @@
       <category>Windows Hello for Business</category>
       <category>Surface</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27654_Flagstar%20Bank%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Zurich reaches 93% Copilot adoption to better serve customers with Microsoft AI</title>
-      <link>https://www.microsoft.com/en/customers/story/27588-zurich-microsoft-365-copilot</link>
-      <description>Zurich’s 10,000+ North America employees use Microsoft Copilot with 93% adoption, 1 million+ monthly prompts, and 20% fewer Service Desk tickets.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27588-zurich-microsoft-365-copilot</guid>
-      <pubDate>Mon, 16 Nov 2026 11:59:58 +0000</pubDate>
-      <category>Financial Services</category>
-      <category>Microsoft 365 Copilot</category>
-      <category>Microsoft Copilot Studio</category>
-      <category>Microsoft 365</category>
-      <category>Outlook</category>
-      <category>Word</category>
-      <category>Excel</category>
-      <category>Microsoft Purview</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27588_Zurich%20Header%20Image" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Microsoft Research + Insights speeds campaign reporting 5 times with Fabric</title>
@@ -149,7 +221,7 @@
       <link>https://www.microsoft.com/en/customers/story/27633-sap-se-windows-11</link>
       <description>SAP modernized Windows management with Intune and Windows 11, boosting security, avoiding costs, and improving reliability.</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27633-sap-se-windows-11</guid>
-      <pubDate>Mon, 16 Nov 2026 11:59:57 +0000</pubDate>
+      <pubDate>Mon, 16 Nov 2026 11:59:52 +0000</pubDate>
       <category>Software, Data and Platforms</category>
       <category>Windows 11</category>
       <category>Microsoft Intune</category>
@@ -553,77 +625,6 @@
       <category>Azure Front Door</category>
       <category>Azure Service Bus</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27492_Willis%20Towers%20Watson%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>InEight cuts incident investigation effort 60% with Azure SRE Agent</title>
-      <link>https://www.microsoft.com/en/customers/story/27531-ineight-technology-azure</link>
-      <description>Learn how a project controls software company uses Azure SRE Agent to cut incident investigation effort 60% across a global Azure estate.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27531-ineight-technology-azure</guid>
-      <pubDate>Wed, 28 Oct 2026 11:59:59 +0000</pubDate>
-      <category>Commercial Other Industries</category>
-      <category>Azure</category>
-      <category>Azure Monitor</category>
-      <category>Azure SQL Database</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27531_InEight%20Technology%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Renuity builds a governed AI platform on Azure and lifts sales conversion in pilot</title>
-      <link>https://www.microsoft.com/en/customers/story/27528-renuity-azure</link>
-      <description>The home remodeler’s ambitious team delivers a repeatable, governed AI and data platform build alongside near-term business wins.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27528-renuity-azure</guid>
-      <pubDate>Thu, 29 Oct 2026 11:59:57 +0000</pubDate>
-      <category>Retail and Consumer Goods</category>
-      <category>Azure</category>
-      <category>Microsoft Foundry</category>
-      <category>Microsoft Entra ID</category>
-      <category>Azure Machine Learning</category>
-      <category>Microsoft Fabric</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27528_Renuity%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>ISS connects 169,000 frontline workers with Microsoft Entra ID</title>
-      <link>https://www.microsoft.com/en/customers/story/27527-iss-microsoft-entra-id</link>
-      <description>ISS uses Microsoft Entra ID to provide 169,000 frontline employees with a scalable foundation for secure digital access.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27527-iss-microsoft-entra-id</guid>
-      <pubDate>Tue, 27 Oct 2026 12:00:00 +0000</pubDate>
-      <category>Professional and Business Services</category>
-      <category>Microsoft Entra ID</category>
-      <category>Microsoft Teams</category>
-      <category>Microsoft 365 Copilot</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27527_ISS%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title> ADNEC Group gains real-time insights into 100+ events and 1.9M+ visitors with Pulses on Microsoft Azure </title>
-      <link>https://www.microsoft.com/en/customers/story/27519-adnec-group-azure-kubernetes-service</link>
-      <description>Computer vision technology provides unique visitor counts, audience demographics, and more.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27519-adnec-group-azure-kubernetes-service</guid>
-      <pubDate>Tue, 27 Oct 2026 11:59:59 +0000</pubDate>
-      <category>Commercial Other Industries</category>
-      <category>Azure Kubernetes Service</category>
-      <category>Microsoft Marketplace</category>
-      <category>Azure Service Bus</category>
-      <category>Azure</category>
-      <category>Azure Key Vault</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27519_ADNEC%20Group%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Canada Goose transforms global finance and builds an agentic future with Dynamics 365 and Microsoft Copilot Studio</title>
-      <link>https://www.microsoft.com/en/customers/story/27526-canada-goose-dynamics-365-finance</link>
-      <description>Canada Goose cuts its monthly close by 37% and deploys AI agents to modernize finance with Dynamics 365.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27526-canada-goose-dynamics-365-finance</guid>
-      <pubDate>Tue, 27 Oct 2026 11:59:58 +0000</pubDate>
-      <category>Retail and Consumer Goods</category>
-      <category>Dynamics 365 Finance</category>
-      <category>Microsoft Power Platform</category>
-      <category>Microsoft Fabric</category>
-      <category>Power BI</category>
-      <category>Microsoft Copilot Studio</category>
-      <category>Microsoft 365 Copilot Chat</category>
-      <category>Microsoft 365 Copilot</category>
-      <category>Power Automate</category>
-      <category>Microsoft Teams</category>
-      <category>SharePoint</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27526_Canada%20Goose%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
