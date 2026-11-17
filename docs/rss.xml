@@ -7,6 +7,50 @@
     <language>en</language>
     <atom:link rel="self" href="" type="application/rss+xml" />
     <item>
+      <title>Columbia Sportswear modernizes its operations and resolves production issues faster</title>
+      <link>https://www.microsoft.com/en/customers/story/27690-columbia-sportswear-github-copilot</link>
+      <description>Columbia Sportswear uses AI and agents across the software lifecycle to turn more good ideas into reality.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27690-columbia-sportswear-github-copilot</guid>
+      <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
+      <category>Retail and Consumer Goods</category>
+      <category>GitHub Copilot</category>
+      <category>Azure</category>
+      <category>Microsoft Foundry</category>
+      <category>Azure Functions</category>
+      <category>Foundry IQ</category>
+      <category>.NET</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27690_Columbia%20Sportswear%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Goethe-Institut scales from 1 to 50 application projects on Azure Red Hat OpenShift</title>
+      <link>https://www.microsoft.com/en/customers/story/27682-goethe-institut-azure-red-hat-openshift</link>
+      <description>Goethe-Institut builds business-critical core infrastructure for its digital services on Azure Red Hat OpenShift.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27682-goethe-institut-azure-red-hat-openshift</guid>
+      <pubDate>Tue, 17 Nov 2026 11:59:59 +0000</pubDate>
+      <category>Education</category>
+      <category>Azure Red Hat OpenShift</category>
+      <category>Azure NetApp Files</category>
+      <category>Azure Key Vault</category>
+      <category>Azure Database for PostgreSQL</category>
+      <category>Azure Database for MySQL</category>
+      <category>Azure Application Gateway</category>
+      <category>Azure Bastion</category>
+      <category>Azure</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27682_Goethe%20Institut%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Replit brings AI-native software creation further into the enterprise</title>
+      <link>https://www.microsoft.com/en/customers/story/27688-replit-azure</link>
+      <description>Replit advances AI-native software creation with Microsoft to enable self-driving enterprises, where people direct and oversee execution by AI agents.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27688-replit-azure</guid>
+      <pubDate>Tue, 17 Nov 2026 11:59:58 +0000</pubDate>
+      <category>Software, Data and Platforms</category>
+      <category>Azure</category>
+      <category>Microsoft Foundry</category>
+      <category>Microsoft Fabric</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27688_Replit%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>HPE moves from trusted AI answers to governed action with Azure</title>
       <link>https://www.microsoft.com/en/customers/story/27658-hewlett-packard-enterprise-azure</link>
       <description>HPE uses Azure and HPE-developed AgentOps technology to move from grounded AI answers to governed agents that support business processes.</description>
@@ -579,52 +623,6 @@
       <category>Microsoft Entra ID</category>
       <category>OneLake</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27535_WECHANGE%20AI%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>University of Nottingham Malaysia boosts capacity by 48% with Microsoft Fabric</title>
-      <link>https://www.microsoft.com/en/customers/story/27566-university-of-nottingham-malaysia-microsoft-fabric</link>
-      <description>University of Nottingham Malaysia unifies its data estate on Microsoft Fabric, reclaiming 48% of analytics capacity and enabling near-daily insights.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27566-university-of-nottingham-malaysia-microsoft-fabric</guid>
-      <pubDate>Sat, 31 Oct 2026 12:00:00 +0000</pubDate>
-      <category>Education</category>
-      <category>Microsoft Fabric</category>
-      <category>OneLake</category>
-      <category>Power BI</category>
-      <category>Azure Data Factory</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27566_University%20of%20Nottingham%20Malaysia%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Fraport AG cuts new device setup from hours to 20 minutes with Windows 365</title>
-      <link>https://www.microsoft.com/en/customers/story/27549-fraport-ag-windows-365-cloud-pc</link>
-      <description>Fraport AG cut device provisioning from hours to 20 minutes with Windows 365 Cloud PCs and Intune, modernizing the Frankfurt Airport workplace.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27549-fraport-ag-windows-365-cloud-pc</guid>
-      <pubDate>Mon, 02 Nov 2026 11:59:58 +0000</pubDate>
-      <category>Automotive, Mobility, and Transportation</category>
-      <category>Windows 365 Cloud PC</category>
-      <category>Microsoft Intune Suite</category>
-      <category>Windows 365 Link</category>
-      <category>Microsoft 365</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27549_Fraport%20AG%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>WTW and Azure deliver AI insights for leading global insurers</title>
-      <link>https://www.microsoft.com/en/customers/story/27492-willis-towers-watson-azure</link>
-      <description>Built on Microsoft Azure, WTW’s Radar Vision uses AI to turn insurance data into actionable insights that drive faster, smarter decisions.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27492-willis-towers-watson-azure</guid>
-      <pubDate>Thu, 29 Oct 2026 11:59:58 +0000</pubDate>
-      <category>Financial Services</category>
-      <category>Azure</category>
-      <category>Microsoft Foundry</category>
-      <category>Azure OpenAI in Foundry Models</category>
-      <category>Azure Cosmos DB</category>
-      <category>Azure Event Hubs</category>
-      <category>Azure Functions</category>
-      <category>Azure Data Lake Storage</category>
-      <category>Azure Container Apps</category>
-      <category>Azure API Management</category>
-      <category>Azure Front Door</category>
-      <category>Azure Service Bus</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27492_Willis%20Towers%20Watson%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
