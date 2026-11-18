@@ -7,11 +7,35 @@
     <language>en</language>
     <atom:link rel="self" href="" type="application/rss+xml" />
     <item>
+      <title>Manulife turns AI leadership into everyday productivity with Microsoft 365 Copilot</title>
+      <link>https://www.microsoft.com/en/customers/story/27691-the-manufacturers-life-insurance-company-usa-microsoft-365-copilot</link>
+      <description>Manulife scales AI with Microsoft 365 Copilot, helping employees work faster, collaborate globally, and focus on higher-value work.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27691-the-manufacturers-life-insurance-company-usa-microsoft-365-copilot</guid>
+      <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
+      <category>Financial Services</category>
+      <category>Microsoft 365 Copilot</category>
+      <category>Microsoft 365</category>
+      <category>Agents</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27691_The%20Manufacturers%20Life%20Insurance%20Company%20USA%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>St. Luke’s scales trusted AI, returning approximately 260 hours to security analysts each month</title>
+      <link>https://www.microsoft.com/en/customers/story/27708-st-lukes-university-health-network-microsoft-defender</link>
+      <description>The health network secures and governs AI agents, saves approximately 260 analyst hours a month with the Security Alert Triage Agent, and uses AI to improve patient outcomes.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27708-st-lukes-university-health-network-microsoft-defender</guid>
+      <pubDate>Tue, 17 Nov 2026 11:59:59 +0000</pubDate>
+      <category>Healthcare</category>
+      <category>Microsoft Defender</category>
+      <category>Microsoft 365 E5</category>
+      <category>Microsoft Purview</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27708_St%20Lukes%20University%20Health%20Network%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Columbia Sportswear modernizes its operations and resolves production issues faster</title>
       <link>https://www.microsoft.com/en/customers/story/27690-columbia-sportswear-github-copilot</link>
       <description>Columbia Sportswear uses AI and agents across the software lifecycle to turn more good ideas into reality.</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27690-columbia-sportswear-github-copilot</guid>
-      <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
+      <pubDate>Tue, 17 Nov 2026 11:59:58 +0000</pubDate>
       <category>Retail and Consumer Goods</category>
       <category>GitHub Copilot</category>
       <category>Azure</category>
@@ -22,11 +46,26 @@
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27690_Columbia%20Sportswear%20Header%20Image" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>Willis Towers Watson powers global work with Windows 365 and Azure Virtual Desktop</title>
+      <link>https://www.microsoft.com/en/customers/story/27687-willis-towers-watson-azure-virtual-desktop</link>
+      <description>Willis Towers Watson swapped a costly, manual desktop platform for Azure Virtual Desktop and Windows 365, cutting costs and hours of IT upkeep.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27687-willis-towers-watson-azure-virtual-desktop</guid>
+      <pubDate>Tue, 17 Nov 2026 11:59:57 +0000</pubDate>
+      <category>Financial Services</category>
+      <category>Azure Virtual Desktop</category>
+      <category>Windows 365</category>
+      <category>Microsoft Intune</category>
+      <category>Windows 11</category>
+      <category>GitHub Copilot</category>
+      <category>Azure Speech in Foundry Tools</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27687_Willis%20Towers%20Watson%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Goethe-Institut scales from 1 to 50 application projects on Azure Red Hat OpenShift</title>
       <link>https://www.microsoft.com/en/customers/story/27682-goethe-institut-azure-red-hat-openshift</link>
       <description>Goethe-Institut builds business-critical core infrastructure for its digital services on Azure Red Hat OpenShift.</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27682-goethe-institut-azure-red-hat-openshift</guid>
-      <pubDate>Tue, 17 Nov 2026 11:59:59 +0000</pubDate>
+      <pubDate>Tue, 17 Nov 2026 11:59:56 +0000</pubDate>
       <category>Education</category>
       <category>Azure Red Hat OpenShift</category>
       <category>Azure NetApp Files</category>
@@ -43,7 +82,7 @@
       <link>https://www.microsoft.com/en/customers/story/27688-replit-azure</link>
       <description>Replit advances AI-native software creation with Microsoft to enable self-driving enterprises, where people direct and oversee execution by AI agents.</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27688-replit-azure</guid>
-      <pubDate>Tue, 17 Nov 2026 11:59:58 +0000</pubDate>
+      <pubDate>Tue, 17 Nov 2026 11:59:55 +0000</pubDate>
       <category>Software, Data and Platforms</category>
       <category>Azure</category>
       <category>Microsoft Foundry</category>
@@ -75,7 +114,6 @@
       <category>Software, Data and Platforms</category>
       <category>Microsoft Copilot Studio</category>
       <category>Azure AI Search</category>
-      <category>Fabric IQ</category>
       <category>SharePoint</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27675_ServiceNow%20Header%20Image" type="image/jpeg" length="0" />
     </item>
@@ -88,7 +126,6 @@
       <category>Energy and Resources</category>
       <category>Microsoft Foundry</category>
       <category>Foundry IQ</category>
-      <category>Fabric IQ</category>
       <category>Azure OpenAI in Foundry Models</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27668_Australian%20Energy%20Market%20Operator%20Limited%20Header%20Image" type="image/jpeg" length="0" />
     </item>
@@ -259,6 +296,17 @@
       <category>Microsoft Teams</category>
       <category>Microsoft 365 E3</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27574_Ortec%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>MAIRE turns engineering know-how into reusable skills with Copilot in SharePoint</title>
+      <link>https://www.microsoft.com/en/customers/story/27642-maire-microsoft-copilot</link>
+      <description>MAIRE turns engineering know-how into skills in Copilot in SharePoint, so engineers can catch missing information earlier and keep projects moving.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27642-maire-microsoft-copilot</guid>
+      <pubDate>Tue, 17 Nov 2026 11:59:54 +0000</pubDate>
+      <category>Commercial Other Industries</category>
+      <category>Microsoft Copilot</category>
+      <category>SharePoint</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27642_MAIRE%20Header%20Image" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>SAP Modernizes 100,000+ endpoints with Windows 11 and Microsoft Intune</title>
@@ -494,6 +542,18 @@
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27580_Opella%20Header%20Image" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>Enhans scales AgentOS with Microsoft to evaluate new product supply plans in minutes</title>
+      <link>https://www.microsoft.com/en/customers/story/27587-enhans-azure</link>
+      <description>With Microsoft Foundry, Enhans AgentOS helps a global multi-brand manufacturer plan new-product volumes and shipments before demand is visible.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27587-enhans-azure</guid>
+      <pubDate>Tue, 17 Nov 2026 11:59:53 +0000</pubDate>
+      <category>Software, Data and Platforms</category>
+      <category>Azure</category>
+      <category>Microsoft Foundry</category>
+      <category>Azure OpenAI in Foundry Models</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27587_Enhans%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Canterbury College teachers advance AI skills and confidence with Elevate for Educators</title>
       <link>https://www.microsoft.com/en/customers/story/27495-canterbury-college-microsoft-copilot</link>
       <description>Guided by its principal’s vision, Canterbury College is helping teachers and students gain skills in AI through Microsoft Elevate for Educators.</description>
@@ -541,88 +601,6 @@
       <category>Azure Data Factory</category>
       <category>Azure SQL Database</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27553_Hotels%20VIVA%20and%20Resorts%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title> NTT DATA develops MVPs with Microsoft Copilot Studio in Japan’s first CAD program 
-</title>
-      <link>https://www.microsoft.com/en/customers/story/27558-ntt-data-group-corporation-microsoft-365-copilot</link>
-      <description>NTT DATA Group adopted Japan’s first CAD program to quickly build practical AI agent development skills when introducing Microsoft 365 Copilot.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27558-ntt-data-group-corporation-microsoft-365-copilot</guid>
-      <pubDate>Thu, 12 Nov 2026 11:59:55 +0000</pubDate>
-      <category>Professional and Business Services</category>
-      <category>Microsoft 365 Copilot</category>
-      <category>Microsoft Copilot Studio</category>
-      <category>Microsoft Power Platform</category>
-      <category>Dataverse</category>
-      <category>Microsoft 365</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27558_NTT%20DATA%20Group%20Corporation%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Insight Enterprises puts Security Copilot to work on 1,700-plus monthly triages</title>
-      <link>https://www.microsoft.com/en/customers/story/27530-insight-enterprises-microsoft-security-copilot</link>
-      <description>Insight Enterprises uses Microsoft Security to govern AI agents at scale and help regulated organizations adopt AI securely.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27530-insight-enterprises-microsoft-security-copilot</guid>
-      <pubDate>Thu, 29 Oct 2026 12:00:00 +0000</pubDate>
-      <category>Professional and Business Services</category>
-      <category>Microsoft Security Copilot</category>
-      <category>Microsoft Sentinel</category>
-      <category>Microsoft Entra</category>
-      <category>Microsoft Purview</category>
-      <category>Microsoft Defender</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27530_Insight%20Enterprises%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Seismic scales sovereign enterprise AI globally with Linux on Azure</title>
-      <link>https://www.microsoft.com/en/customers/story/27567-seismic-linux-on-azure</link>
-      <description>Seismic scales governed, sovereign enterprise AI with Linux on Azure</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27567-seismic-linux-on-azure</guid>
-      <pubDate>Thu, 29 Oct 2026 11:59:59 +0000</pubDate>
-      <category>Professional and Business Services</category>
-      <category>Linux on Azure</category>
-      <category>Azure Kubernetes Service</category>
-      <category>Azure OpenAI in Foundry Models</category>
-      <category>Azure Document Intelligence in Foundry Tools</category>
-      <category>Azure Blob Storage</category>
-      <category>Azure Linux</category>
-      <category>Azure Virtual Machines</category>
-      <category>Azure Marketplace</category>
-      <category>Azure</category>
-      <category>Ubuntu on Azure</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27567_Seismic%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>UK Home Office drives scalable, low-code development across a complex government network with Power Platform</title>
-      <link>https://www.microsoft.com/en/customers/story/26940-home-office-power-apps</link>
-      <description>Power Platform solutions have generated almost £63 million in total benefits</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/26940-home-office-power-apps</guid>
-      <pubDate>Wed, 28 Oct 2026 12:00:00 +0000</pubDate>
-      <category>Government</category>
-      <category>Power Apps</category>
-      <category>Power BI</category>
-      <category>Power Pages</category>
-      <category>Microsoft Copilot Studio</category>
-      <category>Microsoft 365 Copilot</category>
-      <category>Microsoft Power Platform</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/26940_Home%20Office%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>WeChange.AI helps save public sector staff 2-5 hours per week with Microsoft Azure services</title>
-      <link>https://www.microsoft.com/en/customers/story/27535-wechange-ai-microsoft-365-copilot</link>
-      <description>WeChange.AI uses Microsoft Azure and Power BI to help public sector staff save up to 5 hours a week and close accessibility gaps.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27535-wechange-ai-microsoft-365-copilot</guid>
-      <pubDate>Mon, 02 Nov 2026 11:59:59 +0000</pubDate>
-      <category>Professional and Business Services</category>
-      <category>Microsoft 365 Copilot</category>
-      <category>Microsoft Fabric</category>
-      <category>Power BI</category>
-      <category>Agents</category>
-      <category>Azure</category>
-      <category>Azure Functions</category>
-      <category>Azure SQL</category>
-      <category>Azure Storage</category>
-      <category>Microsoft Entra ID</category>
-      <category>OneLake</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27535_WECHANGE%20AI%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
