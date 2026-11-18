@@ -7,23 +7,34 @@
     <language>en</language>
     <atom:link rel="self" href="" type="application/rss+xml" />
     <item>
-      <title>Manulife turns AI leadership into everyday productivity with Microsoft 365 Copilot</title>
-      <link>https://www.microsoft.com/en/customers/story/27691-the-manufacturers-life-insurance-company-usa-microsoft-365-copilot</link>
-      <description>Manulife scales AI with Microsoft 365 Copilot, helping employees work faster, collaborate globally, and focus on higher-value work.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27691-the-manufacturers-life-insurance-company-usa-microsoft-365-copilot</guid>
+      <title>SICK turns two weeks of product analysis into two minutes with Microsoft Foundry</title>
+      <link>https://www.microsoft.com/en/customers/story/27706-sick-ag-microsoft-foundry</link>
+      <description>SICK turns two weeks of product analysis into two minutes with Microsoft Foundry and Aras, helping engineers move quickly and reuse proven designs.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27706-sick-ag-microsoft-foundry</guid>
       <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
-      <category>Financial Services</category>
-      <category>Microsoft 365 Copilot</category>
-      <category>Microsoft 365</category>
-      <category>Agents</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27691_The%20Manufacturers%20Life%20Insurance%20Company%20USA%20Header%20Image" type="image/jpeg" length="0" />
+      <category>Industrials and Manufacturing</category>
+      <category>Microsoft Foundry</category>
+      <category>Azure</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27706_Sick%20AG%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Orkla Food Ingredients scales shared logistics with Dynamics 365 Supply Chain Management WMS and AI agents</title>
+      <link>https://www.microsoft.com/en/customers/story/27656-orkla-asa-dynamics-365-finance</link>
+      <description>Orkla Food Ingredients uses Dynamics 365 Supply Chain Management to share warehouse capacity across businesses, connecting new ones in minutes.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27656-orkla-asa-dynamics-365-finance</guid>
+      <pubDate>Tue, 17 Nov 2026 11:59:59 +0000</pubDate>
+      <category>Retail and Consumer Goods</category>
+      <category>Retail and Consumer Goods</category>
+      <category>Dynamics 365 Finance</category>
+      <category>Dynamics 365 Supply Chain Management</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27656_Orkla%20ASA%20Header%20Image" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>St. Luke’s scales trusted AI, returning approximately 260 hours to security analysts each month</title>
       <link>https://www.microsoft.com/en/customers/story/27708-st-lukes-university-health-network-microsoft-defender</link>
       <description>The health network secures and governs AI agents, saves approximately 260 analyst hours a month with the Security Alert Triage Agent, and uses AI to improve patient outcomes.</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27708-st-lukes-university-health-network-microsoft-defender</guid>
-      <pubDate>Tue, 17 Nov 2026 11:59:59 +0000</pubDate>
+      <pubDate>Tue, 17 Nov 2026 11:59:58 +0000</pubDate>
       <category>Healthcare</category>
       <category>Microsoft Defender</category>
       <category>Microsoft 365 E5</category>
@@ -35,7 +46,7 @@
       <link>https://www.microsoft.com/en/customers/story/27690-columbia-sportswear-github-copilot</link>
       <description>Columbia Sportswear uses AI and agents across the software lifecycle to turn more good ideas into reality.</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27690-columbia-sportswear-github-copilot</guid>
-      <pubDate>Tue, 17 Nov 2026 11:59:58 +0000</pubDate>
+      <pubDate>Tue, 17 Nov 2026 11:59:57 +0000</pubDate>
       <category>Retail and Consumer Goods</category>
       <category>GitHub Copilot</category>
       <category>Azure</category>
@@ -50,7 +61,7 @@
       <link>https://www.microsoft.com/en/customers/story/27687-willis-towers-watson-azure-virtual-desktop</link>
       <description>Willis Towers Watson swapped a costly, manual desktop platform for Azure Virtual Desktop and Windows 365, cutting costs and hours of IT upkeep.</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27687-willis-towers-watson-azure-virtual-desktop</guid>
-      <pubDate>Tue, 17 Nov 2026 11:59:57 +0000</pubDate>
+      <pubDate>Tue, 17 Nov 2026 11:59:56 +0000</pubDate>
       <category>Financial Services</category>
       <category>Azure Virtual Desktop</category>
       <category>Windows 365</category>
@@ -65,7 +76,7 @@
       <link>https://www.microsoft.com/en/customers/story/27682-goethe-institut-azure-red-hat-openshift</link>
       <description>Goethe-Institut builds business-critical core infrastructure for its digital services on Azure Red Hat OpenShift.</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27682-goethe-institut-azure-red-hat-openshift</guid>
-      <pubDate>Tue, 17 Nov 2026 11:59:56 +0000</pubDate>
+      <pubDate>Tue, 17 Nov 2026 11:59:55 +0000</pubDate>
       <category>Education</category>
       <category>Azure Red Hat OpenShift</category>
       <category>Azure NetApp Files</category>
@@ -82,7 +93,7 @@
       <link>https://www.microsoft.com/en/customers/story/27688-replit-azure</link>
       <description>Replit advances AI-native software creation with Microsoft to enable self-driving enterprises, where people direct and oversee execution by AI agents.</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27688-replit-azure</guid>
-      <pubDate>Tue, 17 Nov 2026 11:59:55 +0000</pubDate>
+      <pubDate>Tue, 17 Nov 2026 11:59:54 +0000</pubDate>
       <category>Software, Data and Platforms</category>
       <category>Azure</category>
       <category>Microsoft Foundry</category>
@@ -302,7 +313,7 @@
       <link>https://www.microsoft.com/en/customers/story/27642-maire-microsoft-copilot</link>
       <description>MAIRE turns engineering know-how into skills in Copilot in SharePoint, so engineers can catch missing information earlier and keep projects moving.</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27642-maire-microsoft-copilot</guid>
-      <pubDate>Tue, 17 Nov 2026 11:59:54 +0000</pubDate>
+      <pubDate>Tue, 17 Nov 2026 11:59:53 +0000</pubDate>
       <category>Commercial Other Industries</category>
       <category>Microsoft Copilot</category>
       <category>SharePoint</category>
@@ -546,7 +557,7 @@
       <link>https://www.microsoft.com/en/customers/story/27587-enhans-azure</link>
       <description>With Microsoft Foundry, Enhans AgentOS helps a global multi-brand manufacturer plan new-product volumes and shipments before demand is visible.</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27587-enhans-azure</guid>
-      <pubDate>Tue, 17 Nov 2026 11:59:53 +0000</pubDate>
+      <pubDate>Tue, 17 Nov 2026 11:59:52 +0000</pubDate>
       <category>Software, Data and Platforms</category>
       <category>Azure</category>
       <category>Microsoft Foundry</category>
@@ -587,20 +598,6 @@
       <category>Microsoft Viva Glint</category>
       <category>Microsoft 365 Copilot</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27573_ANDRITZ%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Hotels VIVA &amp; Resorts centralizes hotel analytics on Microsoft Fabric</title>
-      <link>https://www.microsoft.com/en/customers/story/27553-hotels-viva-and-resorts-microsoft-fabric</link>
-      <description>Hotels VIVA &amp; Resorts centralizes ERP and Azure SQL data on a Microsoft Fabric Lakehouse, automating preparation for booking and occupancy analysis.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27553-hotels-viva-and-resorts-microsoft-fabric</guid>
-      <pubDate>Fri, 30 Oct 2026 12:00:00 +0000</pubDate>
-      <category>Commercial Other Industries</category>
-      <category>Microsoft Fabric</category>
-      <category>OneLake</category>
-      <category>Power BI</category>
-      <category>Azure Data Factory</category>
-      <category>Azure SQL Database</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27553_Hotels%20VIVA%20and%20Resorts%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
