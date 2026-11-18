@@ -7,6 +7,18 @@
     <language>en</language>
     <atom:link rel="self" href="" type="application/rss+xml" />
     <item>
+      <title>Educator-made agents on Azure OpenAI grow student confidence at The Cathedral College</title>
+      <link>https://www.microsoft.com/en/customers/story/27715-the-cathedral-college-azure-openai-in-foundry-models</link>
+      <description>Educators at The Cathedral College design AI agents on Azure OpenAI that guide students’ thinking instead of doing the thinking for them.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27715-the-cathedral-college-azure-openai-in-foundry-models</guid>
+      <pubDate>Wed, 18 Nov 2026 12:00:00 +0000</pubDate>
+      <category>Education</category>
+      <category>Azure OpenAI in Foundry Models</category>
+      <category>OneNote</category>
+      <category>Microsoft Copilot</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27715_The%20Cathedral%20College%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>SICK turns two weeks of product analysis into two minutes with Microsoft Foundry</title>
       <link>https://www.microsoft.com/en/customers/story/27706-sick-ag-microsoft-foundry</link>
       <description>SICK turns two weeks of product analysis into two minutes with Microsoft Foundry and Aras, helping engineers move quickly and reuse proven designs.</description>
@@ -294,6 +306,20 @@
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27629_Zensai%20Header%20Image" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title> PFA Pension speeds access to investment data with Microsoft Fabric 
+</title>
+      <link>https://www.microsoft.com/en/customers/story/27627-pfa-pension-microsoft-fabric</link>
+      <description>PFA Pension uses Microsoft Fabric to give investment teams faster access to governed investment data on one simplified platform.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27627-pfa-pension-microsoft-fabric</guid>
+      <pubDate>Wed, 18 Nov 2026 11:59:59 +0000</pubDate>
+      <category>Financial Services</category>
+      <category>Microsoft Fabric</category>
+      <category>Power BI</category>
+      <category>Excel</category>
+      <category>Microsoft Teams</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27627_PFA%20Pension%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>ORTEC uses Microsoft 365 Copilot to turn logistics expertise into faster, trusted decisions</title>
       <link>https://www.microsoft.com/en/customers/story/27574-ortec-excel</link>
       <description>ORTEC uses Microsoft 365 Copilot and GitHub Copilot to move from information to faster, trusted decisions, with people in control.</description>
@@ -576,28 +602,6 @@
       <category>Microsoft 365</category>
       <category>Surface</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27495_Canterbury%20College%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Sitecore migrates ~1,000 databases live on Azure Managed Redis, sees significant savings</title>
-      <link>https://www.microsoft.com/en/customers/story/27572-sitecore-azure-kubernetes-service</link>
-      <description>Sitecore migrated from a Redis environment to Azure Managed Redis, reducing complexity, strengthening security, and improving availability.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27572-sitecore-azure-kubernetes-service</guid>
-      <pubDate>Wed, 04 Nov 2026 11:59:57 +0000</pubDate>
-      <category>Software, Data and Platforms</category>
-      <category>Azure Kubernetes Service</category>
-      <category>Azure Managed Redis</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27572_Sitecore%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>ANDRITZ turns employee feedback into action with Viva Glint and Microsoft 365 Copilot</title>
-      <link>https://www.microsoft.com/en/customers/story/27573-andritz-microsoft-viva-glint</link>
-      <description>ANDRITZ uses Viva Glint and Microsoft 365 Copilot to turn global employee feedback into targeted action and communication.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27573-andritz-microsoft-viva-glint</guid>
-      <pubDate>Mon, 02 Nov 2026 12:00:00 +0000</pubDate>
-      <category>Industrials and Manufacturing</category>
-      <category>Microsoft Viva Glint</category>
-      <category>Microsoft 365 Copilot</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27573_ANDRITZ%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
