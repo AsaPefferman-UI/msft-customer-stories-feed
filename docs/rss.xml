@@ -7,11 +7,39 @@
     <language>en</language>
     <atom:link rel="self" href="" type="application/rss+xml" />
     <item>
+      <title>Microsoft accelerates customer support with an agent built on Copilot Studio</title>
+      <link>https://www.microsoft.com/en/customers/story/27645-microsoft-microsoft-copilot-studio</link>
+      <description>An agent built using the Copilot harness manages three times more cases autonomously</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27645-microsoft-microsoft-copilot-studio</guid>
+      <pubDate>Wed, 18 Nov 2026 12:00:00 +0000</pubDate>
+      <category>Software, Data and Platforms</category>
+      <category>Microsoft Copilot Studio</category>
+      <category>Dynamics 365 Customer Service</category>
+      <category>Azure DevOps</category>
+      <category>Power Apps</category>
+      <category>Power Automate</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27645_Microsoft%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Golden Gate Bridge modernizes for greater control and resilience with Azure Local</title>
+      <link>https://www.microsoft.com/en/customers/story/27707-golden-gate-bridge-highway-and-transportation-district-azure-local</link>
+      <description>Golden Gate Bridge district simplifies IT with Azure Local and saves over $300,000 annually in operating expenses.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27707-golden-gate-bridge-highway-and-transportation-district-azure-local</guid>
+      <pubDate>Thu, 19 Nov 2026 12:00:00 +0000</pubDate>
+      <category>Government</category>
+      <category>Azure Local</category>
+      <category>Azure Virtual Desktop</category>
+      <category>Azure Arc</category>
+      <category>Azure Update Manager</category>
+      <category>Azure Migrate</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27707_Golden%20Gate%20Bridge%20Highway%20and%20Transportation%20District%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Educator-made agents on Azure OpenAI grow student confidence at The Cathedral College</title>
       <link>https://www.microsoft.com/en/customers/story/27715-the-cathedral-college-azure-openai-in-foundry-models</link>
       <description>Educators at The Cathedral College design AI agents on Azure OpenAI that guide students’ thinking instead of doing the thinking for them.</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27715-the-cathedral-college-azure-openai-in-foundry-models</guid>
-      <pubDate>Wed, 18 Nov 2026 12:00:00 +0000</pubDate>
+      <pubDate>Wed, 18 Nov 2026 11:59:59 +0000</pubDate>
       <category>Education</category>
       <category>Azure OpenAI in Foundry Models</category>
       <category>OneNote</category>
@@ -311,7 +339,7 @@
       <link>https://www.microsoft.com/en/customers/story/27627-pfa-pension-microsoft-fabric</link>
       <description>PFA Pension uses Microsoft Fabric to give investment teams faster access to governed investment data on one simplified platform.</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27627-pfa-pension-microsoft-fabric</guid>
-      <pubDate>Wed, 18 Nov 2026 11:59:59 +0000</pubDate>
+      <pubDate>Wed, 18 Nov 2026 11:59:58 +0000</pubDate>
       <category>Financial Services</category>
       <category>Microsoft Fabric</category>
       <category>Power BI</category>
@@ -577,31 +605,6 @@
       <category>Microsoft Foundry</category>
       <category>Azure OpenAI in Foundry Models</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27580_Opella%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Enhans scales AgentOS with Microsoft to evaluate new product supply plans in minutes</title>
-      <link>https://www.microsoft.com/en/customers/story/27587-enhans-azure</link>
-      <description>With Microsoft Foundry, Enhans AgentOS helps a global multi-brand manufacturer plan new-product volumes and shipments before demand is visible.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27587-enhans-azure</guid>
-      <pubDate>Tue, 17 Nov 2026 11:59:52 +0000</pubDate>
-      <category>Software, Data and Platforms</category>
-      <category>Azure</category>
-      <category>Microsoft Foundry</category>
-      <category>Azure OpenAI in Foundry Models</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27587_Enhans%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Canterbury College teachers advance AI skills and confidence with Elevate for Educators</title>
-      <link>https://www.microsoft.com/en/customers/story/27495-canterbury-college-microsoft-copilot</link>
-      <description>Guided by its principal’s vision, Canterbury College is helping teachers and students gain skills in AI through Microsoft Elevate for Educators.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27495-canterbury-college-microsoft-copilot</guid>
-      <pubDate>Wed, 04 Nov 2026 11:59:58 +0000</pubDate>
-      <category>Education</category>
-      <category>Microsoft Copilot</category>
-      <category>Microsoft Teams</category>
-      <category>Microsoft 365</category>
-      <category>Surface</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27495_Canterbury%20College%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
