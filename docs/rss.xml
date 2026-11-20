@@ -62,6 +62,23 @@
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27707_Golden%20Gate%20Bridge%20Highway%20and%20Transportation%20District%20Header%20Image" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>The Premier League secures AI-powered fan experiences with Microsoft Security</title>
+      <link>https://www.microsoft.com/en/customers/story/27709-premier-league-microsoft-defender</link>
+      <description>The Premier League uses Microsoft Defender to secure AI fan experiences at global scale while its security team focuses on prevention.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27709-premier-league-microsoft-defender</guid>
+      <pubDate>Fri, 20 Nov 2026 12:00:00 +0000</pubDate>
+      <category>Telecommunications and Media</category>
+      <category>Microsoft Defender</category>
+      <category>Microsoft Foundry</category>
+      <category>Azure OpenAI in Foundry Models</category>
+      <category>Microsoft Defender for Cloud</category>
+      <category>Microsoft Sentinel</category>
+      <category>Microsoft Entra</category>
+      <category>Microsoft Purview</category>
+      <category>Azure</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27709_Premier%20League%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Educator-made agents on Azure OpenAI grow student confidence at The Cathedral College</title>
       <link>https://www.microsoft.com/en/customers/story/27715-the-cathedral-college-azure-openai-in-foundry-models</link>
       <description>Educators at The Cathedral College design AI agents on Azure OpenAI that guide students’ thinking instead of doing the thinking for them.</description>
@@ -592,20 +609,6 @@
       <category>Foundry Agent Service</category>
       <category>Azure Monitor</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27513_Vylor%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title> Lifeline Loddon Mallee scales crisis support in rural communities with a united Microsoft platform </title>
-      <link>https://www.microsoft.com/en/customers/story/27522-lifeline-australia-microsoft-365</link>
-      <description>Lifeline Loddon Mallee expands to securely improve mental health in Australia through Microsoft 365, Microsoft Copilot, and Microsoft Entra.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27522-lifeline-australia-microsoft-365</guid>
-      <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
-      <category>Nonprofit and IGO</category>
-      <category>Microsoft 365</category>
-      <category>Microsoft Copilot</category>
-      <category>Power BI</category>
-      <category>Microsoft Entra</category>
-      <category>Microsoft Intune</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27522_Lifeline%20Australia%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
