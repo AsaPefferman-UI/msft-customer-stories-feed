@@ -7,6 +7,33 @@
     <language>en</language>
     <atom:link rel="self" href="" type="application/rss+xml" />
     <item>
+      <title>Arcadis scales client delivery with Microsoft Copilot Studio and Power Platform</title>
+      <link>https://www.microsoft.com/en/customers/story/27724-arcadis-microsoft-power-platform</link>
+      <description>Arcadis employees have developed more than 1,000 agents with Copilot Studio.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27724-arcadis-microsoft-power-platform</guid>
+      <pubDate>Thu, 19 Nov 2026 12:00:00 +0000</pubDate>
+      <category>Professional and Business Services</category>
+      <category>Microsoft Power Platform</category>
+      <category>Dataverse</category>
+      <category>Microsoft Copilot Studio</category>
+      <category>Microsoft 365 Copilot Chat</category>
+      <category>Microsoft Foundry</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27724_Arcadis%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>SNCB’s AI chatbot resolves over 80% of customer issues with Microsoft Azure</title>
+      <link>https://www.microsoft.com/en/customers/story/27711-nmbs-sncb-azure</link>
+      <description>SNCB is enhancing the customer travel experience with Mobi 2.0, an AI assistant that resolves over 80% of customer issues with 99% intent recognition.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27711-nmbs-sncb-azure</guid>
+      <pubDate>Thu, 19 Nov 2026 11:59:59 +0000</pubDate>
+      <category>Government</category>
+      <category>Azure</category>
+      <category>Azure OpenAI in Foundry Models</category>
+      <category>Azure Blob Storage</category>
+      <category>Azure AI Search</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27711_NMBS%20SNCB%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Microsoft accelerates customer support with an agent built on Copilot Studio</title>
       <link>https://www.microsoft.com/en/customers/story/27645-microsoft-microsoft-copilot-studio</link>
       <description>An agent built using the Copilot harness manages three times more cases autonomously</description>
@@ -25,7 +52,7 @@
       <link>https://www.microsoft.com/en/customers/story/27707-golden-gate-bridge-highway-and-transportation-district-azure-local</link>
       <description>Golden Gate Bridge district simplifies IT with Azure Local and saves over $300,000 annually in operating expenses.</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27707-golden-gate-bridge-highway-and-transportation-district-azure-local</guid>
-      <pubDate>Thu, 19 Nov 2026 12:00:00 +0000</pubDate>
+      <pubDate>Thu, 19 Nov 2026 11:59:58 +0000</pubDate>
       <category>Government</category>
       <category>Azure Local</category>
       <category>Azure Virtual Desktop</category>
@@ -179,6 +206,22 @@
       <category>Foundry IQ</category>
       <category>Azure OpenAI in Foundry Models</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27668_Australian%20Energy%20Market%20Operator%20Limited%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title> Azure Networking resolves tickets twice as fast with digital workers 
+</title>
+      <link>https://www.microsoft.com/en/customers/story/27646-microsoft-azure</link>
+      <description>Azure Networking uses digital workers to resolve incidents faster, cutting ticket resolution time in half and reducing manual toil by more than 78%.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27646-microsoft-azure</guid>
+      <pubDate>Thu, 19 Nov 2026 11:59:57 +0000</pubDate>
+      <category>Telecommunications and Media</category>
+      <category>Azure</category>
+      <category>Microsoft Foundry</category>
+      <category>Microsoft Fabric</category>
+      <category>Microsoft Teams</category>
+      <category>Azure Networking</category>
+      <category>Agents</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27646_Microsoft%20Header%20Image" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>PLDT improves service experience with Amdocs, Microsoft Dynamics 365, and Azure</title>
@@ -565,46 +608,6 @@
       <category>Foundry Agent Service</category>
       <category>Azure Monitor</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27513_Vylor%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title> Lifeline Loddon Mallee scales crisis support in rural communities with a united Microsoft platform </title>
-      <link>https://www.microsoft.com/en/customers/story/27522-lifeline-australia-microsoft-365</link>
-      <description>Lifeline Loddon Mallee expands to securely improve mental health in Australia through Microsoft 365, Microsoft Copilot, and Microsoft Entra.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27522-lifeline-australia-microsoft-365</guid>
-      <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
-      <category>Nonprofit and IGO</category>
-      <category>Microsoft 365</category>
-      <category>Microsoft Copilot</category>
-      <category>Power BI</category>
-      <category>Microsoft Entra</category>
-      <category>Microsoft Intune</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27522_Lifeline%20Australia%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Vylor builds a governed agentic AI knowledge framework on Microsoft Foundry in 6 months</title>
-      <link>https://www.microsoft.com/en/customers/story/27512-vylor-microsoft-foundry</link>
-      <description>Fortune 500 global agriscience business deploys governed, responsible AI framework to contain AI sprawl and accelerate innovation.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27512-vylor-microsoft-foundry</guid>
-      <pubDate>Wed, 04 Nov 2026 11:59:59 +0000</pubDate>
-      <category>Industrials and Manufacturing</category>
-      <category>Microsoft Foundry</category>
-      <category>Azure</category>
-      <category>Azure Blob Storage</category>
-      <category>SharePoint</category>
-      <category>Microsoft Entra</category>
-      <category>Power BI</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27512_Vylor%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Opella: a Frontier Firm scaling health content with Microsoft Foundry</title>
-      <link>https://www.microsoft.com/en/customers/story/27580-opella-microsoft-foundry</link>
-      <description>Opella is scaling credible health content with Microsoft Foundry and Azure. Its AI-supported content operation has increased production 30-fold, while Lumen’s 14 specialized agents help experts review content and retain final approval.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27580-opella-microsoft-foundry</guid>
-      <pubDate>Thu, 05 Nov 2026 11:59:58 +0000</pubDate>
-      <category>Healthcare</category>
-      <category>Microsoft Foundry</category>
-      <category>Azure OpenAI in Foundry Models</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27580_Opella%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
