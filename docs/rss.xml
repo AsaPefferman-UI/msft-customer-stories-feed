@@ -208,22 +208,6 @@
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27668_Australian%20Energy%20Market%20Operator%20Limited%20Header%20Image" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title> Azure Networking resolves tickets twice as fast with digital workers 
-</title>
-      <link>https://www.microsoft.com/en/customers/story/27646-microsoft-azure</link>
-      <description>Azure Networking uses digital workers to resolve incidents faster, cutting ticket resolution time in half and reducing manual toil by more than 78%.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27646-microsoft-azure</guid>
-      <pubDate>Thu, 19 Nov 2026 11:59:57 +0000</pubDate>
-      <category>Telecommunications and Media</category>
-      <category>Azure</category>
-      <category>Microsoft Foundry</category>
-      <category>Microsoft Fabric</category>
-      <category>Microsoft Teams</category>
-      <category>Azure Networking</category>
-      <category>Agents</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27646_Microsoft%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
       <title>PLDT improves service experience with Amdocs, Microsoft Dynamics 365, and Azure</title>
       <link>https://www.microsoft.com/en/customers/story/27670-philippine-long-distance-telephone-company-azure</link>
       <description>PLDT replaced its end-of-life ticketing system with the Amdocs and Microsoft platform, cutting resolution times and unifying service operations.</description>
@@ -608,6 +592,20 @@
       <category>Foundry Agent Service</category>
       <category>Azure Monitor</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27513_Vylor%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title> Lifeline Loddon Mallee scales crisis support in rural communities with a united Microsoft platform </title>
+      <link>https://www.microsoft.com/en/customers/story/27522-lifeline-australia-microsoft-365</link>
+      <description>Lifeline Loddon Mallee expands to securely improve mental health in Australia through Microsoft 365, Microsoft Copilot, and Microsoft Entra.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27522-lifeline-australia-microsoft-365</guid>
+      <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
+      <category>Nonprofit and IGO</category>
+      <category>Microsoft 365</category>
+      <category>Microsoft Copilot</category>
+      <category>Power BI</category>
+      <category>Microsoft Entra</category>
+      <category>Microsoft Intune</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27522_Lifeline%20Australia%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
