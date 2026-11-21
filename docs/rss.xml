@@ -7,6 +7,22 @@
     <language>en</language>
     <atom:link rel="self" href="" type="application/rss+xml" />
     <item>
+      <title>Zurich reaches 93% Copilot adoption to better serve customers with Microsoft AI</title>
+      <link>https://www.microsoft.com/en/customers/story/27751-zurich-schweiz-microsoft-365</link>
+      <description>Zurich’s 10,000+ North America employees use Microsoft Copilot with 93% adoption, 1 million+ monthly prompts, and 20% fewer Service Desk tickets.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27751-zurich-schweiz-microsoft-365</guid>
+      <pubDate>Fri, 20 Nov 2026 12:00:00 +0000</pubDate>
+      <category>Financial Services</category>
+      <category>Microsoft 365</category>
+      <category>Microsoft 365 Copilot</category>
+      <category>Microsoft Purview</category>
+      <category>Outlook</category>
+      <category>Microsoft Teams</category>
+      <category>Word</category>
+      <category>Excel</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27751_Zurich%20Schweiz%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Arcadis scales client delivery with Microsoft Copilot Studio and Power Platform</title>
       <link>https://www.microsoft.com/en/customers/story/27724-arcadis-microsoft-power-platform</link>
       <description>Arcadis employees have developed more than 1,000 agents with Copilot Studio.</description>
@@ -66,7 +82,7 @@
       <link>https://www.microsoft.com/en/customers/story/27709-premier-league-microsoft-defender</link>
       <description>The Premier League uses Microsoft Defender to secure AI fan experiences at global scale while its security team focuses on prevention.</description>
       <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27709-premier-league-microsoft-defender</guid>
-      <pubDate>Fri, 20 Nov 2026 12:00:00 +0000</pubDate>
+      <pubDate>Fri, 20 Nov 2026 11:59:59 +0000</pubDate>
       <category>Telecommunications and Media</category>
       <category>Microsoft Defender</category>
       <category>Microsoft Foundry</category>
@@ -585,30 +601,6 @@
       <category>Software, Data and Platforms</category>
       <category>Azure SQL Database</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27599_Docusign%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Vylor cuts AI use-case setup from weeks to under 4 hours with Microsoft Foundry</title>
-      <link>https://www.microsoft.com/en/customers/story/27513-vylor-microsoft-foundry</link>
-      <description>Fortune 500 global agriscience business deploys governed AI framework to contain AI sprawl and accelerate innovation.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27513-vylor-microsoft-foundry</guid>
-      <pubDate>Thu, 05 Nov 2026 11:59:59 +0000</pubDate>
-      <category>Industrials and Manufacturing</category>
-      <category>Microsoft Foundry</category>
-      <category>Azure</category>
-      <category>Microsoft Entra</category>
-      <category>Azure Blob Storage</category>
-      <category>SharePoint</category>
-      <category>OneDrive</category>
-      <category>Azure Cosmos DB</category>
-      <category>Azure Databricks</category>
-      <category>Azure AI Search</category>
-      <category>Power BI</category>
-      <category>Azure Virtual Network</category>
-      <category>Azure DevOps</category>
-      <category>Azure Application Gateway</category>
-      <category>Foundry Agent Service</category>
-      <category>Azure Monitor</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27513_Vylor%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
