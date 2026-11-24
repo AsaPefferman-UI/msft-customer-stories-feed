@@ -37,6 +37,23 @@
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27751_Zurich%20Schweiz%20Header%20Image" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>Bedford County Sheriff's Office secures 25 years of casework on Azure to protect kids</title>
+      <link>https://www.microsoft.com/en/customers/story/27703-bedford-county-sheriffs-office-azure</link>
+      <description>With partner CloudFit Software, a Virginia task force protects decades of child exploitation evidence, and the investigators who handle it, on Azure.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27703-bedford-county-sheriffs-office-azure</guid>
+      <pubDate>Tue, 24 Nov 2026 12:00:00 +0000</pubDate>
+      <category>Government</category>
+      <category>Azure</category>
+      <category>Azure Virtual Machines</category>
+      <category>Azure Kubernetes Service</category>
+      <category>Microsoft Sentinel</category>
+      <category>Azure Blob Storage</category>
+      <category>Azure VPN Gateway</category>
+      <category>Microsoft Entra ID</category>
+      <category>Azure Monitor</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27703_Bedford%20County%20Sheriffs%20Office%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Arcadis scales client delivery with Microsoft Copilot Studio and Power Platform</title>
       <link>https://www.microsoft.com/en/customers/story/27724-arcadis-microsoft-power-platform</link>
       <description>Arcadis employees have developed more than 1,000 agents with Copilot Studio.</description>
@@ -584,25 +601,6 @@
       <category>Power BI</category>
       <category>Microsoft Fabric</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27617_Parks%20and%20Resorts%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Forefront Dermatology cuts manual reporting 85% with Microsoft Fabric and Formula5</title>
-      <link>https://www.microsoft.com/en/customers/story/27604-forefront-dermatology-microsoft-fabric</link>
-      <description>A 300-clinic dermatology network cut manual reporting 85% and built an AI-ready foundation on Microsoft Fabric with Formula5.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27604-forefront-dermatology-microsoft-fabric</guid>
-      <pubDate>Fri, 06 Nov 2026 12:00:00 +0000</pubDate>
-      <category>Healthcare</category>
-      <category>Microsoft Fabric</category>
-      <category>Power BI</category>
-      <category>Azure Virtual Desktop</category>
-      <category>Microsoft Entra ID</category>
-      <category>Microsoft Purview</category>
-      <category>Microsoft Entra ID Protection</category>
-      <category>Microsoft Sentinel</category>
-      <category>Microsoft Defender</category>
-      <category>Microsoft Power Platform</category>
-      <category>Microsoft 365 Copilot</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27604_Forefront%20Dermatology%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
