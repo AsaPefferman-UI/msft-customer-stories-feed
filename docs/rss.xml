@@ -7,6 +7,20 @@
     <language>en</language>
     <atom:link rel="self" href="" type="application/rss+xml" />
     <item>
+      <title>Softcat modernizes selling with Dynamics 365 Sales and AI agents</title>
+      <link>https://www.microsoft.com/en/customers/story/27758-softcat-plc-microsoft-365-copilot</link>
+      <description>Softcat replaced a 25-year-old CRM with Dynamics 365 Sales and AI agents to give sellers more time with customers.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27758-softcat-plc-microsoft-365-copilot</guid>
+      <pubDate>Mon, 23 Nov 2026 12:00:00 +0000</pubDate>
+      <category>Professional and Business Services</category>
+      <category>Microsoft 365 Copilot</category>
+      <category>Microsoft Copilot Studio</category>
+      <category>Microsoft Teams</category>
+      <category>Microsoft Power Platform</category>
+      <category>Dynamics 365 Sales</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27758_Softcat%20plc%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Zurich reaches 93% Copilot adoption to better serve customers with Microsoft AI</title>
       <link>https://www.microsoft.com/en/customers/story/27751-zurich-schweiz-microsoft-365</link>
       <description>Zurich’s 10,000+ North America employees use Microsoft Copilot with 93% adoption, 1 million+ monthly prompts, and 20% fewer Service Desk tickets.</description>
@@ -239,6 +253,22 @@
       <category>Foundry IQ</category>
       <category>Azure OpenAI in Foundry Models</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27668_Australian%20Energy%20Market%20Operator%20Limited%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title> Azure Networking resolves tickets twice as fast with digital workers 
+</title>
+      <link>https://www.microsoft.com/en/customers/story/27646-microsoft-azure</link>
+      <description>Azure Networking uses digital workers to resolve incidents faster, cutting ticket resolution time in half and reducing manual toil by more than 78%.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27646-microsoft-azure</guid>
+      <pubDate>Thu, 19 Nov 2026 11:59:57 +0000</pubDate>
+      <category>Telecommunications and Media</category>
+      <category>Azure</category>
+      <category>Microsoft Foundry</category>
+      <category>Microsoft Fabric</category>
+      <category>Microsoft Teams</category>
+      <category>Azure Networking</category>
+      <category>Agents</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27646_Microsoft%20Header%20Image" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>PLDT improves service experience with Amdocs, Microsoft Dynamics 365, and Azure</title>
@@ -573,34 +603,6 @@
       <category>Microsoft Power Platform</category>
       <category>Microsoft 365 Copilot</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27604_Forefront%20Dermatology%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>WTW builds an agent platform on Microsoft Agent Framework, saving tens of thousands of hours</title>
-      <link>https://www.microsoft.com/en/customers/story/27598-willis-towers-watson-microsoft-foundry</link>
-      <description>WTW built an agent platform on Microsoft Foundry and Microsoft Agent Framework that automates workflows and keeps humans in the lead, saving tens of thousands of hours.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27598-willis-towers-watson-microsoft-foundry</guid>
-      <pubDate>Thu, 05 Nov 2026 12:00:00 +0000</pubDate>
-      <category>Financial Services</category>
-      <category>Microsoft Foundry</category>
-      <category>Foundry Agent Service</category>
-      <category>Azure Container Apps</category>
-      <category>Azure Container Registry</category>
-      <category>Azure Service Bus</category>
-      <category>Azure Cosmos DB</category>
-      <category>Azure Key Vault</category>
-      <category>Microsoft Teams</category>
-      <category>Microsoft Entra ID</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27598_Willis%20Towers%20Watson%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Docusign modernizes its eSignature data platform and builds an AI-ready future with Azure SQL</title>
-      <link>https://www.microsoft.com/en/customers/story/27599-docusign-azure-sql-database</link>
-      <description>Docusign modernized its core eSignature databases with Microsoft Azure SQL to speed up transactions and scale on demand for over a billion users.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27599-docusign-azure-sql-database</guid>
-      <pubDate>Thu, 12 Nov 2026 11:59:56 +0000</pubDate>
-      <category>Software, Data and Platforms</category>
-      <category>Azure SQL Database</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27599_Docusign%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
