@@ -7,6 +7,18 @@
     <language>en</language>
     <atom:link rel="self" href="" type="application/rss+xml" />
     <item>
+      <title>Digital Platform for Attorneys replaces manual exports with Microsoft Fabric</title>
+      <link>https://www.microsoft.com/en/customers/story/27671-dpa-microsoft-fabric</link>
+      <description>DP-A replaces hand-built Excel exports with a greenfield Microsoft Fabric platform linking accounting, time registration and project data.</description>
+      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27671-dpa-microsoft-fabric</guid>
+      <pubDate>Fri, 27 Nov 2026 12:00:00 +0000</pubDate>
+      <category>Software, Data and Platforms</category>
+      <category>Microsoft Fabric</category>
+      <category>Azure DevOps</category>
+      <category>SharePoint</category>
+      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27671_DPA%20Header%20Image" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Softcat modernizes selling with Dynamics 365 Sales and AI agents</title>
       <link>https://www.microsoft.com/en/customers/story/27758-softcat-plc-microsoft-365-copilot</link>
       <description>Softcat replaced a 25-year-old CRM with Dynamics 365 Sales and AI agents to give sellers more time with customers.</description>
@@ -591,17 +603,6 @@
       <category>Microsoft 365 Copilot</category>
       <category>Microsoft Entra ID</category>
       <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27606_Imperial%20Heritage%20Caviar%20Header%20Image" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Parks and Resorts grows data adoption fivefold at flat cost with Microsoft Fabric</title>
-      <link>https://www.microsoft.com/en/customers/story/27617-parks-and-resorts-power-bi</link>
-      <description>Parks and Resorts grows report users fivefold on Microsoft Fabric at flat cost, bringing data to its seasonal park workforce.</description>
-      <guid isPermaLink="true">https://www.microsoft.com/en/customers/story/27617-parks-and-resorts-power-bi</guid>
-      <pubDate>Tue, 10 Nov 2026 12:00:00 +0000</pubDate>
-      <category>Government</category>
-      <category>Power BI</category>
-      <category>Microsoft Fabric</category>
-      <enclosure url="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/27617_Parks%20and%20Resorts%20Header%20Image" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
